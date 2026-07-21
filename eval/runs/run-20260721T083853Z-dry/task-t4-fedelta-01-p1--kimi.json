@@ -1,0 +1,14 @@
+{
+  "prompt_id": "task:t4-fedelta-01-p1",
+  "prompt_file": "../prompts/tasks/t4-fedelta-01-p1.md",
+  "prompt_versione": "1",
+  "task": "fedelta-citazione",
+  "modello": "moonshotai/kimi-k2.6",
+  "prompt_sha256": "92eee7f4d85335f94981ed51cad49c7374ec7577138c267e6688b700ceb6d59d",
+  "snapshot_sha256": "0437f62414caf47e8e8d494aba61e44e32887f9e8b4015f68351c3667393058e",
+  "timestamp_utc": "2026-07-21T08:38:53.722477+00:00",
+  "stato": "dry_run",
+  "output": null,
+  "usage": null,
+  "latency_ms": null
+}

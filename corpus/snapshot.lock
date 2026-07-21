@@ -2,4 +2,21 @@
 # formato: <id>\t<sha256 del sorgente scaricato>\t<data_fetch ISO>
 # Rigenerato dagli script di ingest; ogni riga corrisponde a una pagina in 01-markdown/.
 # Senza congelamento e hash il corpus deriva e i risultati non sono riproducibili.
+urn:nir:stato:decreto.legislativo:2023-03-31;36~art1	5757967b191dae82cc81ffe2e7265452d5d7fd0400632e93526fd884301dae3c	2026-07-21
+urn:nir:stato:decreto.legislativo:2023-03-31;36~art10	bc34d958d4ac8edc8d7e639c1e70d5c70d7c684daac6b53ced252d1b286aed3d	2026-07-21
+urn:nir:stato:decreto.legislativo:2023-03-31;36~art100	d9b3b07ee634e4f8f7c3ba5e8dfb3e035b3a8d545b11576991d2015d58d40b35	2026-07-21
 urn:nir:stato:decreto.legislativo:2023-03-31;36~art101	4809e5d34e7d566f000b2505e6088401c99ccd73b5ceaa2e09c80bcdfbefec37	2026-07-21
+urn:nir:stato:decreto.legislativo:2023-03-31;36~art102	4d3da22ccd98e2e4e5e28946ff3bd5868de644a000b89be9018ca3cb6f27e01f	2026-07-21
+urn:nir:stato:decreto.legislativo:2023-03-31;36~art104	427ade885bd1c881522f1978c7ae2e2ffe6aa997134c043d42ce3a90fc8b2940	2026-07-21
+urn:nir:stato:decreto.legislativo:2023-03-31;36~art106	51607226b5d0b80ecd84bb569440d9f398cfdd2bd8da00b31540098f44858c17	2026-07-21
+urn:nir:stato:decreto.legislativo:2023-03-31;36~art107	2211b2748276b773eeed071a75556e08f211a951c59576a20cb88f1ca432b72b	2026-07-21
+urn:nir:stato:decreto.legislativo:2023-03-31;36~art108	11734f9f0560a4d7c76a5473304e1bc90ee30744eef6b1eb1c1093d10c10a078	2026-07-21
+urn:nir:stato:decreto.legislativo:2023-03-31;36~art2	b969ec8ad3495e8a4765a265dd3512deba93d5b95032e36832a1573cc86009fe	2026-07-21
+urn:nir:stato:decreto.legislativo:2023-03-31;36~art4	80dbf6f4fa1ce5c07d6074df27865cc6b88c30f302a2610f9601c00634ad56e0	2026-07-21
+urn:nir:stato:decreto.legislativo:2023-03-31;36~art91	d0df55db1af9c55aa825bb4a7be1982b1e4151b7f29ce26496d6d751a346cd49	2026-07-21
+urn:nir:stato:decreto.legislativo:2023-03-31;36~art94	01d1b2f366cc0efea7afd2d7e1f6ff50352f2507381bd6262da15c8ff9eee775	2026-07-21
+urn:nir:stato:decreto.legislativo:2023-03-31;36~art95	c88386c5b611585b3b86e21045245302aa304e52f7f1e5386f47ce94a0d23fd2	2026-07-21
+urn:nir:stato:decreto.legislativo:2023-03-31;36~art96	e6da3ccca87de78a48d5f9e6cce1cc6287025ce6fdac931d5b49f7e48fa30640	2026-07-21
+urn:nir:stato:decreto.legislativo:2023-03-31;36~art97	95722c083703188827778892ffa37a8f83bc53de174b8aafb5789c3d58230699	2026-07-21
+urn:nir:stato:decreto.legislativo:2023-03-31;36~art98	6a8ea45b210a2f712a1c0427f0cfff6a81aedb5be33a09d771384fac5a9d86b5	2026-07-21
+urn:nir:stato:decreto.legislativo:2023-03-31;36~art99	69fd11075b2fe493f239e18a65565f41151163d3ec9ea8ffd1eaa641168b20bc	2026-07-21
