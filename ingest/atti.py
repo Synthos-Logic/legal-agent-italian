@@ -96,6 +96,8 @@ def build_page(doc_id, corpo, args, hash_sorgente, data_fetch):
         f'massima: "{args.massima}"',
         f"figura_soccorso: {args.figura}",
     ]
+    if getattr(args, "ecli_portale", None):
+        frontmatter.append(f'ecli_portale: "{args.ecli_portale}"')
     if args.cross_ref:
         frontmatter.append("cross_ref:")
         frontmatter += [f'  - "{r}"' for r in args.cross_ref]
@@ -123,6 +125,10 @@ def main(argv=None):
     parser.add_argument("--fonte", required=True, help="URL fonte ufficiale")
     parser.add_argument("--massima", default="", help="massima/principio (campo di recupero)")
     parser.add_argument("--figura", default="nessuna", choices=FIGURE_SOCCORSO)
+    parser.add_argument(
+        "--ecli-portale", dest="ecli_portale", default="",
+        help="ECLI originale del portale GA (con suffisso tipo atto, es. 7870SENT)",
+    )
     parser.add_argument("--cross-ref", nargs="*", default=[], dest="cross_ref")
     args = parser.parse_args(argv)
     try:

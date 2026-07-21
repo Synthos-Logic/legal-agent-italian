@@ -1,0 +1,265 @@
+---
+id: "ECLI:IT:CDS:2023:7870"
+tipo: decisione
+titolo: "Cons. Stato, Sez. V, 21.08.2023, n. 7870"
+fonte_ufficiale: "https://mdp.giustizia-amministrativa.it/visualizza/?nodeRef=&schema=cds&nrg=202208046&nomeFile=202307870_11.html&subDir=Provvedimenti"
+data_documento: 2023-08-21
+lingua: it
+hash_sha256: "d7bb2e25fc0b96e8c6c18201dcfd6cb508e5b0b9af3f8554af1b96e8d60d7f36"
+data_fetch: 2026-07-21
+dominio: appalti
+massima: "Leading case: delinea le quattro figure del soccorso ex art. 101 e conferma l'insoccorribilita' degli elementi dell'offerta."
+figura_soccorso: nessuna
+ecli_portale: "ECLI:IT:CDS:2023:7870SENT"
+cross_ref:
+  - "urn:nir:stato:decreto.legislativo:2023-03-31;36~art101"
+---
+
+# Cons. Stato, Sez. V, 21.08.2023, n. 7870
+
+N. 07870/2023REG.PROV.COLL.
+
+N. 08046/2022 REG.RIC.
+
+<img src="stemma.jpg" data-border="0" />
+
+REPUBBLICA ITALIANA
+
+IN NOME DEL POPOLO ITALIANO
+
+Il Consiglio di Stato
+
+in sede giurisdizionale (Sezione Quinta)
+
+ha pronunciato la presente
+
+SENTENZA
+
+sul ricorso numero di registro generale 8046 del 2022, proposto da\
+Datamanagement Italia S.p.A., in persona del legale rappresentante *pro tempore*, in relazione alla procedura CIG 91011488EA, rappresentata e difesa dagli avvocati Antonio Lirosi, Marco Martinelli e Matteo Padellaro, con domicilio digitale come da registri di Giustizia;\
+
+contro
+
+Ministero della Giustizia, in persona del Ministro *pro tempore*, rappresentato e difeso dall'Avvocatura Generale dello Stato, domiciliataria *ex lege* in Roma, alla via dei Portoghesi, n. 12;\
+
+nei confronti
+
+Fdm Business Services S.r.l., in persona del legale rappresentante *pro tempore*, rappresentata e difesa dagli avvocati Nicola Creuso, Mario Esposito e Nicola De Zan, con domicilio digitale come da registri di Giustizia;\
+Celda P.A. S.r.l., Selecta Digital S.p.A., non costituite in giudizio;\
+
+per la riforma
+
+della sentenza in forma semplificata del Tribunale Amministrativo Regionale per il Lazio – Roma, sez. I, n. 13055/2022, resa tra le parti
+
+\
+
+Visti il ricorso in appello e i relativi allegati;
+
+Visti gli atti di costituzione in giudizio del Ministero della Giustizia e di Fdm Business Services S.r.l.;
+
+Visti tutti gli atti della causa;
+
+Relatore nell'udienza pubblica del giorno 27 aprile 2023 il Cons. Giovanni Grasso e uditi per le parti gli avvocati Marinelli, Giorgiani, in dichiarata delega degli avvocati Creuso, Esposito e De Zan, e l’avvocato dello Stato Fedeli;
+
+Ritenuto e considerato in fatto e diritto quanto segue.
+
+\
+
+FATTO
+
+1.- Con atto di determina a contrarre ed indizione procedura negoziata prot. n. 1013.ID del 16 febbraio 2022, il Ministero della Giustizia, previa acquisizione del parere emesso dall’Agenzia per l’Italia Digitale, indiceva una procedura negoziata, senza previa pubblicazione del bando di gara, ai sensi dell’art. 63 d. lgs. n. 50/2016, finalizzata all’affidamento del servizio di “*digitalizzazione dei fascicoli giudiziari, ibridi e cartacei*”, iscritti negli anni 2016-2026, di Tribunali, Corti d’Appello e Suprema Corte di cassazione, da aggiudicare con il criterio del minor prezzo.
+
+L’appalto era suddiviso in quindici lotti, di cui quattordici a carattere territoriale e uno (segnatamente, il lotto n. 15) di natura funzionale, per i processi di legittimità della Corte Suprema di Cassazione.
+
+Per quanto di interesse ai fini della presente lite, il capitolato speciale di gara, in conformità al relativo disciplinare, richiedeva, relativamente ai requisiti di partecipazione e con specifico riferimento alle figure del “*responsabile unico*” e del “*coordinatore*” del servizio, il possesso di laurea magistrale in discipline tecnico-scientifiche, economico-gestionali “*o equivalenti*” (cfr. art. 7.1.).
+
+Peraltro, a riscontro di apposito quesito sul punto (n. 46), la stazione appaltante, nel fornire analitica indicazione delle lauree considerate “*equivalenti*”, specificava che sarebbero state ritenute idonee anche quelle “*equipollenti*”, in ordine alle quali sarebbe stata “*applicata la normativa specifica che definisce la equipollenza dei titoli accademici*”.
+
+Era, quindi, previsto, che, ai fini della partecipazione, ogni operatore economico avrebbe dovuto “*presentare obbligatoriamente in fase di offerta i curricula anonimi delle risorse individuate quali Coordinatori del servizio di acquisizione documentale per ciascun distretto giudiziario e di un Responsabile del servizio per lotto*”.
+
+2.- Alla gara partecipava, tra gli altri operatori concorrenti, anche l’appellante Datamanagement Italia S.p.A., nei cui confronti – con verbale del 5 aprile 2022 – il RUP attivava il procedimento di soccorso istruttorio, sollecitando “*chiarimenti in merito all’associazione dei curricula presentati in ciascuna offerta per ogni lotto*” e chiedendo altresì “*di far pervenire dichiarazione di equipollenza dei titoli di studio conseguiti all’estero, indicati nei C.V.*”.
+
+A riscontro, la società rappresentava, relativamente al lotto n. 15, che il dipendente individuato con il “*CV 04*”, all’uopo individuato, aveva conseguito un titolo di studio “*Tecnico Scientifico*” (come richiesto dall’art. 7.1 del Capitolato) in altro Paese dell’UE (nello specifico, si trattava della laurea in “*Ingegneria Meccanica”* conseguita in Romania), non corredato, tuttavia, di dichiarazione di equipollenza.
+
+3\. Con determinazione del 2 agosto 2022, il RUP disponeva, di conserva, l’esclusione di Data Management dalla gara, sul motivato rilievo che “*per il curriculum del Responsabile del servizio del lotto 15 la laurea dichiarata nel CV depositato in sede di offerta* \[fosse\] *una laurea estera per cui non* \[era\] *mai stata richiesta la dichiarazione di equipollenza al Consolato*”, e che “*trattandosi di requisito di partecipazione relativo alla capacità tecnico professionale, come indicato al punto 8.3 del Disciplinare di gara, il mancato possesso* \[…\] *non* \[fosse\] *sanabile con soccorso istruttorio*”.
+
+4.- Il provvedimento di esclusione era impugnato con ricorso proposto presso il TAR per il Lazio – Roma, che, con sentenza n. 13055/2022, resa nel rituale contraddittorio delle parti, lo respingeva, sul complessivo ed argomentato assunto: *a*) che, ai sensi della l. n. 148/2002, per il conferimento di valore legale ai titoli di studio conseguiti all’estero, fossero in ogni caso necessari la richiesta ed il conseguimento della prevista attestazione di equipollenza; *b*) che, trattandosi di un requisito di partecipazione relativo alla capacità tecnico professionale, l’omissione non fosse suscettibile di sanatoria in grazia di soccorso istruttorio, in ragione del principio di immodificabilità dell’offerta.
+
+5.- Con atto di appello, proposto nelle forme e nei tempi di rito, Data Management s.p.a. impugna la ridetta statuizione, di cui assume la complessiva erroneità ed ingiustizia, auspicandone l’integrale riforma.
+
+Si sono costituiti, in resistenza, il Ministero della giustizia e la controinteressata Fdm Business Services S.r.l., in proprio e nella qualità di capogruppo mandataria del costituendo raggruppamento temporaneo di impresa.
+
+Alla pubblica udienza del 27 aprile 2023, sulle reiterate conclusioni delle parti, la causa è stata riservata per la decisione.
+
+DIRITTO
+
+1.- L’appello non è fondato e merita di essere respinto.
+
+2.- Con un primo, articolato motivo di censura, l’appellante si duole di *error in judicando*, avuto riguardo alla reiezione del primo motivo del ricorso di prime cure e dei relativi motivi aggiunti, segnatamente lamentando: *a*) violazione e falsa applicazione del diritto UE in relazione al meccanismo dell’eterointegrazione, dell’art. 60 della Direttiva 2014/24/UE e dell’Allegato XII, parte II, lett. *f*), della l. n. 148/02 e del D.P.R. 189/09, degli artt. 1 della l. 241/90, 30, 83 e 86 e Allegato XVII, parte II, lett. f), del Codice, 7.1 del Capitolato; *b*) violazione dei principi di ragionevolezza e proporzionalità, legittimo affidamento, *clare loqui*, tassatività e interpretazione restrittiva delle cause di esclusione, del *favor partecipationis*; *c*) eccesso di potere per illogicità, contraddittorietà intrinseca, manifesta arbitrarietà, travisamento ed erronea valutazione dei presupposti in fatto e in diritto; *d*) violazione della funzione dei chiarimenti nelle procedure comparative.
+
+2.1.- Sotto un primo profilo critico, assume anzitutto che in alcuna parte della *lex specialis* fosse richiesta (né tampoco presidiata da espressa clausola espulsiva) la pretesa dichiarazione di equipollenza del titolo di studio conseguito all’estero.
+
+Invero, il *tenore letterale* dell’art. 7 del capitolato tecnico, dedicato al “*Gruppo di lavoro*”, era complessivamente orientato nel senso di delineare una figura di “*responsabile unico*” del servizio “*idoneo allo svolgimento delle mansioni richieste*” e in possesso delle qualifiche professionali “*minime*” indicate nell’apposita sezione, in ordine alle quali l’art. 7.1 – relativamente al requisito del “*titolo di studio*” – richiedeva, in asserita coerenza con il vincolante canone pro-concorrenziale, esclusivamente il “*Possesso di laurea magistrale in discipline tecniche-scientifiche, economico-gestionali o equivalenti*”, nessun cenno essendo fatto alla necessità di produrre (“*anche*”) una dichiarazione di equipollenza del titolo di studio, conforme alle predette discipline, ove conseguito in altro Stato membro UE.
+
+Era stato, appunto, legittimamente confidando, per tal via, nel delineato ed asseritamente inequivoco contesto regolatorio, che l’appellante, in ossequio all’art. 8.3 del disciplinare, aveva dichiarato, nel corpo del DGUE, di disporre di risorse in possesso dei requisiti capitolari, producendo, come “*mezzo di prova*”, il “C\[urriculum\] V\[itae\] *04*”, rispondente a tutte le qualifiche professionali “*minime*” previste per la figura del responsabile unico, tra cui il “*titolo di studio*” della “*laurea magistrale in discipline tecniche-scientifiche*”, conseguita presso il Politecnico di Bucarest.
+
+D’altra parte, argomenta, se l’art. 7.1 del capitolato avesse *espressamente* richiesto – in ossequio all’obbligo di *clare loqui,* particolarmente pervasivo trattandosi di enucleare il tratto di clausole espulsive – una (formale) dichiarazione di equipollenza dei titoli di studio, la società sarebbe stata perfettamente in grado di indicare, ove le fosse stato consentito in via di doveroso soccorso, la risorsa (posseduta da un proprio dipendente alla data di scadenza del termine di presentazione delle offerte) cui era associato il “*CV 13*”: il quale dipendente, oltre ad avere tutti i requisiti richiesti, vantava il titolo di studio “*nazionale*” della Laurea in Economia e Commercio conseguita presso l’Università degli Studi di Napoli “Federico II”.
+
+2.2.- Sotto un secondo, concorrente profilo censorio, l’appellante assume, che la richiesta di una dichiarazione di equipollenza per i titoli di studio conseguiti all’estero si porrebbe, anche in una prospettiva *di ordine logico-sistematico* (e, quindi, di là dal mero dato *formale* e *letterale*) in palese contrasto con la *lex specialis*.
+
+A suo dire, l’art. 7.1 del capitolato si era limitato ad indicare soltanto “*meri ambiti disciplinari generalmente intesi*”, senza minimamente fornire un “*esaustivo elenco di specifici titoli di studio*”: con ciò sarebbe mancato lo stesso presupposto per poter prefigurare (e, di conserva, pretendere) una (necessariamente *specifica*) certificazione di equipollenza. Ciò sarebbe, oltretutto, confermato dal fatto che l’art. 8.3 del disciplinare individuava come (idoneo) “*mezzo di prova*” non già la “*produzione materiale*” del titolo, ma (solo) il “*curriculum vitae della risorsa*”.
+
+Né a diverso (ed abusivamente rigoroso) esito avrebbe potuto indurre la positiva previsione di *equivalenza* (testualmente affidata all’inciso: “*o equivalenti*”): la quale avrebbe dovuto intendersi (ed anzi: non avrebbe potuto che intendersi) nel senso della “*equivalenza di area disciplinare*” (come fatto chiaro, peraltro, dall’emblematico ’”*utilizzo del termine al plurale*”). Diversamente opinando, la prescrizione capitolare avrebbe finito per illegittimamente e surrettiziamente introdurre (come era, di fatto, occorso) “*una sanzione espulsiva occulta*”, in violazione del canone di tassatività.
+
+2.3.- In tale argomentata prospettiva, a nulla sarebbe valso il chiarimento n. 46, sul quale la stazione appaltante aveva parimenti fondato la contestata determinazione espulsiva e che, all’incontro, avrebbe in tesi svolto la (semplice) funzione di evidenziare e concretizzare l’effettiva portata della *equivalenza degli ambiti disciplinari*: risultandone, con ciò, compromesso il (consolidato) intendimento che affida ai chiarimenti la (mera) funzione di rendere più chiaro e comprensibile il significato del contenuto delle prescrizioni di gara, non potendo per contro giungere ad attribuire – con preclusa attitudine *integrativa* e/o addirittura *novativa* – ad una disposizione della *lex specialis* un significato e una portata *diversa* o *maggiore* di quella risultante dal relativo tratto testuale.
+
+2.4.- Per sovrammercato, la stazione appaltante (e, per essa, il responsabile del procedimento) avrebbe, in proposto, serbato un atteggiamento ambiguo ed ondivago nella gestione del (pur attivato) soccorso istruttorio: il che aveva finito per conculcare – anche nel confronto partecipativo – l’affidamento in ordine al corretto intendimento delle regole di gara.
+
+2.5.- A tutto concedere, comunque, la valorizzazione, ai fini ostativi e agli esiti espulsivi, del meccanismo di riconoscimento dei titoli di studio esteri – introdotto con la ratifica della Convenzione di Lisbona, avvenuta tramite la l. n. 148/2002 ed incentrato, per l’appunto, sulla necessità di richiesta ad acquisizione, a carico dell’interessato, della certificazione di equipollenza – non avrebbe potuto, come era in concreto accaduto, essere trasfusa all’interno delle procedure di *matrice selettiva* (e, segnatamente, nelle *gare* d’appalto).
+
+Invero, il “*riconoscimento finalizzato per finalità diverse da quelle accademiche*” era previsto dall’art. 5 della l. n. 148/02, che rimandava, a sua volta, alle “*procedure*” di cui al regolamento adottato con il D.P.R. n. 189/09, il quale (agli artt. 3 e 4) non prevedeva alcun onere, in capo al soggetto interessato, di acquisire da terzi tale “*attestazione di equipollenza*”, facendo invece ricadere sulla singola “*amministrazione interessata*” l’officiosa attivazione, ricorrendone i presupposti, delle procedure ivi indicate.
+
+Avrebbe, per tal via, errato la sentenza impugnata (che aveva richiamato, sul punto, ad una recente e conforme decisione resa, nella medesima vicenda procedimentale, dal TAR Palermo: la quale tra l’altro, si può aggiungere sin d’ora, sarebbe stata successivamente riformata in sede di gravame) a far, sostanzialmente, carico all’appellante di acquisire (e produrre) tale “*attestazione di equipollenza*” entro il termine di presentazione delle offerte: al che, in definitiva, avrebbe – semmai – dovuto provvedere la stazione appaltante.
+
+2.6.- In ogni caso, il richiamo alla disciplina di cui alla l. n. 148/2002, quale che ne fosse l’esatto intendimento, non avrebbe comechessia potuto operare (nella assenza di un espresso richiamo ad opera della *lex specialis*) in vi di *eterointegrazione*: la quale – operando, in concreto, *in malam partem* – avrebbe finito per porsi in contraddizione con i principi eurounitari di certezza del diritto, di tutela del legittimo affidamento, di massima concorrenza e di trasparenza dell’attività amministrativa, nella (bene intesa) prospettiva di una (necessaria) *autosufficienza della documentazione di gara* e del (correlativo e ribadito) divieto di *atipicità delle clausole escludenti*.
+
+D’altra parte, l’eterointegrazione in senso escludente non sarebbe stata, nella specie, possibile, vertendosi in contesti diversi da quello dei concorsi pubblici (nei quali *il titolo di studio assurgerebbe ad elemento centrale*, concretando lo specifico presupposto ai fini dell’accesso di un determinato soggetto a una specifica professione pubblica): laddove, in base al canone della massima partecipazione concorrenziale, le procedure evidenziali dovrebbero ritenersi incentrate sul “*possesso sostanziale*” del requisito, avuto riguardo alla idoneità dell’operatore economico ad eseguire i lavori o i servizi per cui tali capacità fossero richieste.
+
+Sicché, in definitiva – anche in forza dell’art. 86 del d. lgs. n. 50/2016, riproduttivo dell’art. 60, § 1, e dell’Allegato XII, parte II, lett. f), della Direttiva n. 24/2014/UE – “*l’indicazione dei titoli di studio*” (quale “*mezzo di prova*” dei requisiti di capacità tecnica e professionale) doveva ritenersi senz’altro sufficiente a fini dimostrativi, anche in assenza della (al postutto: non richiesta) “*attestazione di equipollenza*”.
+
+3.- Il complesso ed articolato motivo, ancorché suggestivamente ed abilmente sviluppato, non è persuasivo.
+
+Importa evidenziare, in fatto, che il capitolato speciale di gara, nel definire i requisiti di capacità tecnico-professionale necessari per la partecipazione alla gara oggetto di controversia, prevedeva (all’art. 7) la programmatica strutturazione di un apposito “*gruppo di lavoro*”, composto da “*personale idoneo allo svolgimento delle mansioni richieste*”, comprendente: *a*) un “*Responsabile unico del servizio*”, con il ruolo di “*referente unico nei confronti della Stazione Appaltante*” per ciascun lotto aggiudicato; *b*) un “*Coordinatore del servizio*”, per ogni distretto giudiziario afferente al singolo lotto aggiudicato; *c*) un “team *operativo*”, composto da “*operatori di acquisizione documentale*”.
+
+In relazione alle ridette risorse, l’art. 7.1 precisava le “*qualifiche professionali minime*” richieste, con concorrente riguardo: *a*) alle “*esperienze pregresse*”; *b*) alle “*competenze*” acquisite; *c*) ai “*titoli di studio*” conseguiti.
+
+Relativamente a questi ultimi, era in particolare richiesto: *a*) per ognuno degli “*operatori di acquisizione documentale*”, membro del *team* operativo, il “*diploma di scuola secondaria di II grado*”; *b*) per il “*coordinatore del servizio*” e per il “*responsabile unico del servizio*”, la ”*laurea magistrale in discipline tecniche-scientifiche, economico-gestionali o equivalenti*”.
+
+3.1.- Si intende, in principio, che la scolpita clausola di “*equivalenza*” (sulla quale – e sul suo restrittivo cooperare con la cooccorente condizione di “*equipollenza*” – si incentrano, in prima battuta, le ragioni critiche di parte appellante) fosse *sintatticamente* riferita, nel corpo della previsione, non già alla “*laurea*”, ma alle “*discipline*”: ove non fosse, a tal fine, sufficiente (trattandosi di elemento sempre e notoriamente ambiguo) la struttura del sintagma aggettivale, con dislocazione dell’aggettivo qualificativo in funzione restrittiva, varrebbe a dimostrarlo, con evidenza, l’accordo *al plurale* (sul quale, giustamente, fa leva, nella propria argomentazione, la stessa appellante).
+
+In altri termini, sotto il profilo *testuale*, la regola era scolpita nel senso che la laurea dovesse afferire a discipline dell’*ambito* tecnico-scientifico, ovvero dell’*ambito* economico-gestionale o di “*ambiti equivalenti*” (all’uno e/o all’altro).
+
+Proprio l’obiettiva indeterminatezza del riferimento ha finito, del resto, per sollecitare, in riscontro ad apposito quesito, l’opportuno chiarimento reso dalla stazione appaltante (n. 46) che – come diffusamente evidenziato in narrativa e come subito si ribadirà – ha elencato *positivamente* ed *esplicitamente* le discipline ritenute, ai fini in questione, “*equivalenti*”.
+
+È, in premessa, esatto, allora, il rilievo dell’appellante, secondo cui la nozione di “*equivalenza*” (degli ambiti disciplinari) non coincidesse né fosse automaticamente sovrapponibile alla nozione di “*equipollenza*” (dei titoli di laurea, quale che ne fosse l’ambito).
+
+3.2.- Nondimeno, è chiaro che l’indicazione del “*titolo*” di studio (la “*laurea magistrale*”) implicava o sottintendeva (in quanto necessariamente connotato da “*valore legale*”, che rappresenta *elemento giuridico-normativo* della fattispecie, integrativo della sua consistenza *materiale*: tale essendo, in sostanza, il significato proprio e tecnico del “*titolo*”) il requisito (legale) della “*validità*”: che – con riguardo ai titoli conseguiti all’estero – postula in termini generali (come previsto dalla l. n. 148/2002, approvata ina adesione alla Convenzione di Lisbona, nonché dalla l. n. 29/2006) uno specifico e qualificato *accertamento* (relativamente alla valutazione della sostanziale omogeneità, adeguatezza e comparabilità dei percorsi formativi e delle modalità della relativa verifica), ed una (pedissequa e formale) *certificazione* ufficiale, di equipollenza.
+
+In questo senso, è allora corretto – nella valutazione del primo giudice – l’intendimento della *lex specialis* nella prospettiva della sua c.d. *eterointegrazione*: la quale, come è noto, opera in presenza di una (obiettiva) “*lacuna*” delle regole di gara (nella specie: l’ attitudine della “*laurea*” a concretare un idoneo “*titolo*” di studio, nel senso chiarito), ovvero nel caso in cui la stazione appaltante abbia omesso di inserire nella disciplina di gara elementi previsti come *necessari* ed *obbligatori* dall’ordinamento giuridico *nel suo complesso* (*ad instar* di quanto, nell’ambito dei rapporti civili, accade in forza degli artt. 1374 e 1339 c.c.): sicché il bando, nella sua portata precettiva di *lex specialis* della procedura, debba essere *integrato,* in via suppletiva, da una vincolante (e non derogabile) previsione della *lex generalis*.
+
+S’intende, per tal via, che l’eterointegrazione del bando – ancorché si risolva, in effetto, nella prefigurazione più ampia e comprensiva (in senso *qualitativo* o *quantitativo*) dei requisiti di accesso alla procedura di gara, rispetto al canone di (*determinatezza* e) *autosufficienza* della relativa legge speciale – non collide con il principio di (rigorosa) tassatività delle cause di esclusione (che è, di per sé, corollario dell’onere di puntuale ed esaustiva prefigurazione delle condizioni concorrenziali), proprio perché si tratta di condizioni *necessarie* (in ragione della attitudine non derogabile della legge) ed *implicite* (e, come tali, suscettibili di essere colmate, nei sensi chiariti, in via di diretta applicazione della legge generale).
+
+S’intende, ancora, che il riassunto meccanismo di eterointegrazione – nella specie, come vale ribadire, imposto dalla necessità di un valore legale del titolo di studio – non impinga (pur in presenza di una esclusione disposta in applicazione della *lex generalis* e non della *lex specialis*) nell’*affidamento legittimo* dei concorrenti, con il quale anzi – anche nella prospettiva dei principi di derivazione eurocomune – postula di essere contemperato.
+
+Sotto il profilo in questione, deve essere incidentalmente disattesa – perché non sollecita né prefigura un dubbio interpretativo, alla luce della Convenzione di Lisbona – l’istanza, formulata dall’appellante, di rimessione alla Corte di giustizia: la quale, oltretutto, si appalesa pregiudizialmente inammissibile, in quanto formulata per la prima volta in sede di gravame, quale sviluppo di un motivo di doglianza non formalizzato, nei termini, in prime cure.
+
+3.3.- Deve essere letto in questa logica il chiarimento fornito al quesito n. 46, con il quale si chiedeva (per l’appunto, in merito al requisito “*Possesso di laurea magistrale in discipline tecnico-scientifiche, economico-gestionali o equivalenti*”): *a*) cosa potesse essere ricompreso nella dicitura *equivalenti*”; *b*) se una “*laurea di diversa tipologia*”, sussistendo tutti gli altri requisiti, comportasse l’esclusione.
+
+La stazione appaltante, a riscontro, forniva un elenco dettagliato delle lauree che sarebbero state ritenute (concretamente) idonee, integrando la (tassativa) indicazione con l’apertura alla valutazione di “*equipollenza*”: all’uopo, peraltro, precisando che sarebbe stata applicata, nella valutazione dei titoli, “*la normativa specifica che definisce la equipollenza dei titoli accademici*”.
+
+In sostanza, con il chiarimento in questione, la stazione appaltante: *a*) colmava, con indicazioni puntuali, la *relativa indeterminatezza* del riferimento, operato dal bando, alla equivalenza di ambiti disciplinare, fornendone un elenco dettagliato; *b*) rendeva evidente ciò che, nella legge di gara, *doveva ritenersi implicito*, vale a dire che – nell’ambito dei settori rilevanti – oltre alla “*laurea magistrale*” (espressamente richiesta), avrebbe potuto essere valorizzato ogni titolo “*equipollente*” (onde, per questa parte, il chiarimento operava, a ben vedere, in senso ampliativo e non restrittivo rispetto al bando); *c*) puntualizzava che la effettiva *equipollenza* (del tutto diversa dalla *equivalenza*) sarebbe stata saggiata e verificata secondo la *normativa “generale”* (sul corretto presupposto della sua evidenziata attitudine eterointegrativa).
+
+3.4.- Ciò posto, vale soggiungere che il richiamo alla l. n. 148/2002 (decisivo, nel senso chiarito) non poteva essere certamente inteso – come pretenderebbe l’appellante, al fine di dequotare il meccanismo escludente – nel senso che, fermo l’obbligo di allegazione del titolo nel corpo del *curriculum vitae* (peraltro, in prima battuta, anonimo), sarebbe stato *onere della stazione appaltante* di attivarsi per acquisire, mercé le relative procedure, la certificazione di equipollenza.
+
+Invero, il richiamo alla l. n. 148/2022 (e, di conserva, al d.P.R. n. 189/2009, che ne scandisce le modalità operative in via regolamentare) deve intendersi con ogni evidenza limitato alla integrazione della (garanzia e della regola) di equipollenza dei titoli di studio allegati all’offerta: la “*formazione*” dei requisiti di capacità tecnica e professionale deve, per definizione, *preesistere* rispetto alla gara nella quale essi vengono spesi.
+
+3.5.- Deve anche escludersi – sotto distinto profilo – la possibilità di supplire alla carenza della attestazione di equipollenza con il soccorso istruttorio (ai fini di surrogazione della risorsa).
+
+3.5.1.- Naturalmente, il Collegio non ignora il diverso intendimento manifestato, sul punto – peraltro in riguardo alla medesima procedura evidenziale, relativamente all’affidamento di distinti lotti – da C.G.A., 2 gennaio 2023, n. 4 e dalla successiva e conforme 6 marzo 2023, n. 174, le quali, pur muovendo da analoghe premesse in ordine alla necessità di una certificazione di equipollenza dei titoli di studio, hanno, in sostanza, ritenuto:
+
+*a*) che la stazione appaltante avrebbe potuto (e allora: dovuto) dare seguito all’*iter* di soccorso istruttorio, eventualmente sollecitando la produzione del certificato di equipollenza (o alla valorizzazione di risorsa alternativa);
+
+*b*) che, a tal fine, il *curriculum vitae* (alla cui allegazione, in forma inizialmente anonima, il disciplinare di gara limitava gli obblighi di allegazione dei concorrenti) non fosse, come tale, qualificabile come “*requisito di partecipazione*”, ma come “*mezzo a comprova del requisito di partecipazione*”, non concretando, per tal via, “*componente dell’offerta tecnica o economica*” ed essendo semmai da includere tra la “*documentazione amministrativa*”, sicché la sua sostituzione, in ragione dell’anonimato, non fosse idonea a comportare una “*modificazione soggettiva*” dell’offerta;
+
+*c*) che, in definitiva, la disciplina di gara imponeva di tenere distinta l’ipotesi della (sostanziale) *mancanza dei requisiti* (di per sé non sanabile) da quella della *mancata comprova* (sotto il profilo essenzialmente *documentale*) dei requisiti, suscettibile di recupero mediante soccorso.
+
+3.5.2.- *Re perpensa*, ritiene il Collegio che si giustifichi un difforme intendimento del profilo in questione.
+
+Importa osservare, in premessa ed in termini generali, che l’istituto del soccorso istruttorio obbedisce, per vocazione generale (cfr. art. 6 l. n. 241/1990), ad una fondamentale *direttiva antiformalistica* che guida l’azione dei soggetti pubblici ed equiparati. Con riguardo alle procedure di evidenza pubblica, esso si fa carico di evitare, nei limiti del possibile, che le rigorose formalità che accompagnano la partecipazione alla gara si risolvano – laddove sia garantita la paritaria posizione dei concorrenti – in disutile pregiudizio per la sostanza e la qualità delle proposte negoziali in competizione e, in definitiva, del risultato dell’attività amministrativa.
+
+In tale prospettiva, la regola – che traduce operativamente un canone di *leale cooperazione* e di *reciproco affidamento* tra le stazioni appaltanti o gli enti concedenti e gli operatori economici (cfr. art. 1, comma 2 *bis* legge n. 241/1990) – ha visto riconosciuta (ed accresciuta) la sua centralità nel nuovo Codice dei contratti pubblici: il quale, per un verso, vi dedica (a differenza del Codice previgente, peraltro ancora applicabile *ratione temporis* alla vicenda in esame, che lo disciplinava, in guisa alquanto incongrua, a margine dei criteri di selezione delle offerte: cfr. art. 83, comma 9 d. lgs. n. 50/2016) una autonoma e più articolata disposizione (art. 101) e, per altro verso, ne amplifica l’*ambito*, la *portata* e le *funzioni*, superando, altresì, talune incertezze diffusamente maturate nella prassi operativa.
+
+Quand’anche si intenda dilatarne al massimo la portata (in certo modo filtrando – con non abusiva operazione esegetica, ben fondata su un ragionevole canone di ordine teleologico – l’interpretazione dell’art. 83, comma 9 del d. lgs. n. 50/2016 con la più ariosa prospettiva dischiusa, in termini solo parzialmente innovativi, dall’art. 101 del d.lgs. n. 36/2023), si dovrà, in ogni caso, puntualizzare, sotto un *profilo funzionale*, la necessaria distinzione tra:
+
+*a*) soccorso *integrativo* o *completivo* (comma 1, lettera *a)* dell’art. 101 d. lgs. n. 36 cit., non difforme dall’art. 83, comma 9), che mira, in termini essenzialmente *quantitativi*, al recupero di *carenze* della c.d. documentazione *amministrativa* necessaria alla partecipazione alla gara (con esplicita esclusione, quindi, della documentazione inerente l’*offerta*, sia sotto il profilo *tecnico* che sotto il profilo *economico*), sempreché non si tratti di documenti bensì non allegati, ma acquisibili direttamente dalla stazione appaltante (in prospettiva, tramite accesso al fascicolo virtuale dell’operatore economico);
+
+*b*) soccorso *sanante* (comma 1 lettera *b*), anche qui non difforme dall’art. 83, comma 9 del d. lgs. n. 50), che consente, in termini *qualitativi*, di *rimediare* ad omissioni, inesattezze od irregolarità della documentazione amministrativa (con il limite della irrecuperabilità di documentazione di incerta imputazione soggettiva, che varrebbe a rimettere in gioco domande inammissibili);
+
+*c*) soccorso *istruttorio* in senso stretto (comma 3), che – recuperando gli spazi già progressivamente riconosciuti dalla giurisprudenza alle forme di soccorso c.d. *procedimentale* – abilita la stazione appaltante (o l’ente concedente) a sollecitare *chiarimenti* o *spiegazioni* sui *contenuti* dell'offerta tecnica e/o dell'offerta economica, finalizzati a consentirne l’esatta acquisizione e a ricercare l’effettiva volontà dell’impresa partecipante, superandone le eventuali ambiguità, a condizione di pervenire ad esiti certi circa la portata dell’impegno negoziale assunto, e fermo in ogni caso il divieto (strettamente correlato allo stringente vincolo della *par condicio*) di apportarvi qualunque modifica;
+
+*d*) soccorso *correttivo* (comma 4): che, in realtà, a differenza delle altre ipotesi – rispetto alle quali si atteggia, peraltro, a fattispecie di nuovo conio, come tale insuscettibile, almeno in principio, di applicazione retroattiva – prescinde dall’iniziativa e dall’impulso della stazione appaltante o dell’ente concedente (sicché non si tratta, a rigore, di soccorso *in senso stretto*), abilitando direttamente il concorrente, fino al giorno di apertura delle offerte, alla rettifica di errori che ne inficino materialmente il contenuto, fermo il duplice limite *formale* del rispetto dell’anonimato e *sostanziale* della immodificabilità contenutistica.
+
+*Sotto un profilo operativo*, il soccorso procede (con la evidenziata e non rilevante peculiarità del soccorso correttivo, che è oggi riconosciuto *ex lege*) da una (doverosa, trattandosi al solito di potere-dovere) *assegnazione di un termine* (ora positivamente prefigurato in misura non inferiore a cinque e non superiore a dieci giorni) entro il quale l’operatore economico può integrare o sanare (a pena di esclusione: cfr. il comma 4 dell’art. 101) la documentazione amministrativa ovvero (ma in tal caso, è il caso di soggiungere, senza automatismi espulsivi) chiarire ed illustrare, nei termini (e nei limiti) della specifica richiesta, il tenore della propria offerta.
+
+La norma si cura di precisare (offrendo, con ciò, espressa soluzione positiva a talune ipotesi già oggetto di controverso intendimento) che sono soccorribili (purché, in tal caso, documentabili con atti *di data certa*, anteriore al termine di presentazione delle offerte: il che conferma che si deve trattare di una omissione meramente *formale* e non di una originaria carenza *sostanziale*): *a*) la mancata presentazione della garanzia provvisoria; *b*) l’omessa allegazione del contratto di avvalimento; *b*) la carenza dell'impegno al conferimento, per i concorrenti partecipanti in forma di raggruppamento costituendo, del mandato collettivo speciale.
+
+In definitiva, appare evidente – con valutazione non estranea all’esatta parametrazione della vicenda in esame, sotto il profilo della prefigurazione di una direttiva esegetica tendenzialmente *non restrittiva* – il programmatico ampiamento dell’ambito del soccorso, fino al segno, si può nondimeno osservare, di marcare un possibile conflitto con il *canone di autoresponsabilità* (che in generale sollecita gli operatori economici, in virtù della postulata qualificazione professionale e del correlativo dovere di diligenza, al pieno e puntuale rispetto delle formalità procedimentali, evitando gli aggravi imposti dalla rimessione in termini: per i quali ben potrebbe prospettarsi, anche alla luce del criterio di buona fede, un forma di immeritevole *abuso*).
+
+3.5.2.- Tutto ciò, premesso – traducendo le riassunte coordinate ermeneutiche alla vicenda in esame – deve tenersi per ferma la non soccorribilità (sia in funzione integrativa, sia in funzione sanante) degli elementi integranti, anche documentalmente, il contenuto dell’offerta (tecnica od economica): ciò che si porrebbe in contrasto con il superiore principio di parità dei concorrenti. Restano, per contro, ampiamente sanabili le carenze (per omissione e/o per irregolarità) della documentazione c.d. *amministrativa*.
+
+In altri termini, si possono emendare le carenze o le irregolarità che attengano alla (allegazione) dei *requisiti di ordine generale* (in quanto *soggettivamente* all’operatore economico in quanto tale), non quelle inerenti ai *requisiti di ordine speciale* (in quanto atte a strutturare i termini dell’offerta, con riguardo alla capacità economica, tecnica e professionale richiesta per l’esecuzione delle prestazioni messe a gara).
+
+3.5.3.- Orbene, l’assunto dell’appellante, che è stato condiviso dai richiamati precedenti, è che, nella specie, la carenza riguardasse il *curriculum vitae* (in tesi attinente alla documentazione amministrativa) e non il “*titolo di studio*” in quanto tale (inerente i requisiti di professionalità richiesti). Sicché, in sostanza, la carenza del primo (correlata alla evidenziata omissione della certificazione di equipollenza) fosse emendabile *sia* mediante postuma allegazione, *sia* mediante surrogazione della relativa risorsa umana (cioè: sia mediante produzione successiva della attestazione di equipollenza relativa al titolo di studio dichiarato, sia – alternativamente – mediante *sostituzione* del *curriculum vitae* con altro idoneo).
+
+3.5.4.- Si tratta di valutazione non condivisibile.
+
+Ancorché, nei sensi più volte chiariti, il *disciplinare* di gara postulasse l’allegazione, in forma solo inizialmente anonima, dei *curricula*, il *capitolato tecnico* era chiaro nel richiedere, in capo al personale designato per l’esecuzione del contratto, il prescritto *titolo di studio* (integrante, all’evidenza, un *requisito di ordine tecnico-professionale*).
+
+Ammettendo, perciò, come pretenderebbe l’appellante (non tanto la formale sostituzione del *curriculum*, quanto) la indicazione di un diverso *titolo di studio*, riferito a *diversa figura professionale*, significherebbe legittimare la modifica (sotto il profilo soggettivo, relativamente alla *manodopera impegnata*) dei termini dell’offerta.
+
+Sicché appare, in definitiva, specioso, ma non persuasivo, l’assunto che la mancanza della certificazione di equipollenza del titolo di studio si risolverebbe in un fatto meramente *formale* (essendo, in tesi, incontestato il possesso del requisito *sostanziale*): ciò sarebbe quando si fosse (a tutto concedere) chiesto di *integrare* il *curriculum* con la (postuma) produzione di una (già conseguita) attestazione di equipollenza; non quando – come nella specie – si vorrebbe supplire alla (acclarata) inidoneità (per *insufficienza del titolo*, in quanto privo di riconoscimento del valore legale) del personale con l’indicazione di personale alternativo, per quanto (asseritamente) nella disponibilità dell’impresa.
+
+4.- Le considerazioni che precedono superano (ed assorbono) le ragioni di doglianza affidate al secondo motivo di appello, con il quale l’appellante lamenta – ribadendo la sostanza del proprio apparato censorio – che solo in sede processuale la stazione appaltante avesse (in tesi: inammissibilmente) esplicitato le (postume) ragioni di eterointegrazione del bando. Le quali, per contro, per quel che precede e che non giova ribadire, dovevano ritenersi *ab origine* integrative della *lex specialis* di procedura.
+
+5.- Parimenti infondato, in quanto superato dalla argomentata infondatezza del primo motivo, l’ulteriore censura con la quale (in prospettiva dichiaratamente subordinata) l’appellante si duole della reiezione del secondo motivo del ricorso di prime cure, reiterato nei pedissequi motivi aggiunti, con cui aveva contestato l’illegittimità dell’esclusione, sull’assunto che il RUP, in sede di soccorso istruttorio, non avrebbe potuto obliterare l’allegazione del “*CV 13*”, con cui aveva ulteriormente comprovato il possesso del requisito di partecipazione già dichiarato *ex ante*, cioè al momento della scadenza del termine di presentazione delle offerte (16/3/22).
+
+Censura che, all’evidenza, sta (e cade) con quella già diffusamente esaminata, in ordine alla non praticabilità del soccorso istruttorio, pur ampiamente inteso.
+
+6.- Con un ultimo motivo di censura, l’appellante si duole che – relativamente alla ritenuta insussistenza dell’obbligo di versare il contributo unificato in relazione ai motivi aggiunti proposti, in corso di causa, avverso la sopravvenuta aggiudicazione a favore della controinteressata, censurata per invalidità meramente derivata (in ragione della assenza di un *sostanziale* ampliamento dei termini oggettivi della lite) – il TAR abbia ritenuto di non essere “*tenuto a pronunciarsi sulla richiesta* \[…\] *poiché si tratt*\[erebbe\] *di una questione inerente alle censure presentate avverso gli atti impugnati* \[…\] *in quanto riguardanti pretese di natura tributaria*”.
+
+Assume, sul punto che, se è noto che la controversia sulla pretesa tributaria appartiene ad altro plesso giurisdizionale, rientrerebbe, per contro, nella giurisdizione del giudice amministrativo l’accertamento, *in via incidentale*, dell’identità di oggetto del ricorso e dei motivi aggiunti, sotto il segnato profilo della inettitudine dei secondi ad ampliare in modo considerevole l’oggetto della controversia.
+
+6.1.- Il motivo non è fondato.
+
+In disparte ogni altro rilievo – anche relativamente alla indiscussa spettanza, in principalità, della relativa questione alla cognizione del giudice tributario, correttamente affermata dal TAR – vale osservare che è solo con l’art. 209, comma 1 lettera *a*) del d.lgs. n. 36/2023, con il quale è stato approvato il nuovo Codice dei contratti pubblici, che l’art. 120 del codice del processo amministrativo è stato modificato – in termini indubbiamente innovativi e, come tale, insuscettibili di applicazione retroattiva ai processi in corso, atteso che, pur nel contesto di una disposizione di natura processuale, assume il tratto sostanziale delle disposizioni di matrice tributaria – esentando (con il nuovo comma 7) l’impugnazione, per aggiunzione di motivi, dei “*nuovi atti attinenti alla medesima procedura di gara*” dall’obbligo di “*pagamento del contributo unificato*”.
+
+7.- Sulle esposte considerazioni, l’appello deve essere, in definitiva, complessivamente respinto.
+
+Sussistono, in assorbente considerazione dei contrasti giurisprudenziali di cui si è dato diffusamente conto, i presupposti per disporre, tra le parti costituite, l’integrale compensazione delle spese e delle competenze di lite.
+
+P.Q.M.
+
+Il Consiglio di Stato in sede giurisdizionale (Sezione Quinta), definitivamente pronunciando sull'appello, come in epigrafe proposto, lo respinge.
+
+Spese compensate.
+
+Ordina che la presente sentenza sia eseguita dall'autorità amministrativa.
+
+Così deciso in Roma nella camera di consiglio del giorno 27 aprile 2023 con l'intervento dei magistrati:
+
+Diego Sabatino, Presidente
+
+Stefano Fantini, Consigliere
+
+Giovanni Grasso, Consigliere, Estensore
+
+Alberto Urso, Consigliere
+
+Gianluca Rovelli, Consigliere
+
+|                 |     |                |
+|-----------------|-----|----------------|
+|                 |     |                |
+|                 |     |                |
+| L'ESTENSORE     |     | IL PRESIDENTE  |
+| Giovanni Grasso |     | Diego Sabatino |
+|                 |     |                |
+|                 |     |                |
+|                 |     |                |
+|                 |     |                |
+|                 |     |                |
+
+IL SEGRETARIO
+
+\
+\

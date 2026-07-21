@@ -1,0 +1,29 @@
+{
+  "dry_run": true,
+  "modelli": {
+    "kimi": "moonshotai/kimi-k2.6",
+    "claude": "anthropic/claude-sonnet-4.5"
+  },
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "prompt_files": [
+    "../prompts/tasks/t1-redazione-01-p1.md",
+    "../prompts/tasks/t1-redazione-01-p2.md",
+    "../prompts/tasks/t1-redazione-01.md",
+    "../prompts/tasks/t2-qa-01-p1.md",
+    "../prompts/tasks/t2-qa-01-p2.md",
+    "../prompts/tasks/t2-qa-01.md",
+    "../prompts/tasks/t2-qa-02-p1.md",
+    "../prompts/tasks/t2-qa-02-p2.md",
+    "../prompts/tasks/t2-qa-02.md",
+    "../prompts/tasks/t3-ragionamento-01-p1.md",
+    "../prompts/tasks/t3-ragionamento-01-p2.md",
+    "../prompts/tasks/t3-ragionamento-01.md",
+    "../prompts/tasks/t3-ragionamento-02-p1.md",
+    "../prompts/tasks/t3-ragionamento-02-p2.md",
+    "../prompts/tasks/t3-ragionamento-02.md",
+    "../prompts/tasks/t4-fedelta-01-p1.md",
+    "../prompts/tasks/t4-fedelta-01-p2.md",
+    "../prompts/tasks/t4-fedelta-01.md"
+  ],
+  "gateway": "https://ai-gateway.vercel.sh/v1/chat/completions"
+}

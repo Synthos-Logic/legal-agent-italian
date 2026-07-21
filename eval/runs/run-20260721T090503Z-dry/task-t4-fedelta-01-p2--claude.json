@@ -1,0 +1,16 @@
+{
+  "prompt_id": "task:t4-fedelta-01-p2",
+  "prompt_file": "../prompts/tasks/t4-fedelta-01-p2.md",
+  "prompt_versione": "1",
+  "variante": "parafrasi-2",
+  "equivalente_a": "task:t4-fedelta-01",
+  "task": "fedelta-citazione",
+  "modello": "anthropic/claude-sonnet-4.5",
+  "prompt_sha256": "bcdb234dda306bd3759819d3c15493a354e2f14ec4d5fc2d2b8f03803c4923ed",
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "timestamp_utc": "2026-07-21T09:05:03.067286+00:00",
+  "stato": "dry_run",
+  "output": null,
+  "usage": null,
+  "latency_ms": null
+}

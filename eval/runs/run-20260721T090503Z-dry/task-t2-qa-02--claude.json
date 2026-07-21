@@ -1,0 +1,16 @@
+{
+  "prompt_id": "task:t2-qa-02",
+  "prompt_file": "../prompts/tasks/t2-qa-02.md",
+  "prompt_versione": "1",
+  "variante": "canonico",
+  "equivalente_a": "",
+  "task": "qa-ancorata",
+  "modello": "anthropic/claude-sonnet-4.5",
+  "prompt_sha256": "cdd5e0c0080fe6829ed6e338dfb3b419c5334ef720f197abe8ce04bc29b36a0c",
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "timestamp_utc": "2026-07-21T09:05:03.062079+00:00",
+  "stato": "dry_run",
+  "output": null,
+  "usage": null,
+  "latency_ms": null
+}

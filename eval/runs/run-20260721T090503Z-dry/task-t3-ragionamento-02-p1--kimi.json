@@ -1,0 +1,16 @@
+{
+  "prompt_id": "task:t3-ragionamento-02-p1",
+  "prompt_file": "../prompts/tasks/t3-ragionamento-02-p1.md",
+  "prompt_versione": "1",
+  "variante": "parafrasi-1",
+  "equivalente_a": "task:t3-ragionamento-02",
+  "task": "ragionamento-fatto-concreto",
+  "modello": "moonshotai/kimi-k2.6",
+  "prompt_sha256": "2c802c44b459b7c14089dc09de27d4827a2a6a42c11357677e62f03813ef795e",
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "timestamp_utc": "2026-07-21T09:05:03.065258+00:00",
+  "stato": "dry_run",
+  "output": null,
+  "usage": null,
+  "latency_ms": null
+}

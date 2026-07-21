@@ -1,0 +1,529 @@
+---
+id: "ECLI:IT:CDS:2026:2721"
+tipo: decisione
+titolo: "Cons. Stato, Sez. V, 02.04.2026, n. 2721"
+fonte_ufficiale: "https://mdp.giustizia-amministrativa.it/visualizza/?nodeRef=&schema=cds&nrg=202504997&nomeFile=202602721_11.html&subDir=Provvedimenti"
+data_documento: 2026-04-02
+lingua: it
+hash_sha256: "0878e400d177d783b385214be97c727bc1c0cd2b44ef246b7aa7ad06ae3ee844"
+data_fetch: 2026-07-21
+dominio: appalti
+massima: "Soccorso correttivo (co. 4): iniziativa dell'operatore, errore oggettivamente riconoscibile da elementi interni all'offerta, senza oneri interpretativi eccessivi per la SA."
+figura_soccorso: correttivo
+ecli_portale: "ECLI:IT:CDS:2026:2721SENT"
+cross_ref:
+  - "urn:nir:stato:decreto.legislativo:2023-03-31;36~art101"
+---
+
+# Cons. Stato, Sez. V, 02.04.2026, n. 2721
+
+N. 02721/2026REG.PROV.COLL.
+
+N. 04997/2025 REG.RIC.
+
+N. 05087/2025 REG.RIC.
+
+<img src="stemma.jpg" data-border="0" />
+
+REPUBBLICA ITALIANA
+
+IN NOME DEL POPOLO ITALIANO
+
+Il Consiglio di Stato
+
+in sede giurisdizionale (Sezione Quinta)
+
+ha pronunciato la presente
+
+SENTENZA
+
+sul ricorso numero di registro generale 4997 del 2025, proposto da Acquedotto Pugliese S.p.A., in persona del legale rappresentante *pro tempore*, in relazione alla procedura CIG A01FCBA152, rappresentata e difesa dall'avvocato Giovanni Nardelli, con domicilio eletto presso il suo studio in Bari, viale Quinto Ennio, 33;\
+
+contro
+
+Castiglia S.r.l., in persona del legale rappresentante *pro tempore*, rappresentata e difesa dagli avvocati Gennaro Rocco Notarnicola, Carlo Tangari, Fabio Cintioli, David Astorre, con domicilio digitale come da PEC da Registri di Giustizia;\
+
+nei confronti
+
+Comes S.p.A., in persona del legale rappresentante *pro tempore*, rappresentata e difesa dall’avvocato Maria Cristina Lenoci, con domicilio digitale come da PEC da Registri di Giustizia;\
+
+\
+\
+
+sul ricorso numero di registro generale 5087 del 2025, proposto da Comes S.p.A., in persona del legale rappresentante pro tempore, in relazione alla procedura CIG A01FCBA152, rappresentata e difesa dall'avvocato Maria Cristina Lenoci, con domicilio digitale come da PEC da Registri di Giustizia;\
+
+contro
+
+Direzione Generale (Dirge) dell’Acquedotto Pugliese S.p.A., Area Affari Legali dell’Acquedotto Pugliese S.p.A., Direzione Procurement - Area Acquisti Altri Business dell’Acquedotto Pugliese S.p.A., non costituiti in giudizio;\
+Acquedotto Pugliese S.p.A., in persona del legale rappresentante pro tempore, rappresentata e difesa dall'avvocato Giovanni Nardelli, con domicilio eletto presso lo studio Giovanni Nardelli in Roma, piazza Capo di Ferro n. 13;\
+Castiglia S.r.l., in persona del legale rappresentante pro tempore, rappresentata e difesa dagli avvocati Gennaro Rocco Notarnicola, Carlo Tangari, Fabio Cintioli, David Astorre, con domicilio digitale come da PEC da Registri di Giustizia;\
+\
+
+per la riforma
+
+quanto al ricorso n. 4997 del 2025:
+
+della sentenza del Tribunale Amministrativo Regionale per la Puglia (sezione Prima) n. 641/2025, resa tra le parti;
+
+quanto al ricorso n. 5087 del 2025:
+
+della sentenza del Tribunale Amministrativo Regionale per la Puglia (sezione Prima) n. 641/2025, resa tra le parti.
+
+\
+
+Visti i ricorsi in appello e i relativi allegati;
+
+visti gli atti di costituzione in giudizio di Castiglia S.r.l., di Comes S.p.A. e di Acquedotto Pugliese S.p.A.;
+
+visti tutti gli atti della causa;
+
+relatore nell'udienza pubblica del giorno 27 novembre 2025 il Cons. Gianluca Rovelli e uditi per le parti gli avvocati Nardelli, Notarnicola, Tangari, Cintioli, Astorre e Lenoci;
+
+ritenuto e considerato in fatto e diritto quanto segue.
+
+\
+
+FATTO
+
+1\. Con bando del 30 ottobre 2023, l’Acquedotto Pugliese indiceva la gara a procedura aperta avente ad oggetto l’affidamento del “*PROGETTO COGENERAZIONE. Implementazione di sistema di cogenerazione mediante utilizzo del biogas presso gli impianti di depurazione con digestione anaerobica dei fanghi – 1° stralcio”,* mediante la sottoscrizione di un accordo quadro, ai sensi dell’art. 59 comma 3 e art. 154 del d.lgs. 36/2023, della durata di 48 mesi, prorogabili di ulteriori 12, per un valore complessivo di € 25.137.650,00, iva esclusa, da aggiudicarsi con il criterio dell’offerta economicamente più vantaggiosa, *ex* art. 108 del d.lgs. 36/2023, CIG. A01FCBA152 n. 3384354.
+
+2\. L’art. 3.1 del disciplinare di gara specificava l’importo delle categorie d’appalto e gli importi relativi alla sicurezza e alla manodopera: importo Forniture (€ 17.283.600,00) importo Servizi (€ 3.237.600,00) importo Lavori (1.315.600,00) costi presunti della sicurezza non soggetti a ribasso (849.150,00) costo della manodopera non soggetto a ribasso di cui costi della manodopera relativi ai lavori (€ 708.350,00) di cui costi della manodopera relativi ai servizi (€ 1.743.350,00), per un totale stimato massimo dell’Accordo quadro di € 25.137.650,00.
+
+3\. Partecipavano alla gara la Castiglia s.r.l., la Comes S.p.A., e il RTI CPL Concordia soc. coop. – Coop Service soc. coop. (di seguito RTI CPL Concordia).
+
+4\. In data 16 gennaio 2024, il seggio di gara verificava la documentazione amministrativa dei concorrenti e ammetteva al prosieguo della competizione:
+
+a\) la Comes, accertando anche che i requisiti di cui al punto 4.3.1 del disciplinare erano oggetto di avvalimento con idoneo contratto sottoscritto con l’ausiliaria 2G Italia s.r.l.;
+
+b\) la Castiglia, accertando, in tal caso, che i requisiti di cui al punto 4.3.1 del disciplinare erano oggetto di avvalimento con contratto sottoscritto con le ausiliarie Conveco s.r.l. e Gestione Energetica Ambientale s.r.l.;
+
+c\) con riserva, il RTI CPL Concordia, chiedendo chiarimenti per questioni afferenti l’art. 95 del d.lgs. 36/2024; il RTI, in seguito era definitivamente ammesso nella seduta del 30 gennaio 2024.
+
+5\. In data 8 febbraio 2024, si riuniva la commissione di gara che procedeva all’apertura delle buste elettroniche contenenti le offerte tecniche per un controllo preliminare dei documenti. L’esame delle offerte tecniche proseguiva nelle successive sedute del 15, 19, 26 e 27 febbraio 2024, del 21 marzo 2024 e dell’11 aprile 2024.
+
+6\. La commissione di gara, nella seduta del 15 febbraio 2024, decideva di rinviare al termine delle operazioni di valutazione delle offerte tecniche l’esame relativo al criterio quantitativo C.4 “*Riduzione indice annuo infortuni nel periodo 2021-2022*”, per tutte e tre le concorrenti. Ciò avveniva nella seduta del 27 febbraio 2024 e, in tale occasione, era rilevata, per tutte e tre le concorrenti, in ordine al criterio in discussione, una carenza documentale che, a seguito di soccorso procedimentale, era sanata e accertata con verbali numeri 6 e 7 del 21 marzo 2024.
+
+7\. In quest’ultima seduta erano anche definitivamente attribuiti i punteggi relativi alle offerte tecniche, risultando la seguente graduatoria: Comes 76,70 punti, Castiglia 62,1434 punti, RTI CPL Concordia 52,2114 punti.
+
+8\. Riferisce l’appellante Acquedotto Pugliese che, mentre era in corso la valutazione delle offerte tecniche, la Comes, in data 18 marzo 2024, inviava una nota, con la quale chiedeva “*di poter procedere, ai sensi dell’art. 101, comma 4 del D.Lgs.36/2024, alla rettifica dell’offerta economica per errore materiale nella compilazione della stessa*”.
+
+9\. In riscontro, la stazione appaltante, con nota del 19 marzo 2024, comunicava che: “*A seguito di Vostro messaggio del 18/03/2024 pervenuto nel fascicolo telematico della presente gara, si rappresenta che al momento è ancora in corso la valutazione delle offerte tecniche, terminata la quale verrà comunicata a tutti i concorrenti la data della seduta di apertura delle offerte economiche. A partire da tale comunicazione e sino al giorno e all’ora fissati per l’apertura delle offerte economiche sarà possibile caricare, ai sensi dell’art.101, comma 4, del D.Lgs 36/2023, il documento, denominato “rettifica offerta economica”, con il quale viene rettificato l’errore materiale dell’offerta economica presentata in gara, all’interno della RdI di "rettifica dell’offerta economica", che verrà appositamente creata all’interno del fascicolo telematico della gara in questione*”.
+
+10\. In data 25 marzo 2024 veniva comunicato a tutti i concorrenti che l’11 aprile 2024 sarebbe avvenuta l’attribuzione del punteggio tecnico e l’apertura delle offerte economiche. La Comes, nei termini previsti (ore 13.00 dell’11 aprile 2024), provvedeva a inviare la rettifica dell’offerta economica. La commissione di gara, aperta la seduta dell’11 aprile 2024, alle ore 15:16, procedeva all’apertura delle offerte economiche, originariamente pervenute dai concorrenti, rimandando all’esito di tale operazione l’apertura della offerta rettificata della Comes.
+
+11\. Venivano, dunque, aperte le offerte economiche, e risultava:
+
+a\) Comes: ribasso percentuale offerto 7%; costi aziendali della sicurezza € 125.688,00; costo della manodopera € 27,23, sulla base del CCNL applicato (metalmeccanico);
+
+b\) RTI CPL Concordia: ribasso percentuale offerto 7,44%; costi aziendali della sicurezza € 180.000,00, costo della manodopera € 3.270.000,00;
+
+c\) Castiglia: ribasso percentuale offerto 8,73%; costi aziendali della sicurezza € 75.000,00; costo della manodopera € 3.700.00,00.
+
+12\. La commissione di gara procedeva, quindi, all’apertura dell’offerta economica rettificata della Comes, nella quale risultavano rettificati i costi della manodopera, che erano quantificati in € 2.451.700,00, nella stessa misura, quindi, indicata dalla Stazione Appaltante negli atti di gara.
+
+13\. La medesima commissione, sentito anche il RUP, accoglieva la modifica, ritenendo che l’originario costo della manodopera indicato dalla Comes fosse un errore materiale.
+
+14\. Venivano, quindi, attribuiti i punteggi economici alle offerte nella seguente misura:
+
+Castiglia 10 punti;
+
+RTI CPL Concordia 8,317 punti;
+
+Comes 7,826 punti.
+
+15\. Questi ultimi, sommati ai punteggi delle offerte tecniche, conducevano alla seguente graduatoria: Comes 84,526 punti; Castiglia 72,143 punti, RTI CPL Concordia 60,528 punti.
+
+16\. La Commissione, pertanto, proponeva l’aggiudicazione in favore della Comes S.p.A.
+
+17\. Il RUP, con comunicazione del 12 aprile 2024, chiedeva di giustificare i costi della manodopera alla Comes, che provvedeva trasmettendo la documentazione necessaria. In esito alla verifica, il RUP concludeva “*che il costo del personale dichiarato in sede di gara dalla ditta COMES S.p.A. risulta adeguatamente comprovato e giustificato e l’offerta risulta essere congrua*”.
+
+18\. Con determinazione n. prot. 40431/2024 del 13 giugno 2024, l’appalto era definitivamente aggiudicato alla Comes e l’accordo quadro veniva sottoscritto il 3 settembre 2024.
+
+19\. La determinazione n. prot. 40431/2024 veniva impugnata dalla Castiglia e il ricorso veniva accolto con sentenza n. 641/2025.
+
+20\. Di tale sentenza, l’Acquedotto Pugliese e Comes S.p.A. hanno chiesto la riforma con rituali e tempestivi atti di appello affidati alle seguenti censure:
+
+a\) (ricorso R.G. 4997 del 2025) “*Errores in procedendo et in iudicando - erronea e falsa applicazione degli art. 1, 2, 3 e 4 del d.lgs. 36/2023 - erronea e falsa applicazione degli artt. 59, 101, comma 4, 108 comma 9, 110 e art. 2, lett. n) dell’all. I.1 del d.lgs. 36/2023. Erronea interpretazione della lex specialis;* *Errores in procedendo et in iudicando- erronea e falsa applicazione degli art. 1, 2, 3 e 4 del d.lgs. 36/2023 - erronea e falsa applicazione degli artt. 41, 12 co. 14, 59, 101, comma 4, 108 comma 9, 110 e art. 2, lett. n) dell’all. I.1 del d.lgs. 36/2023. Erronea interpretazione della lex specialis;* *Errores in procedendo et in iudicando - erronea e falsa applicazione degli art. 1, 2, 3 e 4 del d.lgs. 36/2023 - erronea e falsa applicazione degli artt. 41, co.14, 59, 101, comma 4, 108 comma 9, 110 e art. 2, lett. n) dell’all. I.1 del d.lgs. 36/2023. Erronea interpretazione della lex specialis; Errores in procedendo et in iudicando - erronea e falsa applicazione degli art. 1, 2, 3 e 4 del d.lgs. 36/2023 - erronea e falsa applicazione degli artt. 41, co. 14, 59, 101, comma 4, 108 comma 9, 110 e art. 2, lett. n) dell’all. I.1 del d.lgs. 36/2023. Erronea interpretazione della lex specialis;*
+
+b\) (ricorso R.G. n. 5087 del 2025) “*1. – IN RITO: errores in procedendo e in iudicando dell’appellata sentenza, stante l’inammissibilità per carenza di interesse, sotto diversi profili, del ricorso di primo grado, e per genericità del secondo motivo del ricorso di primo grado;* *2. – NEL MERITO: errores in procedendo e in iudicando dell’appellata sentenza, stante la totale infondatezza del secondo motivo del ricorso di primo grado”.*
+
+21\. Ha resistito ai gravami, chiedendone il rigetto, Castiglia s.r.l. che ha anche proposto ricorso incidentale affidato alle censure così rubricate: “*1. – Error in judicando per violazione degli artt. 2, 100, e 104, d.lgs. n. 36/2023, nonchè degli artt. 3.7. e 4.3.1 del disciplinare di gara e dei principi di autovincolo della p.A. e di tutela della par condicio competitorum*; *2. – Error in judicando per violazione dell’art. 101, comma 4 del d.lgs. n. 36/2023, nonchè dell’art. 97 Cost. e dei principi di segretezza della p.A. e di buon andamento e ragionevolezza dell’attività amministrativa, nonché di tutela della par condicio competitorum”.* Castiglia, nella memoria depositata in data 8 luglio 2025, ha anche riproposto, in via subordinata, ai sensi e per gli effetti di cui all’art. 101, comma 2 c.p.a., nei limiti di interesse, la terza censura del proprio gravame di primo grado dichiarata assorbita dalla sentenza impugnata: «*3. – Violazione degli artt. 3 e 97 Cost. Violazione degli artt. 101 e 104, comma 4 del d.lgs. n. 36/2023. Violazione ed erronea applicazione del par. 6.1.1 del 2 disciplinare. Eccesso di potere per manifesta illogicità della valutazione delle offerte, difetto di istruttoria, erronea presupposizione e disparità di trattamento”.*
+
+22\. Alla udienza pubblica del 27 novembre 2025, i ricorsi, previa riunione ai sensi dell’art. 96 c.p.a., sono stati trattenuti per la decisione.
+
+DIRITTO
+
+23\. Con la sentenza appellata il TAR ha accolto il ricorso sulla base della motivazione che di seguito si sintetizza:
+
+a\) in ordine all’aspetto della tempestività, diversamente da quanto affermato dalla ricorrente, l’istanza di soccorso correttivo non è tardiva; l’art. 101, comma 4, del d.lgs. n. 26 del 2023 dispone quanto segue: “*Fino al giorno fissato per la loro apertura, l'operatore economico, con le stesse modalità di presentazione della domanda di partecipazione, può richiedere la rettifica di un errore materiale contenuto nell'offerta tecnica o nell'offerta economica di cui si sia avveduto dopo la scadenza del termine per la loro presentazione a condizione che la rettifica non comporti la presentazione di una nuova offerta, o comunque la sua modifica sostanziale, e che resti comunque assicurato l'anonimato*”;
+
+a.1.) secondo la parte ricorrente, l’espressione “*fino al giorno fissato per loro apertura*” andrebbe interpretato nel senso che il soccorso in questione non sarebbe più possibile una volta avviata la valutazione comparativa delle offerte a cominciare da quella tecnica, sia alla stregua del tenore letterale della disposizione che appare riferita a tutte e due insieme le componenti dell’offerta (tecnica ed economica), non distinguendosi i due momenti di apertura di ciascuna di esse, sia alla luce dell’esigenza sostanziale di salvaguardare la segretezza delle proposte degli offerenti che viene in rilievo proprio a partire dall’inizio delle operazioni valutative; ragion per cui, nel caso di specie, la Stazione appaltante avrebbe errato nel consentire la rettifica in un momento in cui le offerte tecniche erano già state aperte e finanche valutate;
+
+a.2.) la ricorrente, nell’eventualità in cui si ritenesse che l’art. 101, comma 4, d.lgs. n. 36/2023 consenta rettifiche di errori materiali anche dopo l’inizio dell’attività valutativa in generale della Commissione di gara, ne deduce l’illegittimità costituzionale per contrasto con gli artt. 3 e 97 Cost.
+
+a.3.) il TAR non ha condiviso questa impostazione; è il tenore letterale stesso della norma a far ritenere che il legislatore abbia inteso porre lo sbarramento temporale dell’apertura delle buste con riferimento a ciascuna di esse; la norma ammette la possibilità di rettificare eventuali errori materiali dell’offerta tecnica ed economica “\[*f\]ino al giorno fissato per la loro apertura*”, rettifica che, riprendendo il dettato normativo, può riguardare “*un errore materiale contenuto nell’offerta tecnica o nell’offerta economica*”.
+
+a.4.) alla luce del chiaro tenore testuale, la facoltà accordata dal nuovo Codice dei contratti pubblici, per essere pienamente garantita, deve essere interpretata nel senso di ritenere possibile la rettifica per ciascun tipo di offerta (tecnica o economica e, soprattutto “*loro apertura*”) fino al momento in cui ciascuna di esse non viene aperta;
+
+a.5.) se così non fosse non avrebbe avuto senso distinguere tra offerta tecnica e offerta economica, posto che il legislatore avrebbe potuto limitarsi a fare riferimento, genericamente, alla offerta unitariamente intesa; ciò è confermato dall’utilizzo della congiunzione disgiuntiva «o», mentre l’interpretazione accordata dalla ricorrente richiederebbe una congiunzione di tenore opposto (i.e. «e»); diversamente, il comma in esame avrebbe specificato che la rettifica può avvenire sino all’apertura di una o della prima busta riguardante le offerte;
+
+a.6.) la possibilità di trasmettere rettifiche all’offerta economica in un momento in cui risultano già aperte le offerte tecniche, del resto, non potrebbe, neppure in astratto, incidere sulle valutazioni in corso stante il noto principio di separazione tra offerta tecnica ed economica;
+
+a.7.) ciò è confermato proprio da quanto avvenuto nel caso di specie; la Commissione ha correttamente concluso prima la valutazione delle offerte tecniche e poi ha proceduto all’apertura della busta contenente l’offerta economica, prima quella originaria e poi quella rettificata;
+
+a.8.) il principio della segretezza delle proposte degli offerenti e della separazione tra offerta tecnica ed economica rimane pienamente rispettato, con conseguente manifesta infondatezza del dubbio di legittimità costituzionale sollevato;
+
+b\) invece, nel caso di specie, la rettifica del costo della manodopera operato dalla controinteressata non può configurarsi alla stregua di un errore materiale direttamente e univocamente riconoscibile dal testo dell’offerta economica;
+
+b.1.) non ricorrono i presupposti per poter ravvisare la sussistenza di un errore materiale, laddove si consideri che se è vero che l’importo originariamente indicato di 27,23 euro è *ictu oculi* irreale, a difettare è la seconda condizione che necessariamente deve sussistere ai fini della qualificazione di un errore come meramente materiale ovvero che la sua correzione deve a sua volta consistere nella mera riconduzione della volontà (erroneamente) espressa a quella, diversa, inespressa ma chiaramente desumibile dal documento; tale condizione manca nel caso di specie;
+
+b.2.) né può attribuirsi rilevanza, come invece sostenuto dall’Amministrazione e dalla controinteressata, al fatto che la le*x specialis* di gara prevedeva espressamente che “*ai sensi dell’articolo 41 comma 14 del Codice, i costi della manodopera non sono ribassabili*” (p. 32 del Disciplinare di gara) e che la Comes, in sede di rettifica, li ha quantificati nella stessa misura di € 2.451.700,00 indicata dalla Stazione Appaltante;
+
+b.3.) tale controdeduzione prova essa stessa che, per emendare l’errore, occorreva comunque fare riferimento a documentazione ulteriore rispetto a quella emendata; ma, soprattutto, una siffatta operazione, anche a volersi ammettere in astratto, non avrebbe comunque consentito di ricostruire la volontà, comunque non desumibile dal riferimento al disciplinare, posto che il medesimo Disciplinare di gara prevede effettivamente “*che, ai sensi dell’articolo 41 comma 14 del Codice, i costi della manodopera, non sono ribassabili. Resta tuttavia la possibilità per l’operatore economico di dimostrare che il ribasso complessivo offerto deriva da una più efficiente organizzazione aziendale o da sgravi contributivi che non comportano penalizzazioni per la manodopera*”; ma da ciò non può certo evincersi l’univoca volontà dell’operatore economico di dichiarare costi pari a quelli indicati nella *lex* di gara e non superiori;
+
+b.4.) a ciò deve aggiungersi che l’aggiudicataria ha espresso il medesimo importo sia in cifre sia in lettere: ciò esclude che possa parlarsi di un mero refuso (un *lapsus calami*), anche tenendo presente quella giurisprudenza che ha precisato che alla qualificazione di un errore come materiale ed emendabile non osta il fatto che sia necessaria una, purché minima, attività interpretativa, quando finalizzata alla correzione di errori di scritturazione o calcolo (cfr. Cons. Stato, sez. III, 28.5.2014 n. 1487), non sussistenti nel caso di specie;
+
+c\) il primo motivo, invece, non è fondato; assume parte ricorrente che l’aggiudicataria Comes non sarebbe in possesso del requisito esperienziale relativo alle forniture in misura tale da raggiungere la soglia stabilita, a pena di esclusione, dall’art. 4.3.1, lett. d), del Disciplinare che, tra i requisiti di capacità economico - finanziaria e tecnico-professionale richiesti agli operatori che si qualificano per le prestazioni di forniture, richiede quello dell’“*aver eseguito, negli ultimi tre anni antecedenti la data di pubblicazione del bando di gara, forniture analoghe nel settore oggetto di appalto, per un importo complessivo almeno pari all’importo totale delle prestazioni principali di fornitura previste dall’Appalto, quindi non inferiore a: € 17.283.600,00*”;
+
+c.1.) il possesso di siffatto requisito esperienziale è stato dimostrato dall’aggiudicataria attraverso il ricorso all’avvalimento con l’ausiliaria 2G Italia che ha conseguito un fatturato pari a € 17.631.722,98, quindi superiore rispetto alla soglia di € 17.283.600,00 richiesta dal Disciplinare di gara; la parte ricorrente si duole della circostanza che in seguito, in fase di comprova dei requisiti, la Comes ne abbia documentato il possesso attraverso il cumulo del fatturato di € 8.432.472,13 da essa autonomamente conseguito e quello di € 17.631.722,98, asseritamente maturato dall’ausiliaria in forniture analoghe; più precisamente, la ricorrente lamenta:
+
+\- l’illegittimità del cumulo del requisito del concorrente con il requisito dell’ausiliaria ai fini del raggiungimento della “soglia” prescritta dalla *lex specialis* per mancata espressa dichiarazione in tal senso in sede di partecipazione alla gara;
+
+\- l’inadeguatezza della documentazione prodotta da Comes ai fini della dimostrazione della propria esperienza pregressa nell’esecuzione di forniture;
+
+\- la carenza, in capo all’ausiliaria 2G Italia, dell’esperienza pregressa in forniture richiesta dalla *lex specialis* di gara necessaria al raggiungimento per l’intero della soglia di € 17.283.600,00, per presunta impossibilità di conteggiare una quota pari a € 3.088.760,13 relative alla prestazione di servizi;
+
+c.2.) la censura è infondata; il possesso del requisito esperienziale è stato dimostrato dall’aggiudicataria anzitutto attraverso il ricorso all’avvalimento con l’ausiliaria 2G Italia che, da sola supera il requisito richiesto dalla Stazione appaltante, per aver la stessa conseguito un fatturato addirittura pari a € 17.631.722,98, superiore rispetto alla soglia di € 17.283.600,00 richiesta dal Disciplinare di gara; *ad abundantiam*, poi, la ricorrente ha dimostrato il possesso anche in proprio di parte del requisito esperienziale richiesto, ma, proprio per tale ragione, tale dimostrazione è irrilevante; deve dunque, farsi riferimento alla sola ausiliaria che, diversamente da quanto dedotto dalla ricorrente, è in possesso del requisito in questione;
+
+c.3.) il possesso del requisito esperienziale richiesto ai sensi dell’art. 4.3.1, lett. d), del Disciplinare viene contestato solo parzialmente e, segnatamente, per il solo importo pari a € 3.088.760,13, non essendo in contestazione in possesso, tramite avvalimento di 2G Italia, del requisito esperienziale dell’esecuzione di forniture analoghe per l’importo di € 14.542.962,85;
+
+c.4.) la ricorrente assume che i contratti “Full service” prodotti ai fini della dimostrazione del requisito esperienziale da parte di 2G Italia avrebbero ad oggetto prestazioni riconducibili alla categoria dei servizi, con conseguente impossibilità di impiegarli per provare l’esperienza pregressa in forniture analoghe;
+
+c.5.) dall’esame dei contratti prodotti in sede di gara emerge che la voce di € 3.088.760,13 corrisponde alla quota del 60% per forniture previste all’interno dei contratti “Full service” stipulati da 2G Italia di valore totale pari a € 5.147.933,55;
+
+c.6.) la correttezza di tale quota emerge *ex actis* ed è stata verificata dalla Stazione appaltante;
+
+d\) dall’accoglimento del secondo motivo deriva l’assorbimento del terzo, proposto dalla ricorrente in via meramente subordinata.
+
+24\. Gli appelli proposti, in sintesi, contengono le seguenti censure:
+
+a\) (ricorso R.G. 4997 del 2025 primo motivo) la decisione impugnata non ha tenuto conto che:
+
+\- i costi della manodopera non sono stati omessi, ma erroneamente indicati;
+
+\- l’importo indicato era sensibilmente irreale, *ictu oculi* riconoscibile come un evidente errore materiale;
+
+\- nell’ambito della gara, i costi della manodopera non erano oggetto di alcuna attribuzione di punteggio, che è stata effettuata solo sul ribasso percentuale, che non è stato mai modificato;
+
+\- era, comunque, possibile pervenire alla corretta interpretazione dell’offerta anche senza ausili estranei alla documentazione di gara;
+
+\- oggetto dell’appalto è un affidamento mediante accordo quadro;
+
+a.1.) non vi è stata alcuna modifica postuma dell’offerta, ma una semplice rettifica, o chiarimento; tale ultima circostanza è, peraltro, riscontrabile dalle risultanze emerse in sede di verifica di congruità dei costi della manodopera, e i relativi verbali, unitamente ai giustificativi della Comes, non sono stati in alcun modo contestati dalla originaria ricorrente, determinando ciò la cristallizzazione di quanto negli stessi riportato e l’inammissibilità di ogni contestazione al riguardo e, dunque, anche del ricorso;
+
+a.2.) dalla lettura di tali documenti, emerge chiaramente che il costo indicato in prima battuta dalla ricorrente di € 27,23, altro non è che il costo orario unitario medio del personale stimato per l’esecuzione dell’appalto sulla base del CCNL settore metalmeccanico applicato dall’impresa; prendendo, infatti, come riferimento il costo complessivo stimato dalla stazione appaltante di € 2.451.700,00, a cui la Comes si è attenuta con la propria offerta economica, e dividendolo per il presumibile monte ore stimato dalla società per l’esecuzione dell’intero accordo quadro, pari a 90.034,16 h, si ottiene l’importo di € 27,23 l’ora, importo che, in sede di verifica e di equivalenza economica, è stato ritenuto congruo, ed anzi, per alcune voci, migliorativo rispetto al CCNL edile;
+
+a.3.) in sostanza, l’aggiudicataria, resasi conto di aver erroneamente indicato il costo unitario e non quello complessivo, ha provveduto a rettificare la propria offerta senza che ciò modificasse la sostanza della stessa;
+
+b\) (ricorso R.G. 4997 del 2025 secondo motivo) il disciplinare non prevedeva l’esclusione in caso di mancata, errata od incongrua indicazione del costo manodopera, ma comminava la sanzione espulsiva solo qualora non fosse stato presentato il modello di offerta economica Allegato 5;
+
+b.1.) nel caso di specie, era chiaramente scritto che il ribasso doveva essere calcolato con riferimento all’importo totale comprensivo del costo della manodopera ancorché quest’ultimo non fosse soggetto a ribasso; si specificava, poi, che eventuali riduzioni del costo della manodopera sarebbero state oggetto di valutazione in sede di verifica di anomalia;
+
+b.2.) sin dalla presentazione della originaria offerta, l’aggiudicatario aveva chiaramente specificato il CCNL di lavoro che avrebbe applicato, indicazione che evidentemente era distonica rispetto all’esiguo importo del costo della manodopera, e soprattutto all’impiego della forza lavoro indicata nell’offerta tecnica; nel modello 5, inoltre, in alcun modo l’aggiudicatario aveva proposto una riduzione o un ribasso dei costi della manodopera;
+
+b.3.) a ciò consegue che, avendo indicato precisamente il CCNL che avrebbe applicato, e considerato che il ribasso non comprendeva i costi della manodopera, è evidente che il soccorso correttivo non ha modificato in alcun modo l’offerta;
+
+b.4.) nel caso di specie, era assente l’autonoma dichiarazione, o una qualsivoglia indicazione, di voler riferire il ribasso anche ai costi della manodopera o, comunque, di volerli ribassare; pertanto, la stazione appaltante avrebbe potuto anche esercitare il soccorso procedimentale al fine di confermare l’effettiva volontà del dichiarante, già evidente, senza attingere a fonti esterne; le offerte, intese come atto negoziale, sono suscettibili di essere interpretate in modo tale da ricercare l’effettiva volontà del dichiarante;
+
+c\) (ricorso R.G. 4997 del 2025 terzo motivo) il TAR ha statuito che l’aggiudicataria, a causa dell’erronea indicazione dei costi della manodopera, avrebbe dovuto essere esclusa dalla gara, ma anche tale statuizione non si armonizza con il dettato normativo e con la *lex specialis*;
+
+c.1.) l’impossibilità di un tale epilogo, si desume dall’art. 108, comma 9 del Codice dei contratti pubblici che prevede l’esclusione solo nel caso di omessa indicazione dei costi della manodopera, non di erronea o incongrua indicazione; e in tal senso depone anche il disciplinare, che prevedeva che “*eventuali riduzioni del costo della manodopera proposto dall’operatore nell’offerta saranno, poi, oggetto di valutazione nel corso del subprocedimento di verifica dell’offerta*”;
+
+c.2.) l’offerta, quindi, doveva essere sottoposta a verifica *ex* art. 110 del Codice, e in esito, ove anomala, esclusa;
+
+d\) (ricorso R.G. 4997 del 2025 quarto motivo) nel caso di specie, si tratta di un accordo quadro, per sua natura aleatorio; ai sensi dell’art. 59 del c.c.p., si deve solo indicare a monte, il valore stimato della intera operazione contrattuale e, dunque, le condizioni a cui saranno stipulati i contratti specifici a valle, incerti nell’*an*, nel *quantum* e nel *quomodo*;
+
+d.1.) gli elementi che compongono il costo della manodopera (monte ore, numero e tipologia di personale) sono assolutamente fittizi, residuando come unico elemento rilevante il contratto collettivo nazionale e territoriale di lavoro in vigore per il settore e per la zona nelle quali si eseguono le prestazioni, in osservanza di tutte le prescrizioni richiamate dall’art. 11 del Codice dei contratti pubblici;
+
+d.2.) in un accordo quadro, aleatorio per i motivi innanzi esposti, ogni indicazione relativa al costo della manodopera – e, in realtà, anche a quello della sicurezza - è privo di concretezza, perché è evidente l’impossibilità di indicare il personale stabilmente impiegato nella commessa se non si conoscono ancora i contratti esecutivi da effettuarsi;
+
+d.3.) l’aggiudicataria *ab origine* – e, dunque, prima dell’attivazione del procedimento *ex* comma 4 dell’art. 101 c.c.p. - aveva dichiarato di applicare il CCNL settore metalmeccanico, senza alcun ribasso sul costo della manodopera;
+
+e\) (ricorso n. 5087 del 2025 primo motivo) dopo aver argomentato con ampi svolgimenti sulla natura dell’Accordo quadro, Comes ha osservato che il ragionamento della ricorrente in primo grado si scontra con una serie di disposizioni del disciplinare di gara non impugnate e quindi oggi cristallizzate, il cui tenore e portata rendono inammissibile per carenza di interesse il ricorso di primo grado;
+
+e.1.) in relazione alle offerte economiche e, più nello specifico, al costo non ribassabile della manodopera, il disciplinare di gara sub pag. 32 aveva espressamente riconosciuto “*la possibilità per l’operatore economico di dimostrare che il ribasso complessivo offerto deriva da una più efficiente organizzazione aziendale o da sgravi contributivi che non comportano penalizzazioni per la manodopera”* precisando in maniera ancor più netta ed inequivocabile che *“eventuali riduzioni del costo della manodopera proposto dall’operatore nell’offerta saranno, poi, oggetto di valutazione nel corso del subprocedimento di verifica della congruità dell’offerta”* (cfr. pag. 32, disciplinare di gara);
+
+e.2.) ne consegue che, in forza della su riportata norma di gara, l’indicazione all’interno dell’offerta economica di un costo della manodopera ridotto o, per utilizzare la stessa terminologia usata al riguardo dal ricorrente, “*manifestamente minore*” (cfr. pag. 23, ricorso introduttivo) rispetto a quello predeterminato da Acquedotto Pugliese non costituiva e non costituisce causa di automatica esclusione dalla procedura;
+
+e.3.) sempre a pag. 32 il disciplinare di gara aveva stabilito la comminatoria della esclusione solo in caso di offerta economica carente dei seguenti elementi: “*a) Il ribasso percentuale unico del \_\_\_\_\_\_\_\_\_\_\_\_\_\_% - in cifre (\_\_\_\_\_\_\_\_\_\_\_ per cento – in lettere) da applicare ai prezzi unitari, di cui all’elenco prezzi ED.07 posto a base di gara, b) ai sensi dell’art. 108, c. 9, del Codice dei Contratti, il costo del proprio personale stimato per l’esecuzione dell’appalto, stimato sulla base del CCNL applicato dal concorrente, da indicare espressamente; c) ai sensi dell’art. 108, c. 9, del Codice dei Contratti, i propri oneri aziendali interni concernenti*” (cfr. pag. 32, disciplinare di gara);
+
+e.4.) coerentemente, in ordine al procedimento di “soccorso istruttorio”, lo stesso disciplinare all’art. 5.2.1. aveva disposto che “*ove il concorrente produca dichiarazioni o documenti non perfettamente coerenti con la richiesta, la stazione appaltante può chiedere ulteriori precisazioni o chiarimenti, limitate alla documentazione presentata in fase di soccorso istruttorio, fissando un termine a pena di esclusione. La stazione appaltante può sempre chiedere chiarimenti sui contenuti dell’offerta tecnica* *e dell’offerta economica e su ogni loro allegato”* (cfr. pag. 3, disciplinare di gara);
+
+e.5.) ne consegue che Castiglia, per poter rivendicare l’esclusione automatica dalla gara di Comes, avrebbe dovuto impugnare le summenzionate norme della *lex specialis*, dal momento che queste ultime, in caso di offerte economiche indicanti un costo della manodopera inferiore rispetto a quello stimato dalla stazione appaltante, non hanno previsto la comminatoria dell’esclusione, bensì hanno stabilito l’avvio di un sub-procedimento di verifica di congruità;
+
+f\) (ricorso n. 5087 del 2025 secondo motivo) si discute di una rettifica operata da Comes mediante lo strumento del “soccorso istruttorio correttivo”, introdotto nel nostro ordinamento dall’art. 101, comma 4, del d.lgs. n. 36 del 2023, in relazione al quale tutte le sentenze richiamate dal Giudice di primo grado si rivelano anacronistiche e/o comunque non pertinenti, in quanto intervenute quando ancora tale forma di soccorso istruttorio non esisteva;
+
+f.1.) il principio pretorio su cui si fonda la sentenza appellata, e in base al quale l’errore materiale sarebbe emendabile soltanto negli stretti limiti in cui possa essere immediatamente percepito o *ictu oculi* rilevato nel/dal contesto stesso dell’atto in cui tale refuso è contenuto, trae origine dai casi in cui ad operare la rettifica è stata d’ufficio la Stazione appaltante, oppure dai casi di “aggiustamenti” apportati dai concorrenti a seguito di osservazioni mosse dalla Committente una volta aperte e valutate le offerte;
+
+f.2.) la rettifica di cui all’art. 101, comma 4, del d. lgs. n. 36 del 2023 si contraddistingue per essere apportata direttamente dal concorrente prima che la sua offerta venga aperta dalla Commissione;
+
+f.3.) il concorrente, in quanto soggetto che ha materialmente confezionato l’offerta, ha una immediata percezione dell’errore commesso rispetto all’impegno che ha inteso realmente assumere nei confronti della Stazione appaltante;
+
+f.4.) imporre, come ha fatto il TAR, all’intervento correttivo di cui all’art. 101, comma 4, del d. lgs. n. 36 del 2023 i limiti interpretativi imposti da una giurisprudenza maturata quando tale norma non esisteva significherebbe ridurre lo strumento del soccorso istruttorio correttivo a una inutile duplicazione delle già preesistenti forme di soccorso istruttorio integrativo/completivo e sanante (cfr. art. 83, comma 9, del d. lgs. n. 50 del 2016), e così facendo, renderlo *tamquam non esset*;
+
+f.5.) nel caso di specie non è configurabile alcuna attività ricostruttiva dell’offerta di Comes da parte di Acquedotto Pugliese, giacché, la rettifica del *lapsus calami* è stata operata direttamente dall’appellante quando ancora la Stazione appaltante non aveva aperto e, quindi, valutato la sua offerta economica; la rettifica in questione, peraltro, è consistita nella indicazione del valore della manodopera in termini di costo complessivo in luogo dell’iniziale dichiarazione di tale valore in termini di costo medio unitario (€ 27,23);
+
+f.6.) ciò viepiù se si considera quanto sia oggettivamente assurdo supporre che -a fronte del valore dell’appalto, del prezzo offerto e del costo della manodopera prestabilito da Acquedotto Pugliese nella misura di € 2.451.700,00 non ribassabile- Comes possa essersi davvero impegnata a sostenere un risibile costo pari a € 27,23, peraltro riconosciuto essere “irreale” anche dallo stesso TAR;
+
+f.7.) altra rilevante circostanza sorprendentemente trascurata dal TAR riguarda proprio l’univoca volontà espressa da Comes nel corso di gara; nell’offerta presentata il 3 gennaio 2024, l’appellante si è impegnata ad eseguire l’appalto a fronte di un ribasso del 7%; sempre nella suindicata offerta, Comes si è impegnata ad applicare ai propri lavoratori il CCNL del comparto metalmeccanico, dichiarando remunerativa la propria offerta economica “*giacché per la sua formulazione ha preso atto e tenuto conto delle condizioni contrattuali e degli oneri compresi quelli eventuali relativi in materia di sicurezza, di assicurazione, di condizioni di lavoro e di previdenza e assistenza in vigore nel luogo dove devono essere svolti i servizi e di tutte le circostanze generali, particolari e locali, nessuna esclusa ed eccettuata, che possono avere influito o influire sia sulla prestazione dei lavori, sia sulla determinazione della propria offerta*” (cfr. offerta Comes del 3 gennaio 2024);
+
+f.8.) in quella stessa sede Comes si è altresì impegnata “*in caso di aggiudicazione dell’appalto, ad eseguire i lavori al prezzo offerto, che riconosce remunerativo”, rappresentando la sua volontà di “garantire al personale impiegato nei lavori il contratto collettivo nazionale e territoriale in vigore per il settore e per la zona nella quale si eseguono le prestazioni di lavoro*” (offerta Comes del 3 gennaio 2024);
+
+f.9.) letta nella sua interezza, l’offerta del 3 gennaio 2024 si presta quindi a un’unica interpretazione: il costo della manodopera indicato non poteva e non può essere inteso come costo complessivo; del resto, l’allegato 5 posto a base di gara non imponeva l’indicazione di tale voce dell’offerta in termini di costo complessivo;
+
+f.10.) il valore di € 27,23 va inteso come costo unitario medio, non essendo altro che la matematica risultante del costo complessivo della manodopera stimato da Comes (esattamente pari a quello predeterminato da Acquedotto Pugliese) diviso per il monte ore dalla medesima calcolato ai fini dell’esecuzione dell’offerta.
+
+25\. Castiglia s.r.l. ha contestato con ampi svolgimenti le argomentazioni contenute negli atti di appello e ha proposto anche ricorso incidentale che contiene censure così sintetizzabili:
+
+a\) (primo motivo) la sentenza impugnata ha disatteso il motivo sub 1 del ricorso di primo grado; con tale censura l’impresa Castiglia s.r.l. ha dedotto l’illegittimità del provvedimento di aggiudicazione per violazione dell’art. 4.3.1, lett. d) del disciplinare di gara, essendo la Comes s.p.a. risultata sfornita del requisito di capacità tecnico-professionale ed economico-finanziaria nell’intera misura richiesta a pena di esclusione, pari ad € 17.283.600,00, quale valore complessivo di forniture analoghe a quelle oggetto di appalto eseguite nell’ultimo triennio;
+
+a.1.) tale soglia non veniva raggiunta in virtù dell’esperienza messa a disposizione dall’ausiliaria, avendo questa svolto prestazioni effettivamente inquadrabili come forniture solo per un valore complessivo di € 14.542.962,85, non potendo considerarsi quelle ulteriori dell’importo di € 3.088.760,13, indebitamente “scorporate” dall’aggiudicataria da contratti di *full service* che comprovano semmai l’espletamento di servizi analoghi a quelli oggetto di appalto proprio ed anche ai sensi dell’espresso disposto di cui agli artt. 2 e 85 del capitolato;
+
+a.2.) né, al fine di colmare tale lacuna, si rivelava spendibile il fatturato di € 8.432.472,13 asseritamente conseguito in via autonoma dalla Comes s.p.a. per l’esecuzione di forniture, costituendo invero “*lavori*” tutte le attività da essa documentate attraverso le fatture e i contratti esibiti in sede di comprova del requisito in parola, tra l’altro anche in contraddizione con quanto rappresentato alla stazione appaltante in fase di partecipazione alla procedura – e, segnatamente, nel contratto di avvalimento – in cui essa aveva invece dichiarato di ricorrere integralmente all’ausiliaria 2G Italia s.r.l. per la dimostrazione del predetto requisito;
+
+a.3.) i contratti di *full service* non sono idonei a comprovare l’avvenuto espletamento di forniture; si tratta, infatti, di contratti che hanno testualmente ad oggetto l’esecuzione di “*servizi di assistenza tecnica*” e di “*interventi di manutenzione agli impianti*”, come risulta dall’art. 1 di ognuno di essi;
+
+a.4.) anche il successivo art. 2 specifica le attività da svolgere, in virtù di tali contratti, in quelle di: - “*riparazioni e ripristino funzionalità*”; - “*accettazione guasti 24/24 ore*”; - “*formazione tecnica con riferimento alla prestazione che deve essere effettuata dal gestore*; tutte quelle appena elencate sono proprio le prestazioni contemplate agli artt. 2 e 85 del capitolato della procedura in questione ai fini della definizione della distinta categoria dei servizi oggetto di appalto, la cui esperienza pregressa rileva per la comprova del possesso dell’autonomo ed ulteriore requisito di cui all’art. 4.3.1, lett. e) cit. del disciplinare;
+
+a.5.) ciò, già di per sé, preclude in radice – anche alla stregua del principio generale di autovincolo della p.a., che non consente la disapplicazione di tassative prescrizioni della *lex specialis*, quali quelle appena richiamate – qualsivoglia tentativo di ricondurre, anche solo parzialmente, le attività svolte in esecuzione dei predetti contratti nell’alveo delle forniture analoghe a quelle oggetto di appalto; queste ultime, infatti, ai sensi dell’art. 2 del capitolato, si riferiscono alle prestazioni – completamente distinte – di installazione degli impianti che costituiscono “*il sistema completo di cogenerazione dotato delle apparecchiature, dei dispositivi, degli ausiliari, degli accessori, dei software e delle connessioni per eseguire correttamente i seguenti step/fasi di trattamento e utilizzo dei biogas …”*;
+
+a.6.) lo stesso art. 2 del capitolato annovera, invece, tra i “servizi” le attività – pienamente assimilabili a quelle oggetto dei contratti di *full service* prodotti dall’ausiliaria dell’aggiudicataria – di manutenzione ordinaria e straordinaria e gli interventi c.d. “a guasto” del predetto sistema, oltre che quella di formazione specialistica degli operatori addetti; la richiamata disposizione della *lex specialis* precisa anche che le attività appena elencate sono destinate ad aver luogo in una fase temporale distinta rispetto a quella delle suindicate prestazioni di fornitura, ad ulteriore dimostrazione dell’evidente ed oggettiva differenza da queste ultime, ossia nei due anni successivi all’installazione dei predetti impianti presso i depuratori;
+
+a.7.) gli stessi contratti di *full service* ricomprendono inequivocabilmente – tra le prestazioni da essi escluse – proprio le attività di fornitura (in particolare: “*del combustibile del modulo di cogenerazione”*, nonché di “*olio*”, “*carboni attivi*”, “*liquidi operativi*”, etc.);
+
+a.8.) il fatto che nell’ambito delle predette risorse sia stata stimata nella misura del 60% l’incidenza della componente dei materiali non può certo consentire – di per sé – di ritenere che per tale quota i rapporti negoziali in questione assumano la natura giuridica di contratti di fornitura, assumendo una qualificazione autonoma e distinta rispetto a quella di servizi (di assistenza e manutenzione) cui essi sono invece riconducibili nella loro interezza anche ai sensi dell’inequivocabile disposto del capitolato dell’appalto in esame;
+
+a.9.) anche gli artt. 2 e 85, nel descrivere i servizi di assistenza e manutenzione che qui vengono in rilievo, prevedono comunque la consegna di materiali (ad esempio, di quelli di ricambio, in caso di guasti o di logorio degli impianti), ma non per questo essi vengono qualificati – neppure in parte – quali forniture, ma sempre e solo come servizi;
+
+a.10.) è intrinseca allo svolgimento di ogni servizio di manutenzione – compreso quello oggetto di appalto – la messa a disposizione di materiali, senza che però ciò possa alterarne la propria qualificazione giuridica unitaria e autorizzare indebiti frazionamenti del contratto ai fini della spendita dell’esperienza maturata attraverso l’esecuzione dello stesso per dimostrare più requisiti distinti tra loro;
+
+a.11.) anche ai sensi dell’art. 100, comma 11 del d.lgs. n. 36/2023, “*le stazioni appaltanti possono, altresì, richiedere agli operatori economici quale requisito di capacità tecnica e professionale di aver eseguito nel precedente triennio dalla data 15 di indizione della procedura di gara contratti analoghi a quello in affidamento anche a favore di soggetti privati*”; dunque, interi contratti, non “frammenti” degli stessi;
+
+a.12.) quanto, poi, al presunto fatturato autonomo in tema di forniture, che il TAR ha ritenuto ininfluente ai fini della verifica del possesso del requisito in parola sull’erroneo presupposto che esso risultasse già integralmente dimostrato dall’ausiliaria, mette conto precisare che tale fatturato, in realtà, è irrilevante perché si riferisce a lavori – e non già e non certo a forniture – come risulta inequivocabilmente dall’esame di tutti i documenti prodotti a tal fine dall’aggiudicataria, che concernono in particolare lo svolgimento di attività di: - realizzazione di impianto elettrostrumentale (cfr. ordinativo dell’impresa Termokimik Corporation), - lavori di posa in opera, etc., relativi ad impianto di produzione energetica (cfr. contratto con Fata s.p.a.) - c.d. “revamping”, ossia rifacimento di impianto fotovoltaico (cfr. “ordine d’acquisto per lavori” con A2A Energiefuture s.p.a.); - “lavori di realizzazione” di impianti di riscaldamento delle caldaie, nonché del “circuito biogas di distribuzione e collegamento generatori”, etc. (cfr. contratto con Belenergia s.p.a.); - lavori di ristrutturazione di impianto energetico (fatture emesse nei confronti dell’impresa Fisia Italimpianti s.p.a.);
+
+a.13.) dalle fatture allegate ai predetti contratti si rileva che nella descrizione delle prestazioni eseguite v’è espressa menzione dei S.A.L., se non addirittura direttamente di “lavori”, ciò che conferma ulteriormente l’estraneità di tali prestazioni rispetto alla categoria delle forniture; sul punto, nulla è stato eccepito nell’ambito del giudizio di primo grado, quindi, anche alla stregua del principio di non contestazione sancito dall’art. 64, comma 2 c.p.a., deve senz’altro ritenersi fondato il profilo di censura in parola;
+
+b\) (secondo motivo) non è comunque condivisibile l’assunto del TAR secondo cui l’istanza di correzione dell’offerta economica da parte della Comes sarebbe stata tempestivamente formulata ai sensi dell’art. 101, comma 4 del d.lgs. n. 36/2023; l’intempestività della predetta istanza vizia ulteriormente l’attivazione del “soccorso procedimentale” ritenuto ammissibile da parte di Acquedotto Pugliese;
+
+b.1.) lo sbarramento temporale al soccorso procedimentale in questione risulta riferito in termini unitari all’apertura di entrambe le componenti dell’offerta (tecnica ed economica), senza distinzioni di sorta; depongono in tal senso i riferimenti al “giorno” (al singolare) e all’“apertura” riferita non a ciascuna componente dell’offerta singolarmente considerata, ma ad entrambe le componenti insieme dell’offerta (“loro apertura”); in altri termini, è sufficiente che abbia inizio la fase valutativa perché operi la preclusione all’esercizio della facoltà di cui all’art. 101 comma 4 del Codice dei contratti pubblici;
+
+b.2.) sarebbe comunque tutt’altro che infondato il motivo in questione nella parte contenente la questione di legittimità costituzionale della richiamata norma sollevata in primo grado nella subordinata prospettiva in cui fosse quella finora censurata la corretta interpretazione della predetta disposizione del Codice dei contratti pubblici; sarebbe palese, infatti, il contrasto di tale norma con l’art. 97 Cost., che tutela il predetto interesse pubblico alla segretezza delle offerte fino alla soglia massima del rischio meramente astratto e potenziale di lesione dello stesso.
+
+26\. Le censure, così sintetizzate, possono a questo punto essere esaminate.
+
+27\. Gli articolati atti di appello, il ricorso incidentale, e i motivi riproposti ai sensi dell’art. 101 c.p.a., vertono sulle seguenti questioni di fondo:
+
+a\) accordi quadro e costo della manodopera;
+
+b\) l’interpretazione dell’art. 101 comma 4 del Codice dei contratti pubblici;
+
+c\) il concetto di errore materiale rilevante ai sensi dell’art. 101 comma 4;
+
+d\) la questione di legittimità costituzionale (secondo motivo del ricorso incidentale);
+
+e\) la sussistenza del requisito di capacità tecnico-professionale ed economico-finanziaria dell’aggiudicataria;
+
+f\) motivi riproposti da Castiglia s.r.l. ai sensi dell’art. 101 c.p.a.
+
+28\. In ordine al primo punto (accordi quadro e costo della manodopera) le argomentazioni degli appellanti (primo motivo del ricorso di Acquedotto Pugliese e premessa del ricorso di Comes S.p.A.) sono fondate. Si tratta di argomentazioni utili a chiarire l’assoluta particolarità della vicenda controversa, particolarità che non è stata colta dal primo Giudice.
+
+28.1. Avendo la gara ad oggetto un accordo quadro, di natura meramente programmatoria, ed essendo, quindi, impossibile l’esatta quantificazione *ex ante* delle singole voci di costo che si riveleranno necessarie per l'esecuzione dei contratti di volta in volta conclusi, è sufficiente l’indicazione di un costo approssimativo della manodopera, che verrà in seguito specificato nei contratti applicativi. In questo senso, seppure con riferimento a un caso differente rispetto a quello qui esaminato, la Sezione ha già avuto modo di esprimersi con sentenza 26 gennaio 2023, n. 909.
+
+28.2. L’accordo quadro è, secondo la definizione contenuta all’art. 2, lett. n, dell’allegato I.1 del Codice dei contratti pubblici — rimasta immutata rispetto a quella dell’art. 3, comma 1, lett. iii, del Codice dei contratti pubblici del 2016, in quanto già riproduttiva della definizione contenuta nell’art. 33 della direttiva n. 2014/ 24/UE — “*l’accordo concluso tra una o più stazioni appaltanti e uno o più operatori economici il cui scopo è stabilire le clausole relative agli appalti da aggiudicare durante un dato periodo, in particolare per quanto riguarda i prezzi e, se del caso, le quantità* *previste*”. Si tratta, dunque, di un *pactum de modo contrahendi*, vale a dire di un contratto normativo (Consiglio di Stato sez. III, 6 marzo 2018 n. 1455), dal quale non scaturiscono effetti reali o obbligatori e la cui efficacia consiste nel vincolare, alla disciplina fissata, la successiva manifestazione di volontà delle parti contraenti nella stipula dei contratti esecutivi, tanto che l’operatore che si aggiudica la gara per l’affidamento di un accordo quadro non acquisisce il diritto di rendere il servizio o di erogare la fornitura richiesta dalla stazione appaltante nella misura della quantità e/o dell’importo massimo indicati nella *lex specialis*.
+
+29\. Anche in ordine a secondo e terzo punto (l’interpretazione dell’art. 101 comma 4 del Codice dei contratti pubblici e il concetto di errore materiale rilevante) le argomentazioni degli appellanti sono da condividere.
+
+29.1. Il soccorso istruttorio c.d. “correttivo” è stato disciplinato per la prima volta dal d.lgs. n. 36 del 2023 all’art. 101 comma 4. Si tratta di chiarire il perimetro di applicazione della citata disposizione.
+
+29.2. Il soccorso istruttorio, introdotto dall’art. 27, Dir. 71/305/CEE in materia di coordinamento delle procedure per l’aggiudicazione degli appalti pubblici di lavori, oggi è disciplinato dall’art. 56, par. 3, Dir. 2014/24/UE secondo cui “*Se le informazioni o la documentazione che gli operatori economici devono presentare sono o sembrano essere incomplete o non corrette, o se mancano documenti specifici, le amministrazioni aggiudicatrici possono chiedere, salvo disposizione contraria del diritto nazionale che attua la presente direttiva, agli operatori economici interessati di presentare, integrare, chiarire o completare le informazioni o la documentazione in questione entro un termine adeguato, a condizione che tale richiesta sia effettuata nella piena osservanza dei principi di parità di trattamento e trasparenza*”. Il soccorso istruttorio può quindi essere attivato non solo per chiarire, ma anche per integrare e completare le informazioni o la documentazione di gara - prevedendo come unico limite il rispetto dei principi di parità di trattamento e di trasparenza.
+
+29.3. La Corte di Giustizia ha tracciato i confini dell’istituto precisando che:
+
+a\) il principio di parità di trattamento e l’obbligo di trasparenza ostano a qualsiasi forma di trattativa o di negoziato tra l’amministrazione aggiudicatrice e i concorrenti nell’ambito di una procedura ad evidenza pubblica;
+
+b\) in linea di principio, un’offerta non può essere modificata dopo il suo deposito, né su iniziativa dell’amministrazione aggiudicatrice né dell’offerente (Corte di Giustizia UE, 29 marzo 2012, C-599/10, SAGELV Slovensko e a.; Corte di Giustizia UE 10 ottobre 2013, C-336/12, Manova);
+
+c\) la richiesta di chiarimenti deve essere rivolta in modo equivalente a tutti gli offerenti che si trovano nella stessa situazione e deve riguardare tutti i punti dell’offerta che richiedono un chiarimento (Corte di Giustizia UE 11 maggio 2017, C-131/16, Archus e Gama);
+
+d\) nell’esercizio di tale potere, l’amministrazione aggiudicatrice deve trattare i candidati in maniera uguale e leale, di modo che, all’esito della procedura di selezione delle offerte e tenuto conto del risultato di quest’ultima, non possa apparire che la richiesta di chiarimenti abbia indebitamente favorito o sfavorito il candidato o i candidati cui essa è stata rivolta (Corte di Giustizia UE 11 maggio 2017, C-131/16, Archus e Gama);
+
+e\) la richiesta di chiarimenti non può ovviare alla mancanza di un documento o di un’informazione che la disciplina di gara richiedeva a pena di esclusione, posto che l’amministrazione aggiudicatrice è tenuta ad osservare rigorosamente i criteri da essa stessa fissati (Corte di Giustizia UE 6 novembre 2014, C-42/13, Cartiera dell’Adda; Corte di Giustizia UE 10 novembre 2016, C-199/15, Ciclat; Corte di Giustizia UE 28 febbraio 2018, C-523/16 e C-536/16, MA.T.I. SUD S.p.a.);
+
+f\) la richiesta di chiarimenti, e dunque l’attivazione del soccorso istruttorio, è ammissibile in presenza di carenze informative e documentali non richieste a pena di esclusione dalla stessa amministrazione (Corte di Giustizia UE 2 giugno 2016, C-27/15, Pizzo Pippo e aa.);
+
+g\) la richiesta di chiarimenti non può condurre, da parte dell’offerente interessato, alla presentazione di una nuova offerta (Corte di Giustizia UE 29 marzo 2012, SAGELV Slovensko e a., C-599/10);
+
+h\) eventuali integrazioni o correzioni all’offerta possono essere eccezionalmente consentite, ma ciò solo ove non conducano ad una modifica sostanziale della offerta medesima e siano quindi finalizzate ad eliminare errori materiali manifesti (Corte di Giustizia UE 11 maggio 2017, C-131/16, Archus e Gama).
+
+29.4 Il soccorso istruttorio nel nuovo Codice dei contratti pubblici ha visto accresciuta la propria centralità. A differenza del Codice previgente è stata inserita una autonoma e più articolata disposizione e ne è stato ampliato l’ambito, la portata e le funzioni. Nella Relazione illustrativa al Codice è precisato che la disciplina contemplata dall’art. 101 muove da un approccio sostanziale, volto ad evitare che lo svolgimento della procedura di gara sia condizionato da un eccessivo formalismo, tale da pregiudicare la qualità dell’offerta e il pieno raggiungimento dell’obiettivo perseguito dalla stazione appaltante con la procedura di gara. Chiave interpretativa della disposizione è pertanto la leale collaborazione delle parti.
+
+29.5. La Corte di Giustizia ha avuto modo di precisare che il principio di parità di trattamento non osta a che un'offerta possa essere corretta o completata su singoli punti, qualora quest'ultima necessiti in modo evidente un chiarimento o qualora si tratti di correggere errori materiali manifesti (Corte di Giustizia UE 11 maggio 2017, C-131/16, Archus e Gama).
+
+29.6. Ciò che conta è che, nell'esercizio del potere discrezionale di cui dispone la stazione appaltante, quest'ultima deve trattare i diversi candidati in maniera uguale e leale, di modo che, all'esito della procedura di selezione delle offerte e tenuto conto del risultato di quest'ultima, non possa apparire che la richiesta di chiarimenti abbia indebitamente favorito o sfavorito il candidato o i candidati cui essa è rivolta (Corte giustizia Unione Europea, Sez. IV, 29 marzo 2012, n. 599).
+
+29.7. Esattamente quel che è avvenuto nel caso qui esaminato in cui:
+
+a\) l’errore commesso da Comes S.p.A. era manifesto;
+
+b\) non c’è stata alcuna modifica sostanziale dell’offerta tenuto conto che era (evidentemente) indicato il costo orario della manodopera e il CCNL di riferimento;
+
+c\) non si può ragionevolmente sostenere che il grossolano errore dell’operatore economico non fosse *ictu oculi* rilevabile (e, difatti, il primo Giudice non lo ha sostenuto) e che la correzione abbia comportato una modifica dell’offerta tenuto conto della particolarità della procedura (accordo quadro) e della stessa vicenda che, peraltro, ha visto l’attribuzione di punteggio effettuata sul ribasso percentuale, che non è stato mai modificato.
+
+29.8. Vista l’assoluta peculiarità della vicenda, ritiene il Collegio che le indicazioni che si possono trarre dal punto 40 della già citata sentenza della Corte di Giustizia del 29 marzo 2012, (SAG ELV Slovensko e a. C-599/10), vale a dire che l'offerta iniziale può essere corretta per eliminare errori materiali manifesti solo eccezionalmente e solo qualora tale modifica non conduca, in realtà, a proporre una nuova offerta, siano state in questo caso rispettate dalla stazione appaltante.
+
+29.9. La particolarità del soccorso c.d. “correttivo” è che esso presuppone l’iniziativa dell’operatore economico e non della stazione appaltante. Si tratta della principale novità dell’istituto delineato dall’art. 101 (in questo senso si esprime anche la relazione illustrativa).
+
+29.10. Si tratta di comprendere quale sia il confine tra errore materiale, idoneo a consentire l’attivazione del soccorso correttivo ad iniziativa dell’operatore economico e modifica dell’offerta. Quel che è imprescindibile è che l’operazione di correzione si fondi su elementi identificativi dell’errore desumibili dall’atto stesso, non già da fonti esterne, estranee all’offerta; e che l’amministrazione non sia gravata da un obbligo di diligenza ricostruttiva maggiore di quello che ci si attende e si può esigere dallo stesso concorrente interessato nella fase di compilazione e confezionamento della propria offerta. Ovviamente, alla qualificazione di un errore come meramente materiale e perciò emendabile non osta il fatto che possa rivelarsi necessaria una sia pur minima attività interpretativa dell’amministrazione, quando finalizzata alla correzione di errori di scritturazione o calcolo. Si tratta, in sostanza, di un errore ostativo nella manifestazione della volontà negoziale, oggettivamente riconoscibile e rimediabile senza particolari sforzi ricostruttivi o interpretativi, per cui nelle procedure di evidenza pubblica esso deve consistere in un errore intervenuto nella fase dell’estrinsecazione formale della volontà, sostanziandosi nell’esternazione di una volontà difforme da quella realmente voluta dal dichiarante.
+
+29.11. Va anche sottolineato che una qualche forma di elasticità nell’individuazione dell’errore materiale è sempre stata riconosciuta dalla giurisprudenza, addirittura precedente al d.lgs. n. 36 del 2023, tanto che è più volte stata ritenuta ammissibile una moderata attività interpretativa della volontà dell’impresa partecipante alla gara da parte della stazione appaltante, al fine di superare eventuali ambiguità nella formulazione dell’offerta, purché si giunga ad esiti certi circa la portata dell’impegno negoziale assunto (tra le tante, Consiglio Stato, Sez. III, 20 marzo 2020, n. 1998; Consiglio di Stato, Sez. III, 24 febbraio 2020, n. 1347). Tale limitata attività interpretativa è ammissibile perché le offerte, intese come atto negoziale, sono suscettibili di essere interpretate in modo tale da ricercare l’effettiva volontà del dichiarante (tra le tante, Consiglio di Stato, Sez. III, 27 maggio 2024, n. 4702, Consiglio di Stato, Sez. V, 27 marzo 2020, n. 1905). Il fatto insomma che sia necessaria un’attività interpretativa, finalizzata alla correzione di errori di scritturazione o di calcolo, non vale a escludere che si sia in presenza di un errore materiale emendabile (Consiglio di Stato, Sez. V, 30 gennaio 2023, n. 1034).
+
+29.12. In tale situazione, la correzione operata da Comes non può essere in alcun modo preclusa alla stregua della richiamata giurisprudenza, a maggior ragione alla luce della novità costituita dall’art. 101 comma 4 del Codice dei contratti pubblici che si pone in linea con l’obiettivo di semplificazione perseguito dal legislatore, configurando una sorta di anticipazione del soccorso istruttorio in senso stretto che la stazione appaltante potrebbe attivare ai sensi del terzo comma dello stesso art. 101.
+
+30\. Con riferimento al quarto dei punti individuati (la questione di legittimità costituzionale sollevata da Castiglia s.r.l.) valgono le seguenti considerazioni.
+
+30.1. La lettera della disposizione (art. 101 comma 4) di cui si controverte è chiarissima nel senso che, in ordine al termine entro cui è possibile intervenire, il limite non coincide con la prima seduta della gara, ma con il momento effettivo in cui la singola offerta viene aperta. Ciò significa che l’operatore, fino a quel momento, può richiedere la rettifica, purché la piattaforma di gara lo consenta e sia sempre rispettato l’anonimato. Le modalità di correzione dell’errore sono anche contenute al punto 13.1. del Bando tipo ANAC 1/2023, modalità che, in ogni caso, sono state pedissequamente rispettate dalla stazione appaltante.
+
+30.2. Come ha ben osservato il primo Giudice, “*il principio della segretezza delle proposte degli offerenti e della separazione tra offerta tecnica ed economica rimane pienamente rispettato, con conseguente manifesta infondatezza del dubbio di legittimità costituzionale sollevato*”.
+
+30.3. La prospettazione della questione di costituzionalità sembra non tenere conto che, nell’attuale sistema, è assicurata la digitalizzazione dell’intero ciclo di vita del contratto pubblico e, dunque, di tutte le fasi, con ciò garantendo l’esercizio dei diritti di cittadinanza digitale e dei principi in materia di digitalizzazione.
+
+30.3. Il primo comma dell’art. 19 del Codice dei contratti pubblici contiene espresso riferimento ai principi:
+
+a\) di neutralità tecnologica, per il quale non deve essere imposta una tecnologia specifica, dovendosi consentire l’impiego di qualsivoglia tecnologia funzionale al raggiungimento dello scopo;
+
+b\) di trasparenza, in relazione alla quale, particolarmente forte è il nesso con la digitalizzazione;
+
+c\) di protezione dei dati personali, in conformità alla disciplina vigente;
+
+d\) di sicurezza informatica.
+
+30.4. La piattaforma digitale, in conformità all’art. 22 del Codice fornisce all’operatore economico schemi e moduli per la formazione dell’offerta e funzioni per l’acquisizione dei documenti, con tracciamento dell’istante di acquisizione, rendendo non leggibile il contenuto dei documenti che compongono le offerte da chiunque sino alla data fissata per l’apertura delle offerte e consentendo l’acquisizione di integrazioni o rettifiche nei casi previsti dal codice.
+
+30.5. Non esiste neppure in astratto il rischio paventato dalla ricorrente incidentale di lesione dell’interesse pubblico alla segretezza delle offerte. L’art. 101 comma si inserisce in un quadro regolatorio che, lungi dal mettere in pericolo i principi di buon andamento e imparzialità, ne rafforzano la tutela.
+
+31\. In ordine al quinto dei punti enucleati (la sussistenza del requisito di capacità tecnico-professionale ed economico-finanziaria dell’aggiudicataria) è agevole osservare che i contratti *full service* prodotti da Comes sono evidentemente idonei a comprovare il possesso, da parte di 2G Italia s.r.l., del requisito richiesto dall’art. 4.3.1., lett. d), del disciplinare di gara, dato che comprendono (pacificamente) la fornitura di materiali.
+
+31.1. Il contratto di avvalimento stipulato con l’ausiliaria 2G Italia, da solo supera il requisito richiesto dalla Stazione appaltante. La questione è agevolmente risolvibile dando piana lettura degli atti di gara.
+
+32\. In ordine al sesto punto (motivi riproposti da Castiglia s.r.l. ai sensi dell’art. 101 c.p.a.) vanno anzitutto sintetizzate le questioni sottoposte al Collegio.
+
+32.1. Castiglia s.r.l. afferma che:
+
+a\) il disciplinare di gara prevedeva l’assegnazione, quanto all’offerta tecnica, del punteggio massimo di 90 sulla scorta di diversi criteri di valutazione, tra cui, per quanto qui di interesse, i seguenti:
+
+\- criterio C.4: “*verrà valutata la riduzione dell’indice annuo infortuni nel periodo 2021 – 2022: numero infortuni/numero dipendenti medio di ciascuna annualità (escluso infortuni in itinere). In caso di zero infortuni in entrambi gli anni saranno attribuiti 3 punti mentre se l’indice è in diminuzione (2022 sul 2022) sarà attribuito un punteggio proporzionale alla riduzione dell’indice; il punteggio sarà nullo se non si sono verificate diminuzioni rispetto al dato del 2021 (max 3 punti). Per l’individuazione del punteggio da assegnare a ciascun concorrente, si procederà come di seguito indicato: sulla scorta della relazione presentata da ciascun concorrente e dalla documentazione allegata a comprova di quanto dichiarato, in merito all’indice annuo infortuni (…) il concorrente dovrà 3 produrre copia della documentazione attestante le denunce infortuni (elenco protocolli INAIL) e l’organico aziendale medio”* – max 3 punti;
+
+\- criterio C.6: “*Esperienza pregressa: dovrà essere riportata l’illustrazione, tramite documentazione grafica, fotografica e/o testuale, di un numero massimo di tre interventi, realizzati dal concorrente negli ultimi 5 anni e/o in fase di esecuzione, e ritenuti dallo stesso significativi della propria capacità a realizzare la prestazione sotto il profilo tecnico, scelti fra interventi qualificabili analoghi a quelli oggetto dell’appalto*” – max 5 punti;
+
+\- criterio C.7: “*Interventi di miglioramento della gestione della fase di digestione anaerobica, finalizzati al miglioramento della qualità di biogas e del suo potere calorifico. Dovrà essere riportata una descrizione delle modalità/interventi che si intendono attuare per migliorare la gestione della fase di digestione anaerobica dei fanghi di depurazione, e i risultati attesi in termini di qualità e quantità del biogas prodotto nel confronto con la situazione prima dell’intervento, desumibile da progetto*” – max 5 punti;
+
+a.1.) per ognuno dei predetti criteri, la Commissione ha attribuito all’aggiudicataria il punteggio più elevato, mentre – in realtà – quest’ultima non avrebbe meritato l’assegnazione di alcun punto per nessuno di essi e ciò sulla scorta di elementi oggettivi di immediata percezione;
+
+a.2.) con riferimento al criterio C.4, tanto la controinteressata, quanto il concorrente classificatosi al terzo posto nella graduatoria finale – il r.t.i. Concordia/Coop Service – hanno omesso di produrre nell’offerta tecnica la documentazione prescritta dal disciplinare ai fini della dimostrazione del tasso di infortuni dei lavoratori registrato con riferimento alle annualità 2021 e 2022; come emerge dal verbale di gara n. 5 del 27.2.2024, la Commissione ha rilevato che “*il concorrente COMES SpA ha indicato i due valori nelle relative caselle del format Allegato T1, ma non ha allegato la documentazione richiesta a comprova (come richiesto a pag. 40 del disciplinare di gara: il concorrente dovrà produrre copia della documentazione attestante le denunce infortuni (elenco protocolli INAIL e l’organico aziendale medio). Il concorrente RTI CPL CONCORDIA SOC. COOP. – COOP. SERVICE SOC. COOP. ha indicato i due valori nelle relative caselle del format Allegato T1, ma non ha allegato la documentazione richiesta a comprova (come richiesto a pag. 40 del disciplinare di gara: il concorrente dovrà produrre copia della documentazione attestante le denunce infortuni (elenco protocolli INAIL) e l’organico aziendale medio)*”;
+
+a.3.) come si legge nello stesso verbale, la Commissione ha ritenuto “*opportuno che si proceda al ‘soccorso procedimentale’ ai sensi dell’art. 101, comma 3, D.Lgs. n. 36/2023, al fine di acquisire i necessari chiarimenti in ordine ai dati indicati dalle tre concorrenti nell’‘allegato T1’ delle proprie offerte tecniche*”;
+
+a.4.) sarebbe quindi evidente il malgoverno della richiamata norma di cui all’art. 101 del Codice dei contratti pubblici laddove – in presenza di una palese carenza documentale relativa ad un criterio di valutazione dell’offerta tecnica da parte dei due predetti operatori economici – ha illegittimamente consentito ad essi di ricorrere al soccorso procedimentale al fine di integrare *ex post* tale offerta;
+
+a.5.) ne consegue che all’aggiudicataria, così come al r.t.i. Concordia/Coop Service, non si sarebbe potuto attribuire alcun punteggio con riferimento al criterio C.4, a fronte dell’omessa dimostrazione dell’effettiva riduzione dell’indice annuo di infortuni all’interno dell’offerta tecnica prodotta;
+
+a.6.) quanto, poi, all’ulteriore criterio C.6 relativo all’esperienza pregressa – consistente nell’illustrazione dei 3 migliori interventi analoghi negli ultimi 5 anni – Comes s.p.a. ha dichiarato nella propria offerta tecnica che: “*si avvale in questo progetto della tecnologia di cogenerazione della società 2G (…) Elenchiamo di seguito tre esempi di impianti realizzati con l’utilizzo di biogas ottenuto da biomasse agricola e reflui zootecnici di dimensioni da 100 KWel e 300 KWel, in linea con le taglie dei cogeneratori considerate nel progetto in appalto. Per ognuno di essi 2G ha effettuato la fornitura del cogeneratore, del sistema di trattamento di deumidificazione e filtrazione del biogas, ed è in corso un contratto di service che prevede il controllo in continuo dell’operatività del cogeneratore*”;
+
+a.7.) la Commissione ha attribuito alla controinteressata il punteggio massimo di 5 per tale criterio; tuttavia, come si rileva dallo stralcio dell’offerta tecnica, la Comes si è sostanzialmente avvalsa a tal fine dell’esperienza pregressa della propria ausiliaria, 2G Italia s.r.l. e il contratto di avvalimento stipulato tra quest’ultima e l’aggiudicataria ha ad oggetto esclusivamente la messa a disposizione dei requisiti necessari alla partecipazione alla procedura di gara, in particolare quelli di cui al par. 4.3.1, lett. d) ed e) del disciplinare concernenti il fatturato relativo alle forniture e ai servizi analoghi; né nel DGUE, né nel contratto di avvalimento, né tantomeno nella “*dichiarazione in caso di avvalimento*” resa dall’ausiliaria, viene mai dichiarata la volontà della Comes s.p.a. di ricorrere al cd. avvalimento premiale di cui all’art. 104, comma 4, d.lgs. n. 36/2023;
+
+a.8.) infine, in relazione al criterio C.7, concernente gli “*interventi di miglioramento fase di digestione anaerobica*”, l’offerta formulata dall’aggiudicataria ha conseguito anche in tal caso il punteggio massimo di 5 punti, pur risultando del tutto indeterminata alla luce di quanto rilevato dalla stessa Commissione nel verbale di gara n. 2 del 15.2.2024;
+
+a.9.) da quest’ultimo emerge, infatti, che sul punto “*COMES offre tre interventi: il primo consiste, previa verifica della strumentazione esistente e della funzionalità e corretta ubicazione della stessa, nella sostituzione e/ o implementazione, se necessario, dei seguenti strumenti di misure marca Endress+Hauser: misuratori di portata fanghi in ingresso alla digestione anaerobica, mod. Proline Promag W 400, misuratori di temperatura del fango all’interno dei reattori, mod. ITherm TM131, misuratori di pH del fango mod. CM44X e relativi sensori pH/redox memosens CPS16E, misuratori di portata biogas e sua concentrazione CH4, modello 9B2B. Inoltre, dichiara che tutti gli strumenti saranno gestiti dallo stesso sistema di automazione, supervisione e controllo proposto, che acquisirà i valori misurati nel processo di digestione e nel sistema di cogenerazione (compresa caldaia esistente) e, sulla base dei dati storici, consentirà in maniera predittiva, la regolazione e l’ottimizzazione delle performance del sistema di cogenerazione e alla Stazione Appaltante di avere il controllo del processo e di poter intervenire per migliorare lo stesso. Il secondo intervento consiste nella sostituzione, se necessario, degli scambiatori di calore esistenti in ‘centrale termica’ al fine di garantire la corretta temperatura del fango. Infine, il terzo intervento consiste nella implementazione, se necessario, di un trituratore del fango in ingresso al reattore di digestione per evitare impaccamenti e favorire la solubilità*”;
+
+a.10.) così formulata, l’offerta della controinteressata sarebbe indeterminata dal momento che ogni intervento migliorativo proposto si configura soltanto come meramente eventuale – e, quindi, privo di alcuna effettiva certezza – alla luce del costante impiego della predetta espressione “*se necessario*”;
+
+b\) alla luce di quanto precede, dal contestuale accoglimento di tutti i profili di censura articolati, i punteggi complessivi di Castiglia e di Comes verrebbero rideterminati in mera esecuzione della sentenza, restando esclusa l’intermediazione di ogni ulteriore segmento valutativo.
+
+33\. Si tratta di censure infondate poiché:
+
+a\) la stazione appaltante non ha fatto altro che attivare, peraltro nei confronti di tutti i concorrenti, un soccorso istruttorio procedimentale; è noto che la stazione appaltante, per risolvere dubbi riguardanti gli elementi essenziali dell'offerta tecnica ed economica, può attivare il soccorso procedimentale e acquisire chiarimenti da parte del concorrente che non assumano carattere integrativo dell'offerta, ma siano finalizzati unicamente a consentire l'esatta interpretazione e a ricercare l'effettiva volontà del concorrente, superandone le eventuali ambiguità (tra le tante, Consiglio di Stato sez. V, 2 novembre 2025, n. 9316);
+
+a.1.) coglie nel segno la stazione appaltante laddove afferma (pagina 11 della memoria depositata in data 11 novembre 2025) che Comes ha semplicemente chiarito una dichiarazione già resa;
+
+a.2.) ugualmente, coglie nel segno Comes laddove afferma (pagina 19 della memoria depositata in data 11 novembre 2025) che la documentazione richiesta non ha comportato una rettifica della dichiarazione precedentemente resa sul tasso di infortuni dei lavoratori registrato negli anni 2021-2022, la quale ha costituito l’unico dato che ha influenzato l’attribuzione del punteggio;
+
+b\) la stazione appaltante, al di fuori di ogni inutile formalismo, ha ben applicato l’art. 104 del Codice dei contratti pubblici che ha inteso ampliare e generalizzare, e non certo restringere, gli spazi di ammissibilità dell’avvalimento premiale; così come è ammesso l'avvalimento premiale puro sarebbe del tutto illogico escludere un avvalimento misto per puro rigore formale in un caso come quello qui esaminato;
+
+c\) l’espressione “*se necessario*” non rende l’offerta incerta; anche in questo caso non si tiene conto della particolarità della vicenda controversa che inerisce a un accordo quadro;
+
+c.1.) la valutazione della coerenza delle migliorie dell'offerta compete alla Commissione di gara, il cui prudente apprezzamento è sindacabile nei limiti del manifesto travisamento dei fatti o dell'illogicità del giudizio, atteso che spetta alla Commissione un ampio margine di discrezionalità tecnica, con conseguente insindacabilità nel merito delle valutazioni e dei punteggi attribuiti, ove non inficiate da macroscopici errori di fatto, da illogicità o da irragionevolezza manifesta; il giudice amministrativo non può anteporre la sua idea tecnica al giudizio, non erroneo né illogico, formulato dall'organo amministrativo cui la legge attribuisce la tutela dell'interesse pubblico nell'apprezzamento del caso concreto, essendo quest'ultimo espressione di una discrezionalità sindacabile nei soli limiti dell'illogicità della soluzione o dell'evidente travisamento dei suoi presupposti (tra le tante, Consiglio di Stato sez. V, 17 aprile 2025, n. 3345);
+
+d\) va in ogni caso ricordato che, complessivamente, il motivo si risolve nel richiedere a questo Giudice di sostituirsi alla stazione appaltante in valutazioni a essa riservate;
+
+d.1.) la giurisprudenza di questa Sezione è da tempo consolidata nel senso di ritenere che:
+
+d.1.a) la valutazione delle offerte tecniche, effettuata dalla commissione attraverso l'espressione di giudizi e l'attribuzione di punteggi, a fronte dei criteri valutativi previsti dal bando di gara, costituisce apprezzamento connotato da chiara discrezionalità tecnica sì da rendere detta valutazione insindacabile salvo che essa sia affetta da manifesta illogicità;
+
+d.1.b) il controllo del giudice è pieno, ossia tale da garantire piena tutela alle situazioni giuridiche private coinvolte; è vero che egli non può agire al posto dell'amministrazione ma può sicuramente censurare la scelta chiaramente inattendibile, frutto di un procedimento di applicazione della norma tecnica viziato, e annullare il provvedimento basato su di essa;
+
+d.1.c) lo schema del ragionamento che il giudice è chiamato a svolgere sulle valutazioni tecniche può essere così descritto:
+
+\- il giudice può limitarsi al controllo formale ed estrinseco dell’*iter* logico seguito nell'attività amministrativa se ciò appare sufficiente per valutare la legittimità del provvedimento impugnato e non emergano spie tali da giustificare una ripetizione, secondo la tecnica del sindacato intrinseco, delle indagini specialistiche;
+
+\- il sindacato può anche consistere, ove ciò sia necessario ai fini della verifica della legittimità della statuizione gravata, nella verifica dell'attendibilità delle operazioni tecniche sotto il profilo della loro correttezza quanto al criterio tecnico e al procedimento applicativo;
+
+\- devono ritenersi superati ostacoli di ordine processuale capaci di limitare in modo significativo, in astratto, la latitudine della verifica giudiziaria sulla correttezza delle operazioni e delle procedure in cui si concreta il giudizio tecnico ma questo non toglie che, anche in relazione ad una non eludibile esigenza di separazione della funzione amministrativa rispetto a quella giurisdizionale, il giudice non possa sovrapporre la sua idea tecnica al giudizio non contaminato da profili di erroneità e di illogicità formulato dall'organo amministrativo al quale la legge attribuisce la penetrazione del sapere specialistico ai fini della tutela dell'interesse pubblico nell'apprezzamento del caso concreto;
+
+\- se è assodato che il giudice ha pieno accesso al fatto, occorre aggiungere che l'accesso al fatto non può consentire la sostituzione del giudice alla pubblica amministrazione nelle valutazioni ad essa riservate;
+
+\- scontata l'opinabilità della valutazione, il giudice non può sostituirsi all'amministrazione, essendogli consentita la sola verifica di ragionevolezza, coerenza e attendibilità delle scelte compiute dalla stessa; se è stata riscontrata una corretta applicazione della regola tecnica al caso di specie, il giudice deve fermarsi, quando il risultato a cui è giunta l'amministrazione è uno di quelli resi possibili dall'opinabilità della scienza, anche se esso non è quello che l'organo giudicante avrebbe privilegiato;
+
+\- un conto, quindi, è l'accertamento del fatto storico (che precede ogni valutazione) e un conto è la contestualizzazione del concetto giuridico indeterminato richiamato dalla norma; quest'ultimo è fuori dall'accertamento del fatto e rientra nel suo apprezzamento, questo sì, sottratto alla completa sostituibilità della valutazione del giudice a quella dell'amministrazione;
+
+\- in conclusione sul punto, il sindacato del giudice nel valutare la legittimità di valutazioni frutto di discrezionalità tecnica, è pieno, penetrante, effettivo, ma non sostitutivo; dinanzi a una valutazione tecnica complessa il giudice può pertanto ripercorrere il ragionamento seguito dall'amministrazione al fine di verificare in modo puntuale, anche in riferimento alla regola tecnica adottata, la ragionevolezza, la logicità, la coerenza dell'*iter* logico seguito dall'autorità, senza però potervi sostituire un sistema valutativo differente da lui stesso individuato (tra le tante, Consiglio di Stato, Sez. V, 24 agosto 2023, n. 7931).
+
+34\. Per tutte le ragioni esposte gli appelli principali devono essere accolti mentre vanno rigettati gli appelli incidentali.
+
+Le spese, vista la novità di alcune delle questioni sottoposte al Collegio e l'esistenza di difficoltà di accertamento della vicenda fattuale controversa, idonea ad incidere sulla esatta conoscibilità a priori delle rispettive ragioni delle parti (in tal senso, Consiglio di Stato, Sez. VI, 30 gennaio 2020, n. 780, Cass. civ., Sez. Unite, 30 luglio 2008, n. 20598), possono essere compensate tra le parti in causa.
+
+P.Q.M.
+
+Il Consiglio di Stato in sede giurisdizionale (Sezione Quinta), definitivamente pronunciando sugli appelli riuniti, come in epigrafe proposti, li accoglie e respinge gli appelli incidentali e, per l’effetto, in riforma della sentenza del Tribunale Amministrativo Regionale per la Puglia n. 641/2025, respinge il ricorso di primo grado.
+
+Spese compensate.
+
+Ordina che la presente sentenza sia eseguita dall'autorità amministrativa.
+
+Così deciso in Roma nella camera di consiglio del giorno 27 novembre 2025 con l'intervento dei magistrati:
+
+Paolo Giovanni Nicolo' Lotti, Presidente
+
+Alberto Urso, Consigliere
+
+Sara Raffaella Molinaro, Consigliere
+
+Elena Quadri, Consigliere
+
+Gianluca Rovelli, Consigliere, Estensore
+
+|                  |     |                              |
+|------------------|-----|------------------------------|
+|                  |     |                              |
+|                  |     |                              |
+| L'ESTENSORE      |     | IL PRESIDENTE                |
+| Gianluca Rovelli |     | Paolo Giovanni Nicolo' Lotti |
+|                  |     |                              |
+|                  |     |                              |
+|                  |     |                              |
+|                  |     |                              |
+|                  |     |                              |
+
+IL SEGRETARIO
+
+\
+\

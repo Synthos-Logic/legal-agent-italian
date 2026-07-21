@@ -1,0 +1,16 @@
+{
+  "prompt_id": "task:t1-redazione-01",
+  "prompt_file": "../prompts/tasks/t1-redazione-01.md",
+  "prompt_versione": "1",
+  "variante": "canonico",
+  "equivalente_a": "",
+  "task": "redazione-registro",
+  "modello": "moonshotai/kimi-k2.6",
+  "prompt_sha256": "ee3b4c045d5e1d7069c316ebfd138dbdaa79dd71133a758b4e4f3693797a79ee",
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "timestamp_utc": "2026-07-21T09:05:03.058794+00:00",
+  "stato": "dry_run",
+  "output": null,
+  "usage": null,
+  "latency_ms": null
+}

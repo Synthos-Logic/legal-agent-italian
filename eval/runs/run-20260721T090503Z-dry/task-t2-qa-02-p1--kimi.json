@@ -1,0 +1,16 @@
+{
+  "prompt_id": "task:t2-qa-02-p1",
+  "prompt_file": "../prompts/tasks/t2-qa-02-p1.md",
+  "prompt_versione": "1",
+  "variante": "parafrasi-1",
+  "equivalente_a": "task:t2-qa-02",
+  "task": "qa-ancorata",
+  "modello": "moonshotai/kimi-k2.6",
+  "prompt_sha256": "0f857eec045d53ceb7e878cbb8678d3e7d7c0481f1ccbcfcfe23c2ab750f8b37",
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "timestamp_utc": "2026-07-21T09:05:03.060804+00:00",
+  "stato": "dry_run",
+  "output": null,
+  "usage": null,
+  "latency_ms": null
+}

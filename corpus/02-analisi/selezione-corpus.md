@@ -144,3 +144,17 @@ Requisito BRIEF §15.8 (almeno 3-4 casi limite su procedimentale e correttivo): 
 5. **ANAC n. 27/2025** è marcato «NON MASSIMABILE» nel PDF ufficiale: utile come caso limite procedimentale, ma privo di massima ufficiale — la bozza di verità di riferimento dovrà lavorare sul testo integrale.
 6. **Decreto correttivo (D.Lgs. 209/2024)**: le rubriche verificate sono quelle vigenti al 21.07.2026 (post-correttivo); in ingestione fissare `data_vigenza: 2026-07-21` per tutte le pagine norma e verificare i testi dei commi (non solo le rubriche) alla stessa data.
 7. Questa selezione è una **proposta** (stato: proposta): la ratifica spetta a Pablo; le valutazioni interpretative restano bozze soggette al revisore umano legale in cieco (BRIEF §9.5, §10).
+
+---
+
+## 6. Errata corrige post-ingestione (2026-07-21, verificata sui testi ufficiali GA)
+
+L'ingestione dal portale GA (testi integrali ufficiali, ECLI estratti dai documenti) ha corretto/integrato questi estremi rispetto alle fonti di rassegna usate in selezione:
+
+1. **TAR Lazio, Roma n. 23262/2024**: Sez. **III-ter** (non II-bis) — `ECLI:IT:TARLAZ:2024:23262`.
+2. **TAR Lombardia, Milano n. 2410/2026**: Sez. **IV** (non II) — `ECLI:IT:TARMI:2026:2410`.
+3. **TAR Liguria 2026 (impact factor)**: la rassegna riportava «n. 882» per refuso; la decisione è la **n. 822, Sez. II, pubbl. 22.06.2026** — `ECLI:IT:TARLIG:2026:822` (la n. 882/2026 non riguarda il soccorso).
+4. **Cons. Stato n. 2789/2025**: sezione reperita sul testo — **Sez. V** — `ECLI:IT:CDS:2025:2789`.
+5. Sezioni integrate dove la selezione non le riportava: TAR Milano n. 854/2026 = Sez. II; TAR Bari n. 244/2025 = Sez. II; TAR Venezia n. 2142/2024 = Sez. I.
+6. Le 6 decisioni a livello [B] sono tutte confermate nei loro estremi essenziali; CdS n. 2721/2026 pubblicata su appelli riuniti (usata la variante NRG 202504997).
+7. **Integrazione post-verifica del custode**: ingeriti anche gli artt. **3** (principio dell'accesso al mercato) e **113** (requisiti per l'esecuzione dell'appalto), citati espressamente dal parere ANAC n. 136/2026, per rendere risolvibili i suoi cross_ref. Totale snapshot: **52 unità** (20 norme, 20 decisioni, 12 pareri), nel range 40-60.

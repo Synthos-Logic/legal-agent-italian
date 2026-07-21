@@ -1,0 +1,172 @@
+---
+id: "ECLI:IT:TARBA:2025:244"
+tipo: decisione
+titolo: "TAR Puglia, Bari, Sez. II, 19.02.2025, n. 244"
+fonte_ufficiale: "https://mdp.giustizia-amministrativa.it/visualizza/?nodeRef=&schema=tar_ba&nrg=202400769&nomeFile=202500244_01.html&subDir=Provvedimenti"
+data_documento: 2025-02-19
+lingua: it
+hash_sha256: "f3d121738cf5e437a74fc3620ceb6c726cc552d5b9d47d156c50a31c35284661"
+data_fetch: 2026-07-21
+dominio: appalti
+massima: "La comprova dei requisiti speciali non puo' passare per la modifica dei servizi analoghi gia' dichiarati (autoresponsabilita', par condicio)."
+figura_soccorso: sanante
+ecli_portale: "ECLI:IT:TARBA:2025:244SENT"
+cross_ref:
+  - "urn:nir:stato:decreto.legislativo:2023-03-31;36~art101"
+  - "urn:nir:stato:decreto.legislativo:2023-03-31;36~art100"
+---
+
+# TAR Puglia, Bari, Sez. II, 19.02.2025, n. 244
+
+N. 00244/2025 REG.PROV.COLL.
+
+N. 00769/2024 REG.RIC.
+
+<img src="stemma.jpg" data-border="0" />
+
+REPUBBLICA ITALIANA
+
+IN NOME DEL POPOLO ITALIANO
+
+Il Tribunale Amministrativo Regionale per la Puglia
+
+(Sezione Seconda)
+
+ha pronunciato la presente
+
+SENTENZA
+
+sul ricorso numero di registro generale 769 del 2024, integrato da motivi aggiunti, proposto da\
+Acg Auditing e Consulting Group s.r.l., in persona del legale rappresentante *pro tempore*, in relazione alla procedura CIG A02AA7C506, rappresentata e difesa dall'avvocato Daniele Proietti, con domicilio digitale come da PEC da Registri di Giustizia;\
+
+contro
+
+Puglia Sviluppo s.p.a., in persona del legale rappresentante *pro tempore*, rappresentata e difesa dall'avvocato Filippo Panizzolo, con domicilio digitale come da PEC da Registri di Giustizia;\
+
+nei confronti
+
+Deloitte & Touche s.p.a., in persona del legale rappresentante *pro tempore*, rappresentata e difesa dagli avvocati Francesco Paolo Bello, Piergiuseppe Otranto e Marianna Lopopolo, con domicilio digitale come da PEC da Registri di Giustizia;\
+Regione Puglia, non costituito in giudizio;\
+
+per l'annullamento, previa concessione della misura cautelare,
+
+A.- per quanto riguarda il RICORSO INTRODUTTIVO:
+
+1\) della determinazione n. 27 del 29.05.2024, con cui il Presidente del CDA di Puglia Sviluppo s.p.a. ha disposto “*l’annullamento, d’ufficio in autotutela, ai sensi dell’art. 21 nonies della L. 241/1990, della Determina di aggiudicazione n. 18 del 20 marzo 2024 disposta nei confronti della società ACG Auditing & Consulting Group S.r.l e la sua contestuale esclusione per carenza del requisito di capacità tecnica-professionale di cui all’art. 9.3 del disciplinare di gara*”, nonché di “*di dare mandato al RUP per la fase dell’affidamento affinché proceda ad avviare le verifiche in ordine al possesso dei requisiti di ordine generale e speciale in capo all’operatore economico Deloitte & Touche S.p.A., secondo in graduatoria, al fine di determinare nei suoi confronti l’aggiudicazione già efficace*”;
+
+2\) della nota prot. n. 0003445 del 27.05.2024 con cui Puglia Sviluppo s.p.a. ha rigettato “*la richiesta di archiviazione del procedimento di annullamento in autotutela della determina di aggiudicazione n. 18 del 20/03/2024 disposta nei confronti della società ACG Auditing & Consulting Group s.r.l., ritenendo la stessa affetta da un vizio di legittimità per carenza del requisito di capacità tecnica professionale di cui al punto 9.3 del disciplinare di gara*”;
+
+3\) di ogni altro atto presupposto, conseguente e/o comunque connesso, ivi compreso:
+
+3a) la nota prot. n. 2901 del 02.05.2024;
+
+3b) la comunicazione di avvio del procedimento ex artt. 7 e 8 L. 241/1990 prot. n. 3033 del 09.05.2024, con cui la stazione appaltante ha rappresentato all’odierna ricorrente l’avvio “*del procedimento amministrativo per l’annullamento d’ufficio in autotutela, ai sensi dell’art. 21 nonies della L. 241/1990 della Determina di aggiudicazione n. 18 del 20 marzo 2024 nei confronti della società ACG Auditing & Consulting Group S.r.l., in quanto risultante affetta da un vizio di legittimità per carenza del requisito di capacità tecnica professionale di cui al punto 9.3 del disciplinare di gara*”;
+
+3c) l’art. 9.3 del disciplinare di gara nella denegata ipotesi in cui dovesse essere interpretato nel senso di considerare quali “servizi analoghi” ai fini del riconoscimento del requisito di capacità tecnica, nonché a pena di esclusione, i soli servizi di assistenza e supporto tecnico-specialistico per supporto alla programmazione e/o gestione e/o attuazione e/o rendicontazione e/o monitoraggio e/o controllo di programmi operativi svolti nell’ambito dei (soli) fondi FESR e/o FSC;
+
+3d) l’eventuale provvedimento non conosciuto – se adottato – con cui è stata disposta l’aggiudicazione definitiva dell’appalto per cui è causa in favore della controinteressata o di altro operatore;
+
+e per l’annullamento e/o la declaratoria di inefficacia del contratto eventualmente stipulato tra Puglia Sviluppo S.p.a. e Deloitte & Touche s.p.a, (ovvero altro concorrente) nella cui esecuzione sin d’ora si manifesta la volontà di subentrare;
+
+in subordine, per la condanna di Puglia Sviluppo s.p.a. al risarcimento del danno in forma equivalente ingiustamente subito da ACG -sia con riferimento al mancato profitto, che al c.d. danno curriculare - che ci si riserva di meglio specificare e quantificare in corso di causa.
+
+B.-per quanto riguarda il RICORSO INCIDENTALE presentato da DELOITTE & TOUCHE s.p.a. il 19\7\2024 :
+
+1\) della determinazione n. 27 del 29.05.2024 nella parte in cui il Presidente del Consiglio di Amministrazione di Puglia Sviluppo S.p.A. ha disposto l’annullamento d’ufficio della determina n. 18 del 20 marzo 2024 di aggiudicazione in favore della ACG Auditing & Consulting Group S.r.l e la sua contestuale esclusione solamente “per carenza del requisito di capacità tecnica-professionale di cui all’art. 9.3 del disciplinare di gara” e non anche per il superamento dei limiti dimensionali dell’offerta tecnica, per la violazione del divieto di modifica dell’offerta e per l’incongruità economica dell’offerta di ACG; nonché, se e per quanto possa occorrere, di ogni ulteriore atto presupposto, connesso e/o consequenziale, con particolare ma non esclusivo riferimento: 2) alla nota di Puglia Sviluppo S.p.A. n. 2626 del 18.04.2024, nei limiti di interesse di D&T; 3) alla determinazione n. 18 del 20.3.2024 di aggiudicazione in favore della ACG adottata dal Presidente del Consiglio di Amministrazione di Puglia Sviluppo s.p.a.; 4) ai verbali di gara nn. 3 e 4 dell’8.2.2024, n. 5 del 15.2.2024, n. 6 del 20.2.2024 nelle parti in cui la Commissione ha esaminato l’offerta tecnica ed economica della ACG e ha attribuito il relativo punteggio; nonché del verbale di gara n. 7 del 5.3.2024 e dell’allegata nota prot. PE051869 del 28.2.2024, nella parte in cui la Commissione e il Responsabile hanno ritenuto non anomala l’offerta presentata da ACG;
+
+C.- per quanto riguarda i MOTIVI AGGIUNTI presentati da ACG AUDITING E CONSULTING GROUP s.r.l. il 30\7\2024 :
+
+-gli atti già gravati con il ricorso introduttivo;
+
+-la determinazione n. 42 del 16.07.2024, con cui il Presidente del CDA di Puglia Sviluppo s.p.a. ha dichiarato “efficace ai sensi dell’art. 17, comma 5, del D.Lgs. 36/2023, a seguito dell’esito positivo della verifica dei requisiti dichiarati in sede di gara, l’aggiudicazione nei confronti dell’operatore economico, secondo in graduatoria, Deloitte & Touche S.p.A (…)”;
+
+Visti il ricorso, i motivi aggiunti e i relativi allegati;
+
+Visti gli atti di costituzione in giudizio di Deloitte & Touche s.p.a. e di Puglia Sviluppo s.p.a.;
+
+Visti tutti gli atti della causa;
+
+Relatore nell'udienza pubblica del giorno 17 dicembre 2024 la dott.ssa Giacinta Serlenga e uditi per le parti i difensori come specificato nel verbale;
+
+Ritenuto e considerato in fatto e diritto quanto segue;
+
+\
+
+FATTO e DIRITTO
+
+1.-Con il ricorso introduttivo del presente giudizio, Acg Auditing e Consulting Group s.r.l. (d’ora in poi solo Acg Auditing) ha impugnato il provvedimento con cui Puglia Sviluppo ha esercitato l’autotutela rispetto all’aggiudicazione disposta originariamente in suo favore, disponendo l’esclusione della stessa per mancanza del requisito professionale dello svolgimento di servizi analoghi a quelli oggetto di gara, non ritenendo tali –ad un successivo approfondimento- quelli relativi ai progetti finanziati da FESR e FSC e contestualmente aggiudicando alla seconda classificata Deloitte. & Touche s.p.a. (d’ora in poi solo Deloitte).
+
+E’ invero emerso, ad un approfondimento richiesto dalla seconda classificata stessa, che il requisito dichiarato dall’aggiudicataria provvisoria afferisse a servizi svolti rispetto a progetti finanziati con un fondo diverso; ossia i progetti finanziati dal Fondo sociale europeo (FSE).
+
+Il ricorso è affidato sostanzialmente a tre motivi: i primi due centrali, sull’interpretazione del requisito di idoneità professionale prescritto dall’art.9.3 del disciplinare (disposizione quest’ultima impugnata –in subordine- con il secondo motivo ove interpretata nel senso suggerito dalla p.A.); il terzo incentrato sulla violazione degli artt. 6 della legge n. 241/1990 e 101 del d.lgs. n. 36/2023 per non avere Puglia Sviluppo ritenuto valutabili gli ulteriori servizi indicati nella nota del 6 maggio 2024 di riscontro alla richiesta di osservazioni sulle autodichiarazioni rese nel DGUE. Infine, con un quarto e ultimo motivo, viene sinteticamente dedotta l’invalidità derivata del provvedimento di aggiudicazione della gara alla seconda graduata, ove *medio tempore* adottato.
+
+Alla Camera di consiglio del 2 luglio 2024, la società ricorrente ha rinunziato all’istanza cautelare proposta congiuntamente al ricorso.
+
+In data 19 luglio 2024, Deloitte ha poi proposto ricorso incidentale avverso la stessa determinazione n. 27 del 29.05.2024 nella parte in cui il Presidente del Consiglio di Amministrazione di Puglia Sviluppo S.p.A. ha disposto l’annullamento d’ufficio della determina n. 18 del 20 marzo 2024 di aggiudicazione in favore della ACG Auditing & Consulting Group S.r.l e la sua contestuale esclusione soltanto “*per carenza del requisito di capacità tecnica-professionale di cui all’art. 9.3 del disciplinare di gara*” e non anche per il superamento dei limiti dimensionali dell’offerta tecnica, per la violazione del divieto di modifica dell’offerta e per l’incongruità economica dell’offerta di ACG.
+
+Il successivo 30 luglio la ricorrente principale ha infine proposto atto di motivi aggiunti contro la determinazione n. 42 del 16.07.2024, con cui il Presidente del CDA di Puglia Sviluppo s.p.a. ha dichiarato “*efficace ai sensi dell’art. 17, comma 5, del D.Lgs. 36/2023, a seguito dell’esito positivo della verifica dei requisiti dichiarati in sede di gara, l’aggiudicazione nei confronti dell’operatore economico, secondo in graduatoria, Deloitte & Touche S.p.A* (…)”.
+
+All’udienza del 17 dicembre 2024, la causa è stata trattenuta in decisione.
+
+2.- Il ricorso introduttivo e i motivi aggiunti (che ripropongono in via derivata gli stessi vizi avverso la dichiarazione di efficacia dell’aggiudicazione in favore della seconda classificata) non possono trovare accoglimento.
+
+2.1.- Le censure dedotte nel primo e nel secondo motivo del ricorso introduttivo (come detto riproposte nei motivi aggiunti) fondano su di un’erronea esegesi della prescrizione di cui all’art. 9.3 del disciplinare di gara.
+
+Se ne riporta di seguito il testo nella parte che qui rileva: “9.3…*A dimostrazione del requisito di adeguata capacità tecnica e professionale, ai sensi dell’art. 100, comma 11, del Codice, il concorrente, a pena di esclusione, dovrà aver svolto nei 36 (trentasei) mesi precedenti la data di pubblicazione del bando, servizi analoghi a quelli oggetto di gara assistenza e supporto tecnico-specialistico per supporto alla programmazione e/o gestione e/o attuazione e/o rendicontazione e/o monitoraggio e/o controllo di programmi operativi finanziati dal Fondo Europeo di Sviluppo Regionale (FESR) e/o dal Fondi di Sviluppo e di Coesione (FSC) per un importo complessivo minimo non inferiore a € 1.000.000,00 (IVA esclusa).*
+
+*Con riferimento al requisito di cui sopra si precisa che è richiesto in considerazione della rilevanza dei servizi oggetto di gara, che presentano caratteristiche dimensionali e complessità elevate, al fine di consentire la selezione di operatori economici aventi una capacità tecnico-professionale e economicofinanziaria adeguata ai servizi da svolgere e tali da garantire la corretta esecuzione del contratto…”.*
+
+La disposizione appare insuscettibile di interpretazioni che superino il chiaro dato testuale; sicché Puglia sviluppo s.p.a. ha legittimamente considerato idonei ad attestare il possesso del requisito di capacità tecnica tutti i servizi analoghi a quelli oggetto di gara (*id est*: i servizi “*di assistenza* *e supporto tecnico-specialistico per supporto alla programmazione e/o gestione e/o attuazione e/o rendicontazione e/o monitoraggio e/o controllo*) purché relativi ai programmi operativi finanziati dal Fondo Europeo di Sviluppo Regionale (FESR) e/o dal Fondo di Sviluppo e di Coesione (FSC). Conseguentemente, ha disposto che i servizi resi da ACG Auditing & Consulting Group s.r.l. in favore della Regione Toscana, oggetto del Lotto 1 identificato con CIG: 879771366F, non fossero idonei al soddisfacimento del requisito di cui sopra in quanto riferibili a programmi finanziati dal FSE e, non invece, come si legge appunto nella *lex specialis* di gara, dal FESR e/o FSC; ciò che sottende l’esigenza di individuare un operatore economico avente capacità tecniche adeguate all’oggetto dell’appalto e con esperienza specifica del settore nel quale opera la stazione appaltante.
+
+2.2.-Il secondo motivo, invece, è innanzitutto tardivo. Il requisito è chiaramente escludente per l’odierna ricorrente principale e, pertanto, avrebbe dovuto essere impugnato nei 30 giorni dalla pubblicazione.
+
+In ogni caso, non convincono le argomentazioni svolte nel merito atteso che le stazioni appaltanti godono di ampia discrezionalità nell’individuare i requisiti speciali di partecipazione con l’unico limite della proporzionalità, logicità, razionalità e adeguatezza delle relative prescrizioni; tanto più che, nella fattispecie, il requisito era specifico –si ribadisce- per assicurarsi capacità tecniche adeguate ed esperienza specifica rispetto ad un appalto di notevole entità in relazione allo specifico oggetto così definito dalla stessa *lex specialis*: “4. OGGETTO DELL’APPALTO: *Puglia Sviluppo, attraverso la presente procedura di gara, intende affidare il Servizio di Assistenza Tecnica per lo svolgimento delle attività di verifiche documentali sulla rendicontazione/istruttoria di investimenti in “ attivi materiali” e “ ricerca e sviluppo” e Consulenza Specialistica a supporto di Puglia Sviluppo nello svolgimento delle attività di gestione e controllo affidati dalla Regione Puglia, finanziati con fondi comunitari, nazionali e regionali nella sua qualità di soggetto intermediario e relativi alla programmazione 2014-2020….”*. Puglia Sviluppo non è intermediaria per la gestione regionale tutti i fondi comunitari ma soltanto per i fondi FESR ed FSC.
+
+Né –come detto al precedente punto 2.1- l’art.9.3 del disciplinare può oggettivamente essere considerata una clausola dal significato oscuro e contraddittorio; ne sia riprova il dato che le relative disposizioni siano state ben comprese da tutti gli altri concorrenti e che la società odierna ricorrente non abbia richiesto chiarimento alcuno a norma dell’art. 1 del disciplinare, entro il termine ivi prescritto.
+
+2.3.-Infondate infine anche le censure dedotte nel terzo motivo di ricorso, alla luce del principio di autoresponsabilità che grava sulle imprese partecipanti alle gare pubbliche e che ha condotto in modo univoco la giurisprudenza a negare il soccorso istruttorio per la comprova dei requisiti consapevolmente dichiarati dal concorrente (cfr., da ultimo, C.d.S., Sez. V, 12 febbraio 2024, n. 1372). Ed invero, nell’ambito del settore dell’evidenza pubblica, i principi del *favor partecipationis* e del risultato non possono mai confliggere con il principio della *par condicio* fra i concorrenti.
+
+La difesa dell’Amministrazione ha altresì richiamato a sostegno dell’infondatezza del terzo motivo la recente delibera Anac n. 60 del 07/02/2024, che ha chiarito quanto segue: ”*Nelle procedure per l’affidamento di servizi, il concorrente non può modificare l’elenco dei servizi analoghi indicati tramite la procedura del soccorso istruttorio di cui all’art. 101 co.1 lett. b) né con quella del soccorso procedimentale di cui al co.3 dello stesso articolo del D.lgs. n. 36/2023, al fine di spendere servizi diversi da quelli indicati in sede di offerta, per superare il vaglio dell’analogia rimesso alla discrezionalità della stazione appaltante*”.
+
+3.- L’infondatezza dei primi tre motivi travolge il quarto motivo del ricorso principale e i motivi aggiunti con i quali si è inteso far valere l’illegittimità derivata del provvedimento di aggiudicazione della gara alla seconda graduata Deloitte e relativa dichiarazione di efficacia.
+
+In ragione della reiezione del ricorso introduttivo e dei relativi motivi aggiunti, poi, cessa ogni interesse di Deloitte al ricorso incidentale che deve, pertanto, essere dichiarato improcedibile.
+
+4.- In conclusione, il ricorso introduttivo e i motivi aggiunti vanno respinti; il ricorso incidentale conseguentemente dichiarato improcedibile. In ragione tuttavia della peculiarità della questione e del complessivo svolgimento della vicenda, il Collegio dispone la compensazione tra le parti delle spese di causa.
+
+P.Q.M.
+
+il Tribunale Amministrativo Regionale per la Puglia (Sezione Seconda), definitivamente pronunciando sul ricorso, come in epigrafe proposto, così dispone:
+
+-respinge il ricorso introduttivo e i motivi aggiunti;
+
+-dichiara improcedibile il ricorso incidentale;
+
+-compensa tra le parti le spese di causa.
+
+Ordina che la presente sentenza sia eseguita dall'autorità amministrativa.
+
+Così deciso in Bari nella camera di consiglio del giorno 17 dicembre 2024 con l'intervento dei magistrati:
+
+Orazio Ciliberti, Presidente
+
+Giacinta Serlenga, Consigliere, Estensore
+
+Donatella Testini, Consigliere
+
+|                   |     |                  |
+|-------------------|-----|------------------|
+|                   |     |                  |
+|                   |     |                  |
+| L'ESTENSORE       |     | IL PRESIDENTE    |
+| Giacinta Serlenga |     | Orazio Ciliberti |
+|                   |     |                  |
+|                   |     |                  |
+|                   |     |                  |
+|                   |     |                  |
+|                   |     |                  |
+
+IL SEGRETARIO
+
+\
+\

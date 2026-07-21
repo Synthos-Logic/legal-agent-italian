@@ -10,7 +10,7 @@ def argomenti(**extra):
         tipo="decisione", ecli="ECLI:IT:CDS:2024:3985", numero=None,
         data="2024-05-02", titolo="Cons. Stato, sez. V, n. 3985/2024",
         fonte="https://esempio.it/decisione", massima="La carenza era sanabile.",
-        figura="sanante", cross_ref=[],
+        figura="sanante", cross_ref=[], ecli_portale="",
     )
     base.update(extra)
     return types.SimpleNamespace(**base)
@@ -48,6 +48,17 @@ class TestBuildPage(unittest.TestCase):
             "Testo della decisione.",
         ):
             self.assertIn(atteso, pagina)
+
+    def test_ecli_portale_presente_solo_se_indicato(self):
+        senza = build_page(
+            "ECLI:IT:CDS:2024:3985", "Testo.", argomenti(), "b" * 64, "2026-07-21",
+        )
+        self.assertNotIn("ecli_portale", senza)
+        con = build_page(
+            "ECLI:IT:CDS:2024:3985", "Testo.",
+            argomenti(ecli_portale="ECLI:IT:CDS:2024:3985SENT"), "b" * 64, "2026-07-21",
+        )
+        self.assertIn('ecli_portale: "ECLI:IT:CDS:2024:3985SENT"', con)
 
     def test_cross_ref_lista(self):
         pagina = build_page(
