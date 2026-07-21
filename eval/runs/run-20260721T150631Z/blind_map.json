@@ -1,0 +1,128 @@
+{
+  "item-01": {
+    "record_file": "task-t4-fedelta-01-p2--glm.json",
+    "prompt_id": "task:t4-fedelta-01-p2",
+    "variante": "parafrasi-2",
+    "equivalente_a": "task:t4-fedelta-01",
+    "modello": "glm-5.2:cloud"
+  },
+  "item-02": {
+    "record_file": "task-t2-qa-01--glm.json",
+    "prompt_id": "task:t2-qa-01",
+    "variante": "canonico",
+    "equivalente_a": "",
+    "modello": "glm-5.2:cloud"
+  },
+  "item-03": {
+    "record_file": "task-t2-qa-02-p2--glm.json",
+    "prompt_id": "task:t2-qa-02-p2",
+    "variante": "parafrasi-2",
+    "equivalente_a": "task:t2-qa-02",
+    "modello": "glm-5.2:cloud"
+  },
+  "item-04": {
+    "record_file": "task-t3-ragionamento-02-p1--glm.json",
+    "prompt_id": "task:t3-ragionamento-02-p1",
+    "variante": "parafrasi-1",
+    "equivalente_a": "task:t3-ragionamento-02",
+    "modello": "glm-5.2:cloud"
+  },
+  "item-05": {
+    "record_file": "task-t3-ragionamento-01-p1--glm.json",
+    "prompt_id": "task:t3-ragionamento-01-p1",
+    "variante": "parafrasi-1",
+    "equivalente_a": "task:t3-ragionamento-01",
+    "modello": "glm-5.2:cloud"
+  },
+  "item-06": {
+    "record_file": "task-t1-redazione-01--glm.json",
+    "prompt_id": "task:t1-redazione-01",
+    "variante": "canonico",
+    "equivalente_a": "",
+    "modello": "glm-5.2:cloud"
+  },
+  "item-07": {
+    "record_file": "task-t3-ragionamento-01--glm.json",
+    "prompt_id": "task:t3-ragionamento-01",
+    "variante": "canonico",
+    "equivalente_a": "",
+    "modello": "glm-5.2:cloud"
+  },
+  "item-08": {
+    "record_file": "task-t4-fedelta-01--glm.json",
+    "prompt_id": "task:t4-fedelta-01",
+    "variante": "canonico",
+    "equivalente_a": "",
+    "modello": "glm-5.2:cloud"
+  },
+  "item-09": {
+    "record_file": "task-t3-ragionamento-02-p2--glm.json",
+    "prompt_id": "task:t3-ragionamento-02-p2",
+    "variante": "parafrasi-2",
+    "equivalente_a": "task:t3-ragionamento-02",
+    "modello": "glm-5.2:cloud"
+  },
+  "item-10": {
+    "record_file": "task-t2-qa-01-p1--glm.json",
+    "prompt_id": "task:t2-qa-01-p1",
+    "variante": "parafrasi-1",
+    "equivalente_a": "task:t2-qa-01",
+    "modello": "glm-5.2:cloud"
+  },
+  "item-11": {
+    "record_file": "task-t1-redazione-01-p1--glm.json",
+    "prompt_id": "task:t1-redazione-01-p1",
+    "variante": "parafrasi-1",
+    "equivalente_a": "task:t1-redazione-01",
+    "modello": "glm-5.2:cloud"
+  },
+  "item-12": {
+    "record_file": "task-t2-qa-02-p1--glm.json",
+    "prompt_id": "task:t2-qa-02-p1",
+    "variante": "parafrasi-1",
+    "equivalente_a": "task:t2-qa-02",
+    "modello": "glm-5.2:cloud"
+  },
+  "item-13": {
+    "record_file": "task-t2-qa-01-p2--glm.json",
+    "prompt_id": "task:t2-qa-01-p2",
+    "variante": "parafrasi-2",
+    "equivalente_a": "task:t2-qa-01",
+    "modello": "glm-5.2:cloud"
+  },
+  "item-14": {
+    "record_file": "task-t3-ragionamento-01-p2--glm.json",
+    "prompt_id": "task:t3-ragionamento-01-p2",
+    "variante": "parafrasi-2",
+    "equivalente_a": "task:t3-ragionamento-01",
+    "modello": "glm-5.2:cloud"
+  },
+  "item-15": {
+    "record_file": "task-t2-qa-02--glm.json",
+    "prompt_id": "task:t2-qa-02",
+    "variante": "canonico",
+    "equivalente_a": "",
+    "modello": "glm-5.2:cloud"
+  },
+  "item-16": {
+    "record_file": "task-t3-ragionamento-02--glm.json",
+    "prompt_id": "task:t3-ragionamento-02",
+    "variante": "canonico",
+    "equivalente_a": "",
+    "modello": "glm-5.2:cloud"
+  },
+  "item-17": {
+    "record_file": "task-t1-redazione-01-p2--glm.json",
+    "prompt_id": "task:t1-redazione-01-p2",
+    "variante": "parafrasi-2",
+    "equivalente_a": "task:t1-redazione-01",
+    "modello": "glm-5.2:cloud"
+  },
+  "item-18": {
+    "record_file": "task-t4-fedelta-01-p1--glm.json",
+    "prompt_id": "task:t4-fedelta-01-p1",
+    "variante": "parafrasi-1",
+    "equivalente_a": "task:t4-fedelta-01",
+    "modello": "glm-5.2:cloud"
+  }
+}

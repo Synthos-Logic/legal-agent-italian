@@ -52,3 +52,7 @@ Per ogni terna canonico+parafrasi: (a) varianza di D4 sulla terna; (b) concordan
 ## Logging obbligatorio per ogni run
 
 Prompt (id, versione, sha256), output grezzo, usage/costo, latency, stringa modello pinnata, sha256 di `corpus/snapshot.lock`. Implementato nell'harness (`eval/harness/runner.py`).
+
+## Addendum 2026-07-21 (post-run, dichiarato) — configurazione del revisore
+
+Il revisore è **Pablo Liuzzi, nel ruolo di "Consulente interno Synthos Logic"** ([[2026-07-21-revisore-interno]]). Il cieco sull'identità del modello decade di fatto (revisore = owner); restano attive la pre-registrazione di scale/soglie/verità di riferimento (antecedente a ogni output) e l'anonimizzazione strutturale del fascicolo (ordine randomizzato deterministico, terne non riconoscibili, nessun metadato). Scale e soglie di questa rubrica restano invariate. Limite da dichiarare nel caso di studio: revisione interna, non di terza parte.
