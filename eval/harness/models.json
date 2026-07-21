@@ -1,4 +1,7 @@
 {
-  "kimi": "moonshotai/kimi-k2.6",
-  "claude": "anthropic/claude-sonnet-4.5"
+  "glm": {
+    "model": "zai/glm-5.2",
+    "endpoint": "https://ai-gateway.vercel.sh/v1/chat/completions",
+    "api_key_env": "AI_GATEWAY_API_KEY"
+  }
 }

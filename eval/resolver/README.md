@@ -7,6 +7,6 @@
 Proprietà non negoziabili:
 
 - Deterministico e meccanico: basato sugli identificativi, non su un giudizio.
-- Applicato in modo identico a Kimi e a Claude.
+- Applicato in modo identico a ogni output, senza alcun parametro legato al modello.
 - La chiave di risoluzione è il nome file della pagina (= identificativo): nessuna mappa parallela.
 - Attenzione multivigenza: un riferimento a una versione temporale diversa da `data_vigenza` non deve risolvere silenziosamente.

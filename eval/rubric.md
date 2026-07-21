@@ -1,7 +1,7 @@
 # Rubrica di valutazione (pre-registrata)
 
-> Stato: **finalizzata il 2026-07-21, da congelare col commit di checkpoint**. Nessuna modifica dopo la prima run: ogni cambiamento richiede nuova decisione in `memoria/decisioni/` e invalida i risultati precedenti.
-> Vincoli di indipendenza (BRIEF §10): rubrica neutrale rispetto al modello, applicata in modo identico a Kimi K2.6 e Claude baseline; revisione umana legale in cieco su output anonimizzati e randomizzati; il risolutore è meccanico.
+> Stato: **riformulata il 2026-07-21 per la valutazione assoluta a modello singolo** ([[2026-07-21-cambio-modello-glm-no-baseline]], PRIMA di qualsiasi run reale), da ri-congelare col commit di checkpoint. Nessuna modifica dopo la prima run: ogni cambiamento richiede nuova decisione in `memoria/decisioni/` e invalida i risultati precedenti.
+> Vincoli di indipendenza (BRIEF §10 riformulato): rubrica neutrale rispetto al modello e definita prima di osservare qualunque output; nessun adattamento di rubrica, prompt o risolutore al modello oggetto del test; revisione umana legale in cieco sull'identità del modello; il risolutore è meccanico; nessun agente o LLM valuta i contenuti degli output.
 
 ## Task (tassonomia, BRIEF §9.1)
 
@@ -31,11 +31,23 @@ Ogni task ha un prompt canonico + 2 parafrasi semanticamente equivalenti (stabil
 ### D5 — Stabilità su parafrasi (meccanico + revisore)
 Per ogni terna canonico+parafrasi: (a) varianza di D4 sulla terna; (b) concordanza delle conclusioni (T3: stessa qualificazione sì/no) giudicata dal revisore in cieco. Riportata come % di terne concordanti.
 
-## Protocollo di revisione in cieco
+## Protocollo di revisione in cieco (valutazione assoluta, modello singolo)
 
-1. Gli output vengono anonimizzati (etichette `A`/`B` assegnate con permutazione casuale per item, mappa custodita fuori dal materiale di revisione in `eval/runs/<run>/blind_map.json`).
-2. Il revisore riceve: fascicolo del caso, fonti del corpus, coppie di output anonimizzati, scheda di punteggio (D1-D3 + concordanza D5).
-3. Nessun agente o modello valuta gli output: solo risolutore (D4/D5a) e revisore umano (D1-D3, D5b).
+1. **Cieco sull'identità del modello**: gli output sono anonimizzati — nessun nome del modello, nessun metadato (usage, latency, endpoint) nel materiale di revisione. Il bias verso/contro un modello esiste anche a modello singolo; il cieco lo neutralizza.
+2. **Etichette e ordine**: ogni output riceve un'etichetta neutra (`item-01`…`item-N`); l'ordine di presentazione è randomizzato e le tre varianti di una stessa terna non sono mai adiacenti né riconoscibili come terna.
+3. **Mappa di anonimizzazione**: `eval/runs/<run>/blind_map.json` collega etichetta → record (prompt_id, variante, modello); custodita fuori dal fascicolo di revisione, usata solo in aggregazione per de-anonimizzare i punteggi e ricostruire le terne (D5b).
+4. Il revisore riceve: fascicolo del caso, fonti del corpus, output anonimizzati, verità di riferimento (per D3), scheda di punteggio (D1-D3 + concordanza D5b) — e valuta **in assoluto** contro le scale ancorate e le verità di riferimento.
+5. Nessun agente o LLM valuta i contenuti degli output: solo risolutore meccanico (D4/D5a) e revisore umano (D1-D3, D5b).
+
+## Soglie assolute di lettura (pre-registrate — unico metro in assenza di baseline)
+
+| Metrica | Eccellente | Accettabile | Inadeguato |
+|---|---|---|---|
+| D4 (tasso citazioni non risolvibili, micro) | ≤ 0,05 | ≤ 0,15 | > 0,15 (invenzione sistematica) |
+| D1-D3 (mediana per dimensione) | ≥ 4 | ≥ 3 | < 3 |
+| D5b (terne con conclusioni concordanti) | ≥ 90% | ≥ 80% | < 80% (instabile) |
+
+**Controllo canarino di pipeline**: la run include un item T4 a risposta meccanicamente verificabile; un fallimento sul canarino segnala un difetto della prova (harness/prompt), non del modello, e sospende la lettura dei risultati.
 
 ## Logging obbligatorio per ogni run
 

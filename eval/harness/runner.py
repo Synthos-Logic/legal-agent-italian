@@ -1,15 +1,28 @@
-"""Harness di esecuzione della POC kimi-appalti (BRIEF §4, §9.6).
+"""Harness di esecuzione della POC (BRIEF §4 e §9.6, come aggiornati dalla
+decisione 2026-07-21-cambio-modello-glm-no-baseline).
 
-Stesso harness, stessi prompt, per moonshotai/kimi-k2.6 e per Claude baseline
-sul Vercel AI Gateway. Nessun ramo condizionale sul modello oltre alla stringa.
-Logging integrale per ogni chiamata in eval/runs/<run>/: prompt (id, versione,
-sha256), modello, output grezzo, usage, latency, hash dello snapshot del corpus.
+Valutazione assoluta a modello singolo (GLM flagship): per ogni prompt in
+eval/prompts/tasks/ monta lo stesso messaggio (system con le pagine del corpus
+dichiarate in `contesto` + domanda) e lo invia al modello configurato.
+L'endpoint e' configurazione, non ramo di codice: un unico transport
+OpenAI-compatibile serve Gateway, API dirette ed endpoint locali. Nessun
+adattamento di prompt o flusso al modello.
+
+Configurazione (eval/harness/models.json), per alias:
+    {"glm": {"model": "zai/glm-5.2",
+             "endpoint": "https://ai-gateway.vercel.sh/v1/chat/completions",
+             "api_key_env": "AI_GATEWAY_API_KEY"}}
+Una stringa nuda equivale al default Gateway. `api_key_env: null` e' ammesso
+solo per endpoint locali (es. Ollama su localhost).
+
+Logging integrale per chiamata in eval/runs/<run>/: prompt (id, versione,
+sha256), modello richiesto ed effettivo, endpoint, output grezzo, usage,
+latency, hash dello snapshot. Le chiavi arrivano SOLO dall'ambiente e non
+vengono mai loggate. Senza chiave: --dry-run.
 
 Uso:
     python3 runner.py --tasks-dir ../prompts/tasks --corpus ../../corpus/01-markdown \
         --snapshot ../../corpus/snapshot.lock --out ../runs [--dry-run]
-
-La chiave arriva SOLO dall'ambiente (AI_GATEWAY_API_KEY). Senza chiave: --dry-run.
 """
 import argparse
 import datetime
@@ -23,7 +36,8 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-GATEWAY_URL = "https://ai-gateway.vercel.sh/v1/chat/completions"
+DEFAULT_ENDPOINT = "https://ai-gateway.vercel.sh/v1/chat/completions"
+DEFAULT_API_KEY_ENV = "AI_GATEWAY_API_KEY"
 SYSTEM_TEMPLATE = """Sei un giurista esperto di contratti pubblici italiani. Rispondi in italiano, in registro giuridico, basandoti ESCLUSIVAMENTE sui documenti del corpus riportati sotto.
 
 Regole di citazione (obbligatorie):
@@ -109,30 +123,64 @@ def build_messages(prompt, corpus_dir):
     ]
 
 
-def gateway_transport(model, messages, api_key):
-    """Chiamata al Vercel AI Gateway (endpoint OpenAI-compatibile)."""
-    corpo = json.dumps({"model": model, "messages": messages}).encode("utf-8")
-    richiesta = urllib.request.Request(
-        GATEWAY_URL,
-        data=corpo,
-        headers={
-            "Authorization": f"Bearer {api_key}",
-            "Content-Type": "application/json",
-        },
-        method="POST",
+def _valida_endpoint(endpoint):
+    if endpoint.startswith("https://"):
+        return endpoint
+    if re.match(r"^http://(localhost|127\.0\.0\.1)([:/]|$)", endpoint):
+        return endpoint
+    raise RunnerError(
+        f"Endpoint non ammesso: {endpoint!r} (https, oppure http solo su localhost)"
     )
+
+
+def load_models_config(percorso):
+    """Carica models.json: {alias: {model, endpoint, api_key_env}}.
+
+    Una stringa nuda viene normalizzata al default Gateway (retrocompatibile).
+    `api_key_env: null` e' ammesso (endpoint locali senza autenticazione).
+    """
+    try:
+        grezzo = json.loads(Path(percorso).read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as errore:
+        raise RunnerError(f"models.json illeggibile: {errore}") from errore
+    if not isinstance(grezzo, dict) or not grezzo:
+        raise RunnerError("models.json deve essere un oggetto {alias: configurazione}")
+    modelli = {}
+    for alias, voce in grezzo.items():
+        if isinstance(voce, str) and voce:
+            voce = {"model": voce, "endpoint": DEFAULT_ENDPOINT,
+                    "api_key_env": DEFAULT_API_KEY_ENV}
+        if not isinstance(voce, dict) or not voce.get("model"):
+            raise RunnerError(f"Configurazione invalida per {alias!r}: serve 'model'")
+        endpoint = _valida_endpoint(voce.get("endpoint", DEFAULT_ENDPOINT))
+        modelli[alias] = {
+            "model": voce["model"],
+            "endpoint": endpoint,
+            "api_key_env": voce.get("api_key_env", DEFAULT_API_KEY_ENV),
+        }
+    return modelli
+
+
+def http_transport(endpoint, model, messages, api_key):
+    """Unico transport OpenAI-compatibile (Gateway, API dirette, locale)."""
+    corpo = json.dumps({"model": model, "messages": messages}).encode("utf-8")
+    intestazioni = {"Content-Type": "application/json"}
+    if api_key:
+        intestazioni["Authorization"] = f"Bearer {api_key}"
+    richiesta = urllib.request.Request(endpoint, data=corpo, headers=intestazioni,
+                                       method="POST")
     try:
         with urllib.request.urlopen(richiesta, timeout=300) as risposta:
             dati = json.loads(risposta.read().decode("utf-8"))
     except urllib.error.HTTPError as errore:
         dettaglio = errore.read().decode("utf-8", errors="replace")[:500]
-        raise RunnerError(f"Gateway HTTP {errore.code} per {model}: {dettaglio}") from errore
+        raise RunnerError(f"HTTP {errore.code} da {endpoint} per {model}: {dettaglio}") from errore
     except (urllib.error.URLError, TimeoutError) as errore:
-        raise RunnerError(f"Gateway irraggiungibile per {model}: {errore}") from errore
+        raise RunnerError(f"Endpoint irraggiungibile {endpoint} per {model}: {errore}") from errore
     try:
         output = dati["choices"][0]["message"]["content"]
     except (KeyError, IndexError) as errore:
-        raise RunnerError(f"Risposta gateway inattesa per {model}: {dati}") from errore
+        raise RunnerError(f"Risposta inattesa da {endpoint} per {model}: {dati}") from errore
     return {"output": output, "usage": dati.get("usage", {}), "raw": dati}
 
 
@@ -140,17 +188,25 @@ def compute_snapshot_hash(snapshot_file):
     return _sha256(Path(snapshot_file).read_text(encoding="utf-8"))
 
 
-def load_models_config(percorso):
-    try:
-        modelli = json.loads(Path(percorso).read_text(encoding="utf-8"))
-    except (OSError, json.JSONDecodeError) as errore:
-        raise RunnerError(f"models.json illeggibile: {errore}") from errore
-    if not isinstance(modelli, dict) or not modelli:
-        raise RunnerError("models.json deve essere un oggetto {alias: stringa_modello}")
-    return modelli
+def _risolvi_chiavi(models, env, dry_run):
+    """Risolve le chiavi per alias PRIMA di qualunque chiamata; errore chiaro."""
+    chiavi = {}
+    for alias, voce in sorted(models.items()):
+        nome_var = voce["api_key_env"]
+        if nome_var is None:
+            chiavi[alias] = None
+            continue
+        valore = env.get(nome_var)
+        if not valore and not dry_run:
+            raise RunnerError(
+                f"Variabile {nome_var} assente dall'ambiente (modello {alias!r}): "
+                "esportala oppure usa --dry-run"
+            )
+        chiavi[alias] = valore
+    return chiavi
 
 
-def _record_base(prompt, model, messages, snapshot_sha):
+def _record_base(prompt, voce, messages, snapshot_sha):
     testo_prompt = json.dumps(messages, ensure_ascii=False, sort_keys=True)
     return {
         "prompt_id": prompt["id"],
@@ -159,7 +215,8 @@ def _record_base(prompt, model, messages, snapshot_sha):
         "variante": prompt["variante"],
         "equivalente_a": prompt["equivalente_a"],
         "task": prompt["task"],
-        "modello": model,
+        "modello": voce["model"],
+        "endpoint": voce["endpoint"],
         "prompt_sha256": _sha256(testo_prompt),
         "snapshot_sha256": snapshot_sha,
         "timestamp_utc": datetime.datetime.now(datetime.timezone.utc).isoformat(),
@@ -167,22 +224,18 @@ def _record_base(prompt, model, messages, snapshot_sha):
 
 
 def run_all(prompt_files, corpus_dir, models, snapshot_file, out_dir,
-            api_key, dry_run, transport):
-    """Esegue tutti i prompt su tutti i modelli, identicamente. Ritorna la dir della run."""
-    if not dry_run and not api_key:
-        raise RunnerError(
-            "AI_GATEWAY_API_KEY assente: esportala nell'ambiente oppure usa --dry-run"
-        )
+            dry_run, transport, env):
+    """Esegue tutti i prompt sul modello configurato. Ritorna la dir della run."""
+    chiavi = _risolvi_chiavi(models, env, dry_run)
     snapshot_sha = compute_snapshot_hash(snapshot_file)
     marca = datetime.datetime.now(datetime.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     run_dir = Path(out_dir) / f"run-{marca}{'-dry' if dry_run else ''}"
     run_dir.mkdir(parents=True, exist_ok=False)
     manifest = {
         "dry_run": dry_run,
-        "modelli": models,
+        "modelli": models,  # mai i valori delle chiavi, solo i nomi variabile
         "snapshot_sha256": snapshot_sha,
         "prompt_files": [str(p) for p in prompt_files],
-        "gateway": GATEWAY_URL,
     }
     (run_dir / "manifest.json").write_text(
         json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8"
@@ -190,19 +243,21 @@ def run_all(prompt_files, corpus_dir, models, snapshot_file, out_dir,
     for prompt_file in prompt_files:
         prompt = load_prompt(prompt_file)
         messages = build_messages(prompt, corpus_dir)
-        for alias, model in sorted(models.items()):
-            record = _record_base(prompt, model, messages, snapshot_sha)
+        for alias, voce in sorted(models.items()):
+            record = _record_base(prompt, voce, messages, snapshot_sha)
             if dry_run:
                 record.update({"stato": "dry_run", "output": None, "usage": None,
                                "latency_ms": None})
             else:
                 inizio = time.monotonic()
                 try:
-                    risposta = transport(model, messages, api_key)
+                    risposta = transport(voce["endpoint"], voce["model"],
+                                         messages, chiavi[alias])
                     record.update({
                         "stato": "ok",
                         "output": risposta["output"],
                         "usage": risposta.get("usage", {}),
+                        "modello_effettivo": risposta.get("raw", {}).get("model", ""),
                         "latency_ms": round((time.monotonic() - inizio) * 1000),
                     })
                 except RunnerError as errore:
@@ -217,7 +272,7 @@ def run_all(prompt_files, corpus_dir, models, snapshot_file, out_dir,
 
 
 def main(argv=None):
-    parser = argparse.ArgumentParser(description="Harness kimi-appalti")
+    parser = argparse.ArgumentParser(description="Harness POC appalti (modello singolo)")
     parser.add_argument("--tasks-dir", required=True)
     parser.add_argument("--corpus", required=True)
     parser.add_argument("--snapshot", required=True)
@@ -236,9 +291,9 @@ def main(argv=None):
             models=modelli,
             snapshot_file=args.snapshot,
             out_dir=args.out,
-            api_key=os.environ.get("AI_GATEWAY_API_KEY"),
             dry_run=args.dry_run,
-            transport=gateway_transport,
+            transport=http_transport,
+            env=os.environ,
         )
     except RunnerError as errore:
         print(f"Errore: {errore}", file=sys.stderr)

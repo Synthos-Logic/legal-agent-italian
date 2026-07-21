@@ -1,0 +1,17 @@
+{
+  "prompt_id": "task:t1-redazione-01-p2",
+  "prompt_file": "../prompts/tasks/t1-redazione-01-p2.md",
+  "prompt_versione": "1",
+  "variante": "parafrasi-2",
+  "equivalente_a": "task:t1-redazione-01",
+  "task": "redazione-registro",
+  "modello": "zai/glm-5.2",
+  "endpoint": "https://ai-gateway.vercel.sh/v1/chat/completions",
+  "prompt_sha256": "a0702b999ae92ffd42a32cde585170baeec5b1727906fb187b7ad80501020bb7",
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "timestamp_utc": "2026-07-21T10:03:34.759744+00:00",
+  "stato": "dry_run",
+  "output": null,
+  "usage": null,
+  "latency_ms": null
+}

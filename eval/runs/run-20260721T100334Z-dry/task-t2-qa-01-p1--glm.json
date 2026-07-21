@@ -1,0 +1,17 @@
+{
+  "prompt_id": "task:t2-qa-01-p1",
+  "prompt_file": "../prompts/tasks/t2-qa-01-p1.md",
+  "prompt_versione": "1",
+  "variante": "parafrasi-1",
+  "equivalente_a": "task:t2-qa-01",
+  "task": "qa-ancorata",
+  "modello": "zai/glm-5.2",
+  "endpoint": "https://ai-gateway.vercel.sh/v1/chat/completions",
+  "prompt_sha256": "1457ade47c40bbc5325a52bb9b650c44dc3fa66b822dc8e6018f1b10960d03ee",
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "timestamp_utc": "2026-07-21T10:03:34.760470+00:00",
+  "stato": "dry_run",
+  "output": null,
+  "usage": null,
+  "latency_ms": null
+}

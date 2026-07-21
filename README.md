@@ -1,8 +1,10 @@
-# kimi-appalti — POC Kimi K2.6 su diritto degli appalti italiano
+# kimi-appalti — POC GLM su diritto degli appalti italiano
 
 Synthos Logic · Owner: Pablo Liuzzi · Avvio: 2026-07-20
 
-POC che verifica come si comporta Kimi K2.6 (con Claude come baseline) su lingua giuridica italiana, ancorato a un corpus verificabile di diritto degli appalti (D.Lgs. 36/2023, sotto-tema: soccorso istruttorio, art. 101).
+POC che verifica come si comporta **GLM (Zhipu/Z.ai, versione flagship)** su lingua giuridica italiana, ancorato a un corpus verificabile di diritto degli appalti (D.Lgs. 36/2023, sotto-tema: soccorso istruttorio, art. 101). **Valutazione assoluta a modello singolo** contro verità di riferimento e soglie pre-registrate: nessun confronto con altri modelli ([decisione 2026-07-21](memoria/decisioni/2026-07-21-cambio-modello-glm-no-baseline.md)).
+
+> Nota sul nome: "kimi-appalti"/"kimi-poc-ita" è il nome storico del progetto (il modello inizialmente adottato era Kimi K2.6, sostituito da GLM per saturazione delle API); resta invariato per non rompere percorsi e memoria.
 
 **Guardrail non negoziabile:** verificabilità. Ogni citazione deve risolversi a una pagina del corpus e da lì alla fonte ufficiale. Il tasso di riferimenti non risolvibili è la metrica di invenzione.
 

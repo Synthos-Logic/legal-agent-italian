@@ -1,0 +1,17 @@
+{
+  "prompt_id": "task:t3-ragionamento-01-p1",
+  "prompt_file": "../prompts/tasks/t3-ragionamento-01-p1.md",
+  "prompt_versione": "1",
+  "variante": "parafrasi-1",
+  "equivalente_a": "task:t3-ragionamento-01",
+  "task": "ragionamento-fatto-concreto",
+  "modello": "zai/glm-5.2",
+  "endpoint": "https://ai-gateway.vercel.sh/v1/chat/completions",
+  "prompt_sha256": "4c74c059417a6e77394792d74f3fe637fbdcbe091d6b541fdfc996ec26ae74c5",
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "timestamp_utc": "2026-07-21T10:03:34.764559+00:00",
+  "stato": "dry_run",
+  "output": null,
+  "usage": null,
+  "latency_ms": null
+}
