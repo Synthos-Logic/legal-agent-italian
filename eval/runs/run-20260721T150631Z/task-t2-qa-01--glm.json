@@ -1,0 +1,22 @@
+{
+  "prompt_id": "task:t2-qa-01",
+  "prompt_file": "../prompts/tasks/t2-qa-01.md",
+  "prompt_versione": "1",
+  "variante": "canonico",
+  "equivalente_a": "",
+  "task": "qa-ancorata",
+  "modello": "glm-5.2:cloud",
+  "endpoint": "http://localhost:11434/v1/chat/completions",
+  "prompt_sha256": "efc93086456f83851843082b2bd65473ced19f484ec9c110c794c247803568f7",
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "timestamp_utc": "2026-07-21T15:07:37.843543+00:00",
+  "stato": "ok",
+  "output": "La carenza in esame è sanabile tramite soccorso istruttorio, alle condizioni e nei termini di seguito illustrati.\n\nAi sensi dell'art. 101, comma 1, lettera a), del Codice dei contratti pubblici, la mancata presentazione della garanzia provvisoria rientra espressamente tra le ipotesi sanabili mediante soccorso istruttorio, a condizione che la regolarizzazione avvenga tramite documenti aventi data certa anteriore al termine fissato per la presentazione delle offerte. Pertanto, ove la garanzia sia stata costituita con data certa anteriore alla scadenza del termine di presentazione delle offerte, l'operatore economico può sanare la carenza documentale.\n\nIl soccorso istruttorio opera tuttavia solo ove il documento non sia già presente nel fascicolo virtuale dell'operatore economico al momento della scadenza del termine per la presentazione dell'offerta: in tal caso, non vi è spazio per il soccorso, dovendo considerarsi la documentazione già acquisita d'ufficio.\n\nQuanto al termine per la regolarizzazione, la stazione appaltante assegna all'operatore economico un termine non inferiore a cinque giorni e non superiore a dieci giorni per integrare la documentazione mancante.\n\nInfine, si ricorda che il mancato adempimento dell'operatore economico alle richieste della stazione appaltante nel termine stabilito comporta l'esclusione dalla procedura di gara, ex art. 101, comma 2.\n\n### Riferimenti\nurn:nir:stato:decreto.legislativo:2023-03-31;36~art101",
+  "usage": {
+    "prompt_tokens": 2111,
+    "completion_tokens": 599,
+    "total_tokens": 2710
+  },
+  "modello_effettivo": "glm-5.2",
+  "latency_ms": 17932
+}

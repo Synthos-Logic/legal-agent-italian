@@ -1,0 +1,22 @@
+{
+  "prompt_id": "task:t1-redazione-01",
+  "prompt_file": "../prompts/tasks/t1-redazione-01.md",
+  "prompt_versione": "1",
+  "variante": "canonico",
+  "equivalente_a": "",
+  "task": "redazione-registro",
+  "modello": "glm-5.2:cloud",
+  "endpoint": "http://localhost:11434/v1/chat/completions",
+  "prompt_sha256": "ee3b4c045d5e1d7069c316ebfd138dbdaa79dd71133a758b4e4f3693797a79ee",
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "timestamp_utc": "2026-07-21T15:06:52.812506+00:00",
+  "stato": "ok",
+  "output": "Oggetto: Attivazione del soccorso istruttorio ex art. 101, c. 1, del D.Lgs. 31 marzo 2023, n. 36 – richiesta di integrazione/sanzamento del Documento di Gara Unico Europeo (DGUE) – Concorrente Alfa S.r.l.\n\nAlla attenzione della Legale Rappresentanza\nAlfa S.r.l.\n[Indirizzo PEC]\n\nPremessa\n\nIn sede di verifica della documentazione amministrativa relativa alla procedura di gara [inserire CIG/titolo], questa Stazione appaltante ha accertato che la domanda di partecipazione presentata da codesta Società risulta carente in quanto il Documento di Gara Unico Europeo (DGUE) trasmesso è privo della sezione relativa ai requisiti di ordine generale.\n\nTale omissione integra un'inesattezza/irregolarità della domanda di partecipazione e del DGUE, sanabile ai sensi dell'art. 101, comma 1, del D.Lgs. 31 marzo 2023, n. 36, trattandosi di documentazione diversa dall'offerta tecnica e dall'offerta economica.\n\nRichiesta di integrazione e sanamento\n\nCon la presente, la Stazione appaltante assegna a codesta Società un termine di **dieci (10) giorni** decorrente dal ricevimento della presente comunicazione – termine non inferiore a cinque e non superiore a dieci giorni come previsto dalla norma citata – per:\n\na) **integrare** ogni elemento mancante della documentazione trasmessa, provvedendo alla completa compilazione della sezione del DGUE relativa ai requisiti di ordine generale, con esclusione della documentazione che compone l'offerta tecnica e l'offerta economica;\n\nb) **sanare** l'omissione, inesattezza o irregolarità del DGUE e di ogni altro documento richiesto per la partecipazione alla procedura di gara, con le medesime esclusioni di cui sopra.\n\nSi precisa che, ai sensi dell'art. 101, comma 1, del citato decreto, **non sono sanabili le omissioni, inesattezze e irregolarità che rendono assolutamente incerta l'identità del concorrente**.\n\nConseguenze dell'inadempimento\n\nSi rappresenta che, ai sensi dell'art. 101, comma 2, del D.Lgs. 31 marzo 2023, n. 36, **l'operatore economico che non adempie alle richieste della Stazione appaltante nel termine stabilito è escluso dalla procedura di gara**.\n\nAvvertenze\n\nLa presente richiesta ha ad oggetto esclusivamente la documentazione amministrativa di partecipazione. Si precisa che la Stazione appaltante potrà sempre richiedere chiarimenti sui contenuti dell'offerta tecnica e dell'offerta economica e su ogni loro allegato, con il limite che i chiarimenti resi non possono modificare il contenuto dell'offerta tecnica e dell'offerta economica (art. 101, comma 3). Si ricorda inoltre che, fino al giorno fissato per l'apertura, è possibile richiedere la rettifica di un errore materiale contenuto nell'offerta tecnica o economica, alle condizioni e con i limiti di cui all'art. 101, comma 4.\n\nSi invitano pertanto a provvedere tempestivamente, con le stesse modalità di presentazione della domanda di partecipazione, entro il termine perentorio assegnato.\n\nIl Responsabile Unico del Procedimento\n[Nome e cognome]\n\n### Riferimenti\nurn:nir:stato:decreto.legislativo:2023-03-31;36~art101",
+  "usage": {
+    "prompt_tokens": 2154,
+    "completion_tokens": 1079,
+    "total_tokens": 3233
+  },
+  "modello_effettivo": "glm-5.2",
+  "latency_ms": 27717
+}

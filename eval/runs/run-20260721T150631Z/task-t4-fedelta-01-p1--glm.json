@@ -1,0 +1,22 @@
+{
+  "prompt_id": "task:t4-fedelta-01-p1",
+  "prompt_file": "../prompts/tasks/t4-fedelta-01-p1.md",
+  "prompt_versione": "1",
+  "variante": "parafrasi-1",
+  "equivalente_a": "task:t4-fedelta-01",
+  "task": "fedelta-citazione",
+  "modello": "glm-5.2:cloud",
+  "endpoint": "http://localhost:11434/v1/chat/completions",
+  "prompt_sha256": "92eee7f4d85335f94981ed51cad49c7374ec7577138c267e6688b700ceb6d59d",
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "timestamp_utc": "2026-07-21T15:13:23.694705+00:00",
+  "stato": "ok",
+  "output": "In virtù dell'art. 101 del Codice dei contratti pubblici, il soccorso istruttorio opera su specifiche categorie di carenze documentali, escludendone altre in modo espresso.\n\n**Carenze documentali sanabili tramite soccorso istruttorio:**\n*   L'integrazione di ogni elemento mancante della documentazione trasmessa alla stazione appaltante unitamente alla domanda di partecipazione alla procedura di gara o con il documento di gara unico europeo (art. 101, comma 1, lettera a);\n*   La sanatoria di ogni omissione, inesattezza o irregolarità relativa alla domanda di partecipazione, al documento di gara unico europeo e a ogni altro documento richiesto dalla stazione appaltante per la partecipazione alla procedura di gara (art. 101, comma 1, lettera b);\n*   La mancata presentazione della garanzia provvisoria, del contratto di avvalimento e dell'impegno a conferire mandato collettivo speciale in caso di raggruppamenti di concorrenti non ancora costituiti; tali carenze sono sanabili a condizione che vengano prodotti documenti aventi data certa anteriore al termine fissato per la presentazione delle offerte (art. 101, comma 1, lettera a).\n\n**Carenze documentali escluse dalla sanatoria:**\n*   La documentazione che compone l'offerta tecnica e l'offerta economica, espressamente esclusa sia dall'ambito di integrazione degli elementi mancanti (art. 101, comma 1, lettera a), sia dall'ambito di sanatoria di omissioni, inesattezze o irregolarità (art. 101, comma 1, lettera b);\n*   Le omissioni, inesattezze e irregolarità che rendono assolutamente incerta l'identità del concorrente (art. 101, comma 1, lettera b).\n\n### Riferimenti\nurn:nir:stato:decreto.legislativo:2023-03-31;36~art101",
+  "usage": {
+    "prompt_tokens": 2107,
+    "completion_tokens": 2191,
+    "total_tokens": 4298
+  },
+  "modello_effettivo": "glm-5.2",
+  "latency_ms": 16515
+}

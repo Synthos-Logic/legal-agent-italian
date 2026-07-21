@@ -1,0 +1,18 @@
+{
+  "prompt_id": "task:t4-fedelta-01",
+  "prompt_file": "/private/tmp/claude-501/-Users-pabloliuzzi-Documents-claude-projects-legal-agent-italian/b5917968-6590-4d43-bbba-d0aea1138819/scratchpad/smoke/t4-fedelta-01.md",
+  "prompt_versione": "1",
+  "variante": "canonico",
+  "equivalente_a": "",
+  "task": "fedelta-citazione",
+  "modello": "glm-5.2",
+  "endpoint": "https://ollama.com/v1/chat/completions",
+  "prompt_sha256": "f96505b8854547d1f6ab52a90a7e1197593f041f156cc0c3c2a735e3e5703a02",
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "timestamp_utc": "2026-07-21T15:04:36.221753+00:00",
+  "stato": "errore",
+  "errore": "HTTP 401 da https://ollama.com/v1/chat/completions per glm-5.2: {\"error\":\"Unauthorized\"}\n",
+  "output": null,
+  "usage": null,
+  "latency_ms": 207
+}

@@ -1,0 +1,14 @@
+{
+  "dry_run": false,
+  "modelli": {
+    "glm": {
+      "model": "glm-5.2",
+      "endpoint": "https://ollama.com/v1/chat/completions",
+      "api_key_env": "OLLAMA_API_KEY"
+    }
+  },
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "prompt_files": [
+    "/private/tmp/claude-501/-Users-pabloliuzzi-Documents-claude-projects-legal-agent-italian/b5917968-6590-4d43-bbba-d0aea1138819/scratchpad/smoke/t4-fedelta-01.md"
+  ]
+}

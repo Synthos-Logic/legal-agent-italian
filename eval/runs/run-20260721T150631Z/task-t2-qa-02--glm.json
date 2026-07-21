@@ -1,0 +1,22 @@
+{
+  "prompt_id": "task:t2-qa-02",
+  "prompt_file": "../prompts/tasks/t2-qa-02.md",
+  "prompt_versione": "1",
+  "variante": "canonico",
+  "equivalente_a": "",
+  "task": "qa-ancorata",
+  "modello": "glm-5.2:cloud",
+  "endpoint": "http://localhost:11434/v1/chat/completions",
+  "prompt_sha256": "cdd5e0c0080fe6829ed6e338dfb3b419c5334ef720f197abe8ce04bc29b36a0c",
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "timestamp_utc": "2026-07-21T15:08:58.477256+00:00",
+  "stato": "ok",
+  "output": "In base alla disciplina vigente, l'omissione totale del Documento di Gara Unico Europeo (DGUE) non legittima un'esclusione immediata e in via自动istica del concorrente; la stazione appaltante è preliminarmente tenuta ad attivare la procedura di soccorso istruttorio.\n\n**1. Obbligatorietà del soccorso istruttorio in caso di omissione del DGUE**\n\nL'art. 101, comma 1, del Codice dei contratti pubblici dispone che la stazione appaltante assegna un termine non inferiore a cinque giorni e non superiore a dieci giorni per:\n- **lettera a)**: integrare ogni elemento mancante la documentazione trasmessa con la domanda di partecipazione o con il DGUE, con esclusione della documentazione che compone l'offerta tecnica e l'offerta economica;\n- **lettera b)**: sanare ogni omissione, inesattezza o irregolarità della domanda di partecipazione, del DGUE e di ogni altro documento richiesto dalla stazione appaltante per la partecipazione alla procedura di gara, sempre con esclusione dell'offerta tecnica ed economica.\n\nL'omissione totale del DGUE rientra pienamente nella previsione dell'art. 101, comma 1, lettera b), trattandosi di omissione di un documento richiesto per la partecipazione alla procedura di gara. Pertanto, la stazione appaltante non può escludere immediatamente il concorrente, ma deve preventivamente assegnare il termine per sanare l'omissione.\n\nSolo **se l'operatore economico non adempie alle richieste della stazione appaltante nel termine stabilito**, si procede all'esclusione dalla procedura di gara, ai sensi dell'art. 101, comma 2.\n\n**2. Limite all'operatività del soccorso istruttorio**\n\nL'art. 101, comma 1, ultimo periodo, stabilisce che **non sono sanabili le omissioni, inesattezze e irregolarità che rendono assolutamente incerta l'identità del concorrente**. Il DGUE, peraltro, ha ad oggetto le dichiarazioni relative al possesso dei requisiti di ordine generale e speciale (art. 91, comma 3), mentre gli elementi di identificazione del concorrente sono contenuti nella domanda di partecipazione (art. 91, comma 2). Pertanto, l'omissione del DGUE, di per sé, non rende incerta l'identità del concorrente, a meno che tale omissione sia congiunta ad altre lacune tali da impedire l'identificazione del soggetto. In tal caso, l'omissione non sarebbe sanabile.\n\n**3. Rapporto tra omissione del DGUE e cause di esclusione**\n\nL'omissione del DGUE non costituisce causa di esclusione automatica ai sensi dell'art. 94, che disciplina ipotesi tassative relative a condanne penali, misure interdittive antimafia, violazioni tributarie e previdenziali, false dichiarazioni, procedimenti concorsuali, iscrizione nel casellario informatico ANAC e altre situazioni soggettive. L'omissione del DGUE non è richiamata da tale articolo.\n\nL'art. 96, comma 1, dispone che le stazioni appaltanti escludono un operatore economico qualora risulti che si trovi in una delle situazioni di cui agli articoli 94 e 95. Trattandosi di discipline dirette a valutare requisiti di capacità e situazioni escludenti soggettive, l'omissione documentale del DGUE non configura di per sé una di tali situazioni, ma piuttosto un'irregolarità formale sanabile attraverso il soccorso istruttorio.\n\nPertanto, l'esclusione per omesso DGUE non è immediata né automatica, ma è subordinata al previo esperimento del soccorso istruttorio ex art. 101, comma 1, e si perfeziona solo con il mancato adempimento del concorrente nel termine assegnato (art. 101, comma 2).\n\n### Riferimenti\nurn:nir:stato:decreto.legislativo:2023-03-31;36~art91\nurn:nir:stato:decreto.legislativo:2023-03-31;36~art94\nurn:nir:stato:decreto.legislativo:2023-03-31;36~art96\nurn:nir:stato:decreto.legislativo:2023-03-31;36~art101",
+  "usage": {
+    "prompt_tokens": 10832,
+    "completion_tokens": 2595,
+    "total_tokens": 13427
+  },
+  "modello_effettivo": "glm-5.2",
+  "latency_ms": 32910
+}

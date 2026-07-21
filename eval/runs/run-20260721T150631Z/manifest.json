@@ -1,0 +1,31 @@
+{
+  "dry_run": false,
+  "modelli": {
+    "glm": {
+      "model": "glm-5.2:cloud",
+      "endpoint": "http://localhost:11434/v1/chat/completions",
+      "api_key_env": null
+    }
+  },
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "prompt_files": [
+    "../prompts/tasks/t1-redazione-01-p1.md",
+    "../prompts/tasks/t1-redazione-01-p2.md",
+    "../prompts/tasks/t1-redazione-01.md",
+    "../prompts/tasks/t2-qa-01-p1.md",
+    "../prompts/tasks/t2-qa-01-p2.md",
+    "../prompts/tasks/t2-qa-01.md",
+    "../prompts/tasks/t2-qa-02-p1.md",
+    "../prompts/tasks/t2-qa-02-p2.md",
+    "../prompts/tasks/t2-qa-02.md",
+    "../prompts/tasks/t3-ragionamento-01-p1.md",
+    "../prompts/tasks/t3-ragionamento-01-p2.md",
+    "../prompts/tasks/t3-ragionamento-01.md",
+    "../prompts/tasks/t3-ragionamento-02-p1.md",
+    "../prompts/tasks/t3-ragionamento-02-p2.md",
+    "../prompts/tasks/t3-ragionamento-02.md",
+    "../prompts/tasks/t4-fedelta-01-p1.md",
+    "../prompts/tasks/t4-fedelta-01-p2.md",
+    "../prompts/tasks/t4-fedelta-01.md"
+  ]
+}

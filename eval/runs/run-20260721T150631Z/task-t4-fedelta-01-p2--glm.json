@@ -1,0 +1,22 @@
+{
+  "prompt_id": "task:t4-fedelta-01-p2",
+  "prompt_file": "../prompts/tasks/t4-fedelta-01-p2.md",
+  "prompt_versione": "1",
+  "variante": "parafrasi-2",
+  "equivalente_a": "task:t4-fedelta-01",
+  "task": "fedelta-citazione",
+  "modello": "glm-5.2:cloud",
+  "endpoint": "http://localhost:11434/v1/chat/completions",
+  "prompt_sha256": "bcdb234dda306bd3759819d3c15493a354e2f14ec4d5fc2d2b8f03803c4923ed",
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "timestamp_utc": "2026-07-21T15:13:40.212035+00:00",
+  "stato": "ok",
+  "output": "L'art. 101, comma 1, del d.lgs. 31 marzo 2023, n. 36 disciplina l'ambito oggettivo del soccorso istruttorio, delimitando con precisione le fattispecie sanabili e quelle escluse dalla regolarizzazione.\n\n**1. Oggetto del soccorso istruttorio**\n\nIl soccorso istruttorio è ammesso, su assegnazione di un termine non inferiore a cinque e non superiore a dieci giorni, per:\n- **a)** integrare ogni elemento mancante della documentazione trasmessa con la domanda di partecipazione o con il DGUE, **escludendo** la documentazione che compone l'offerta tecnica e l'offerta economica (art. 101, comma 1, lett. a));\n- **b)** sanare ogni omissione, inesattezza o irregolarità della domanda di partecipazione, del DGUE e di ogni altro documento richiesto per la partecipazione, sempre **con esclusione** della documentazione che compone l'offerta tecnica e l'offerta economica (art. 101, comma 1, lett. b)).\n\n**2. Fattispecie specificamente sanabili**\n\nIl comma 1, lett. a) individua espressamente tre ipotesi sanabili mediante documenti aventi data certa anteriore alla scadenza del termine per la presentazione delle offerte:\n- la mancata presentazione della garanzia provvisoria;\n- il contratto di avvalimento;\n- l'impegno a conferire mandato collettivo speciale in caso di raggruppamenti di concorrenti non ancora costituiti.\n\n**3. Limiti e fattispecie non sanabili**\n\nSono **non sanabili**:\n- le omissioni, inesattezze e irregolarità relative all'offerta tecnica e all'offerta economica, espressamente escluse sia dalla lett. a) che dalla lett. b) del comma 1;\n- le omissioni, inesattezze e irregolarità che **rendono assolutamente incerta l'identità del concorrente**, così come testualmente statuito dal comma 1, lett. b), in fine.\n\n**4. Conseguenze del mancato adempiimento**\n\nL'operatore economico che non adempie alle richieste della stazione appaltante nel termine stabilito è **escluso** dalla procedura di gara (art. 101, comma 2).\n\n### Riferimenti\nurn:nir:stato:decreto.legislativo:2023-03-31;36~art101",
+  "usage": {
+    "prompt_tokens": 2124,
+    "completion_tokens": 693,
+    "total_tokens": 2817
+  },
+  "modello_effettivo": "glm-5.2",
+  "latency_ms": 22596
+}

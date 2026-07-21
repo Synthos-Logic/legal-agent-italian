@@ -1,0 +1,22 @@
+{
+  "prompt_id": "task:t4-fedelta-01",
+  "prompt_file": "../prompts/tasks/t4-fedelta-01.md",
+  "prompt_versione": "1",
+  "variante": "canonico",
+  "equivalente_a": "",
+  "task": "fedelta-citazione",
+  "modello": "glm-5.2:cloud",
+  "endpoint": "http://localhost:11434/v1/chat/completions",
+  "prompt_sha256": "f96505b8854547d1f6ab52a90a7e1197593f041f156cc0c3c2a735e3e5703a02",
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "timestamp_utc": "2026-07-21T15:14:02.811054+00:00",
+  "stato": "ok",
+  "output": "In base all'art. 101, comma 1, del D.Lgs. 31 marzo 2023, n. 36, l'istituto del soccorso istruttorio opera distintece tra ciò che può essere sanato e ciò che ne resta assolutamente escluso.\n\n**Cosa può essere sanato mediante soccorso istruttorio:**\n*   Ai sensi del **comma 1, lettera a)**, è consentito integrare ogni elemento mancante della documentazione trasmessa nel termine per la presentazione delle offerte con la domanda di partecipazione o con il Documento di Gara Unico Europeo (DGUE). In particolare, la norma specifica che la mancata presentazione della garanzia provvisoria, del contratto di avvalimento e dell'impegno a conferire mandato collettivo speciale (in caso di raggruppamenti di concorrenti non ancora costituiti) è sanabile mediante documenti aventi data certa anteriore al termine fissato per la presentazione delle offerte.\n*   Ai sensi del **comma 1, lettera b)**, è possibile sanare ogni omissione, inesattezza o irregolarità della domanda di partecipazione, del Documento di Gara Unico Europeo e di ogni altro documento richiesto dalla stazione appaltante per la partecipazione alla procedura di gara.\n\n**Cosa è escluso dal soccorso istruttorio:**\n*   Ai sensi del **comma 1, lettera a)**, l'integrazione di elementi mancanti è consentita **con esclusione della documentazione che compone l'offerta tecnica e l'offerta economica**.\n*   Ai sensi del **comma 1, lettera b)**, la sanatoria di omissioni, inesattezze o irregolarità è consentita **con esclusione della documentazione che compone l'offerta tecnica e l'offerta economica**. La medesima lettera stabilisce inoltre, in chiusura di comma, che **non sono sanabili le omissioni, inesattezze e irregolarità che rendono assolutamente incerta l'identità del concorrente**.\n\n### Riferimenti\nurn:nir:stato:decreto.legislativo:2023-03-31;36~art101",
+  "usage": {
+    "prompt_tokens": 2119,
+    "completion_tokens": 1168,
+    "total_tokens": 3287
+  },
+  "modello_effettivo": "glm-5.2",
+  "latency_ms": 14028
+}

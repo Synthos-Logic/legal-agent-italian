@@ -1,0 +1,22 @@
+{
+  "prompt_id": "task:t4-fedelta-01",
+  "prompt_file": "/private/tmp/claude-501/-Users-pabloliuzzi-Documents-claude-projects-legal-agent-italian/b5917968-6590-4d43-bbba-d0aea1138819/scratchpad/smoke/t4-fedelta-01.md",
+  "prompt_versione": "1",
+  "variante": "canonico",
+  "equivalente_a": "",
+  "task": "fedelta-citazione",
+  "modello": "glm-5.2:cloud",
+  "endpoint": "http://localhost:11434/v1/chat/completions",
+  "prompt_sha256": "f96505b8854547d1f6ab52a90a7e1197593f041f156cc0c3c2a735e3e5703a02",
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "timestamp_utc": "2026-07-21T15:06:01.359563+00:00",
+  "stato": "ok",
+  "output": "L'art. 101, comma 1, del D.Lgs. 36/2023 disciplina le fattispecie sanabili mediante soccorso istruttorio e quelle escluse dalla sanabilità.\n\n**Oggetti di sanatoria**\nSono sanabili, a norma dell'art. 101, comma 1, lett. a), l'integrazione di ogni elemento mancante della documentazione trasmessa alla stazione appaltante nel termine per la presentazione delle offerte con la domanda di partecipazione alla procedura di gara o con il documento di gara unico europeo. La medesima lettera precisa altresì che la mancata presentazione della garanzia provvisoria, del contratto di avvalimento e dell'impegno a conferire mandato collettivo speciale in caso di raggruppamenti di concorrenti non ancora costituiti è sanabile mediante documenti aventi data certa anteriore al termine fissato per la presentazione delle offerte.\n\nSono sanabili, inoltre, a norma dell'art. 101, comma 1, lett. b), le omissioni, inesattezze o irregolarità della domanda di partecipazione, del documento di gara unico europeo e di ogni altro documento richiesto dalla stazione appaltante per la partecipazione alla procedura di gara.\n\n**Fattispecie escluse**\nL'ambito del soccorso istruttorio è delimitato da due esclusioni esplicite.\nIn primo luogo, l'art. 101, comma 1, lett. a), e l'art. 101, comma 1, lett. b), escludono dalla sanabilità la documentazione che compone l'offerta tecnica e l'offerta economica.\nIn secondo luogo, l'art. 101, comma 1, lett. b), stabilisce che non sono sanabili le omissioni, inesattezze e irregolarità che rendono assolutamente incerta l'identità del concorrente.\n\n### Riferimenti\nurn:nir:stato:decreto.legislativo:2023-03-31;36~art101",
+  "usage": {
+    "prompt_tokens": 2119,
+    "completion_tokens": 1143,
+    "total_tokens": 3262
+  },
+  "modello_effettivo": "glm-5.2",
+  "latency_ms": 10612
+}

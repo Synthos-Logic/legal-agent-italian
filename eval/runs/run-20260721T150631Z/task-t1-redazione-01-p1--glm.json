@@ -1,0 +1,22 @@
+{
+  "prompt_id": "task:t1-redazione-01-p1",
+  "prompt_file": "../prompts/tasks/t1-redazione-01-p1.md",
+  "prompt_versione": "1",
+  "variante": "parafrasi-1",
+  "equivalente_a": "task:t1-redazione-01",
+  "task": "redazione-registro",
+  "modello": "glm-5.2:cloud",
+  "endpoint": "http://localhost:11434/v1/chat/completions",
+  "prompt_sha256": "f367dfd5d12f4f13c957119df90709919947f1b068a25f50b324b73065279e34",
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "timestamp_utc": "2026-07-21T15:06:31.387594+00:00",
+  "stato": "ok",
+  "output": "Spett.le Alfa S.r.l.\n\n**Oggetto: Attivazione del soccorso istruttorio ex art. 101 del D.Lgs. 31 marzo 2023, n. 36 – Integrazione del Documento di Gara Unico Europeo (DGPU) – Procedura di gara [inserire CIG/oggetto]**\n\nIn qualità di Responsabile Unico del Progetto di codesta Amministrazione Aggiudicatrice, si rappresenta che in esito all’esame della documentazione trasmessa per la partecipazione alla procedura di gara in epigrafe, è stato riscontrato che il Documento di Gara Unico Europeo (DGPU) da voi prodotto risulta privo della parte relativa ai requisiti generali.\n\nAl fine di consentire la regolarizzazione della suddetta omissione, ai sensi e per gli effetti dell'art. 101, comma 1, lett. a) e b), del Decreto Legislativo 31 marzo 2023, n. 36, si attiva la procedura di soccorso istruttorio.\n\nCon la presente, codesta società è invitata a sanare l'omissione segnalata, provvedendo all'integrazione della parte mancante relativa ai requisiti generali all'interno del DGPU, entro e non oltre il termine perentorio di **[inserire numero, compreso tra 5 e 10] giorni** dal ricevimento della presente comunicazione, a pena di esclusione.\n\nSi precisa, ai sensi dell'art. 101, comma 2, del citato D.Lgs. n. 36/2023, che il mancato adempimento alle richieste di cui sopra entro il termine stabilito comporterà l'esclusione di codesta società dalla procedura di gara.\n\nLa documentazione integrativa dovrà essere trasmessa secondo le modalità previste dal disciplinare di gara.\n\nDistinti saluti.\n\nIl Responsabile Unico del Progetto\n[firma]\n\n### Riferimenti\nurn:nir:stato:decreto.legislativo:2023-03-31;36~art101",
+  "usage": {
+    "prompt_tokens": 2148,
+    "completion_tokens": 874,
+    "total_tokens": 3022
+  },
+  "modello_effettivo": "glm-5.2",
+  "latency_ms": 7720
+}

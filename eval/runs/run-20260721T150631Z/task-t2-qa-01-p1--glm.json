@@ -1,0 +1,22 @@
+{
+  "prompt_id": "task:t2-qa-01-p1",
+  "prompt_file": "../prompts/tasks/t2-qa-01-p1.md",
+  "prompt_versione": "1",
+  "variante": "parafrasi-1",
+  "equivalente_a": "task:t2-qa-01",
+  "task": "qa-ancorata",
+  "modello": "glm-5.2:cloud",
+  "endpoint": "http://localhost:11434/v1/chat/completions",
+  "prompt_sha256": "1457ade47c40bbc5325a52bb9b650c44dc3fa66b822dc8e6018f1b10960d03ee",
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "timestamp_utc": "2026-07-21T15:07:20.532655+00:00",
+  "stato": "ok",
+  "output": "Alla luce della disciplina detata in materia, l'omessa trasmissione della garanzia provvisoria unitamente alla domanda di partecipazione è senz'altro sanabile attraverso il soccorso istruttorio, a patto che sussistano determinate condizioni.\n\nL'art. 101, comma 1, lettera a), del Codice dei contratti pubblici stabilisce infatti che la stazione appaltante è tenuta ad assegnare un termine non inferiore a cinque giorni e non superiore a dieci giorni per integrare gli elementi mancanti della documentazione trasmessa nel termine per la presentazione delle offerte. Tra le ipotesi espressamente indicate come sanabili, la norma include la mancata presentazione della garanzia provvisoria, a condizione che la stessa sia sanabile mediante documenti aventi data certa anteriore al termine fissato per la presentazione delle offerte. \n\nPertanto, nel caso di specie, essendo la garanzia provvisoria stata costituita con data certa anteriore alla scadenza del termine per la presentazione delle offerte, il concorrente potrà rimediare all'omessa trasmissione del relativo documento. La stazione appaltante dovrà assegnare al concorrente un termine compreso tra i cinque e i dieci giorni per procedere all'integrazione documentale. \n\nSi precisa infine che, ai sensi del comma 2 dello stesso articolo, l'operatore economico che non adempie alle richieste della stazione appaltante nel termine così stabilito è escluso dalla procedura di gara.\n\n### Riferimenti\nurn:nir:stato:decreto.legislativo:2023-03-31;36~art101",
+  "usage": {
+    "prompt_tokens": 2119,
+    "completion_tokens": 877,
+    "total_tokens": 2996
+  },
+  "modello_effettivo": "glm-5.2",
+  "latency_ms": 8384
+}
