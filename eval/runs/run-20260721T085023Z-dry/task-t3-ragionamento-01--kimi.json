@@ -1,0 +1,16 @@
+{
+  "prompt_id": "task:t3-ragionamento-01",
+  "prompt_file": "../prompts/tasks/t3-ragionamento-01.md",
+  "prompt_versione": "1",
+  "variante": "canonico",
+  "equivalente_a": "",
+  "task": "ragionamento-fatto-concreto",
+  "modello": "moonshotai/kimi-k2.6",
+  "prompt_sha256": "99dca71da5f373241e836dbc227c95a9df76d555f23c358b119af4c650892349",
+  "snapshot_sha256": "53588028e96faea8f3e25605d5bf52f5f3c4cb1fe1a9022cde44a82bb1bb6f49",
+  "timestamp_utc": "2026-07-21T08:50:23.667479+00:00",
+  "stato": "dry_run",
+  "output": null,
+  "usage": null,
+  "latency_ms": null
+}

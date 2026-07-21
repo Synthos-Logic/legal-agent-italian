@@ -1,0 +1,16 @@
+{
+  "prompt_id": "task:t2-qa-02-p1",
+  "prompt_file": "../prompts/tasks/t2-qa-02-p1.md",
+  "prompt_versione": "1",
+  "variante": "parafrasi-1",
+  "equivalente_a": "task:t2-qa-02",
+  "task": "qa-ancorata",
+  "modello": "anthropic/claude-sonnet-4.5",
+  "prompt_sha256": "0f857eec045d53ceb7e878cbb8678d3e7d7c0481f1ccbcfcfe23c2ab750f8b37",
+  "snapshot_sha256": "53588028e96faea8f3e25605d5bf52f5f3c4cb1fe1a9022cde44a82bb1bb6f49",
+  "timestamp_utc": "2026-07-21T08:50:23.663374+00:00",
+  "stato": "dry_run",
+  "output": null,
+  "usage": null,
+  "latency_ms": null
+}

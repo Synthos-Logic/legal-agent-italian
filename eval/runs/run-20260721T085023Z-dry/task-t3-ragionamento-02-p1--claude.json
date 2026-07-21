@@ -1,0 +1,16 @@
+{
+  "prompt_id": "task:t3-ragionamento-02-p1",
+  "prompt_file": "../prompts/tasks/t3-ragionamento-02-p1.md",
+  "prompt_versione": "1",
+  "variante": "parafrasi-1",
+  "equivalente_a": "task:t3-ragionamento-02",
+  "task": "ragionamento-fatto-concreto",
+  "modello": "anthropic/claude-sonnet-4.5",
+  "prompt_sha256": "2c802c44b459b7c14089dc09de27d4827a2a6a42c11357677e62f03813ef795e",
+  "snapshot_sha256": "53588028e96faea8f3e25605d5bf52f5f3c4cb1fe1a9022cde44a82bb1bb6f49",
+  "timestamp_utc": "2026-07-21T08:50:23.667775+00:00",
+  "stato": "dry_run",
+  "output": null,
+  "usage": null,
+  "latency_ms": null
+}
