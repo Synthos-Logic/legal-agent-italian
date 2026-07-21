@@ -1,0 +1,5 @@
+# snapshot.lock — elenco congelato del corpus
+# formato: <id>\t<sha256 del sorgente scaricato>\t<data_fetch ISO>
+# Rigenerato dagli script di ingest; ogni riga corrisponde a una pagina in 01-markdown/.
+# Senza congelamento e hash il corpus deriva e i risultati non sono riproducibili.
+urn:nir:stato:decreto.legislativo:2023-03-31;36~art101	4809e5d34e7d566f000b2505e6088401c99ccd73b5ceaa2e09c80bcdfbefec37	2026-07-21
