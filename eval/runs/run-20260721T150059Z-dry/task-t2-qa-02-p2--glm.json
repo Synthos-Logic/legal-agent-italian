@@ -1,0 +1,17 @@
+{
+  "prompt_id": "task:t2-qa-02-p2",
+  "prompt_file": "../prompts/tasks/t2-qa-02-p2.md",
+  "prompt_versione": "1",
+  "variante": "parafrasi-2",
+  "equivalente_a": "task:t2-qa-02",
+  "task": "qa-ancorata",
+  "modello": "glm-5.2",
+  "endpoint": "https://ollama.com/v1/chat/completions",
+  "prompt_sha256": "cdf924897b37e1e65fe44ef6011cf44fc12fe47f99f6230dc8c199705f18049e",
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "timestamp_utc": "2026-07-21T15:00:59.910967+00:00",
+  "stato": "dry_run",
+  "output": null,
+  "usage": null,
+  "latency_ms": null
+}

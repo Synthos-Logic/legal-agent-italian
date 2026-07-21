@@ -1,7 +1,7 @@
 {
   "glm": {
-    "model": "zai/glm-5.2",
-    "endpoint": "https://ai-gateway.vercel.sh/v1/chat/completions",
-    "api_key_env": "AI_GATEWAY_API_KEY"
+    "model": "glm-5.2",
+    "endpoint": "https://ollama.com/v1/chat/completions",
+    "api_key_env": "OLLAMA_API_KEY"
   }
 }

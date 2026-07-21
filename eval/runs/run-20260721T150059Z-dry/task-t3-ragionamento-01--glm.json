@@ -1,0 +1,17 @@
+{
+  "prompt_id": "task:t3-ragionamento-01",
+  "prompt_file": "../prompts/tasks/t3-ragionamento-01.md",
+  "prompt_versione": "1",
+  "variante": "canonico",
+  "equivalente_a": "",
+  "task": "ragionamento-fatto-concreto",
+  "modello": "glm-5.2",
+  "endpoint": "https://ollama.com/v1/chat/completions",
+  "prompt_sha256": "99dca71da5f373241e836dbc227c95a9df76d555f23c358b119af4c650892349",
+  "snapshot_sha256": "cf89e2024229cc48bef2d2f6dfca68749171078402f60555ef25b641dbc39092",
+  "timestamp_utc": "2026-07-21T15:00:59.913394+00:00",
+  "stato": "dry_run",
+  "output": null,
+  "usage": null,
+  "latency_ms": null
+}
