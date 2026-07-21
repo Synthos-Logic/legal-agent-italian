@@ -27,7 +27,7 @@ SNAPSHOT = BASE_DIR / "corpus" / "snapshot.lock"
 
 URN_BASE = "urn:nir:stato:decreto.legislativo:2023-03-31;36"
 PERMALINK = "https://www.normattiva.it/uri-res/N2Ls?{urn}~art{num}!vig={vig}"
-USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) kimi-appalti-poc"
+USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) legal-agent-italian-poc"
 PAUSA_SECONDI = 2
 
 

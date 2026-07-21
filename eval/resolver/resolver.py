@@ -1,4 +1,4 @@
-"""Risolutore di citazioni della POC kimi-appalti (BRIEF §8).
+"""Risolutore di citazioni della POC legal-agent-italian (BRIEF §8).
 
 Deterministico e meccanico: una citazione risolve se e solo se il suo
 identificativo canonico esiste nell'indice del corpus e — per gli URN con
@@ -153,7 +153,7 @@ def resolve(citations, index):
 
 
 def main(argv=None):
-    parser = argparse.ArgumentParser(description="Risolutore di citazioni kimi-appalti")
+    parser = argparse.ArgumentParser(description="Risolutore di citazioni legal-agent-italian")
     parser.add_argument("--corpus", required=True, help="directory corpus/01-markdown")
     parser.add_argument("--input", required=True, help="file di testo con l'output del modello")
     args = parser.parse_args(argv)

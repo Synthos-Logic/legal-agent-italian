@@ -57,25 +57,25 @@ class TestAggregaRun(unittest.TestCase):
         (self.run_dir / nome).write_text(json.dumps(dati), encoding="utf-8")
 
     def test_d4_per_record_e_aggregato_per_modello(self):
-        self.scrivi("a--kimi.json", record(
-            "task:t2-qa-01", "kimi", f"Risposta.\n### Riferimenti\n{URN}"))
+        self.scrivi("a--glm.json", record(
+            "task:t2-qa-01", "glm", f"Risposta.\n### Riferimenti\n{URN}"))
         self.scrivi("a--claude.json", record(
             "task:t2-qa-01", "claude",
             "Risposta.\n### Riferimenti\nECLI:IT:CDS:2020:1 \n" + URN))
         report = aggrega_run(self.run_dir, self.corpus)
         per_record = {r["file"]: r for r in report["records"]}
-        self.assertEqual(per_record["a--kimi.json"]["tasso_non_risolvibili"], 0.0)
+        self.assertEqual(per_record["a--glm.json"]["tasso_non_risolvibili"], 0.0)
         self.assertEqual(per_record["a--claude.json"]["tasso_non_risolvibili"], 0.5)
-        self.assertEqual(report["per_modello"]["kimi"]["citazioni_totali"], 1)
+        self.assertEqual(report["per_modello"]["glm"]["citazioni_totali"], 1)
         self.assertEqual(report["per_modello"]["claude"]["citazioni_non_risolte"], 1)
 
     def test_output_senza_citazioni_conta_come_zero_citazioni(self):
-        self.scrivi("b--kimi.json", record("task:t2-qa-01", "kimi", "Nessun riferimento."))
+        self.scrivi("b--glm.json", record("task:t2-qa-01", "glm", "Nessun riferimento."))
         report = aggrega_run(self.run_dir, self.corpus)
         self.assertEqual(report["records"][0]["citazioni"], 0)
 
     def test_record_non_ok_esclusi_ma_contati(self):
-        self.scrivi("c--kimi.json", record("task:x", "kimi", None, stato="dry_run"))
+        self.scrivi("c--glm.json", record("task:x", "glm", None, stato="dry_run"))
         report = aggrega_run(self.run_dir, self.corpus)
         self.assertEqual(report["records"], [])
         self.assertEqual(report["esclusi"], 1)
@@ -84,10 +84,10 @@ class TestAggregaRun(unittest.TestCase):
         for suffisso, pid, eq in (("", "task:t2-qa-01", None),
                                   ("-p1", "task:t2-qa-01-p1", "task:t2-qa-01"),
                                   ("-p2", "task:t2-qa-01-p2", "task:t2-qa-01")):
-            self.scrivi(f"t2{suffisso}--kimi.json", record(
-                pid, "kimi", f"R.\n### Riferimenti\n{URN}", equivalente_a=eq))
+            self.scrivi(f"t2{suffisso}--glm.json", record(
+                pid, "glm", f"R.\n### Riferimenti\n{URN}", equivalente_a=eq))
         report = aggrega_run(self.run_dir, self.corpus)
-        terne = report["per_modello"]["kimi"]["stabilita_terne"]
+        terne = report["per_modello"]["glm"]["stabilita_terne"]
         self.assertEqual(len(terne), 1)
         self.assertEqual(terne[0]["canonico"], "task:t2-qa-01")
         self.assertEqual(terne[0]["varianti"], 3)
