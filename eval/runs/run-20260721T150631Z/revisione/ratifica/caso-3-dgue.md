@@ -78,3 +78,24 @@ Frase conclusiva dell'output: «L'esclusione consegue esclusivamente all'inerzia
 Frase conclusiva dell'output (sezione "Conclusione"): «L'amministrazione non deve procedere subito all'esclusione, ma è obbligata a consentire la regolarizzazione della mancata presentazione del DGUE tramite soccorso istruttorio, assegnando un termine tra i cinque e i dieci giorni. L'esclusione sarà disposta unicamente nel caso in cui l'operatore non adempia alla richiesta di regolarizzazione, ovvero qualora l'omissione del documento renda assolutamente incerta l'identità del concorrente.»
 
 `Concorde con l'item valutato? [ ] SÌ [ ] NO`
+
+
+---
+
+## Verbale di ratifica (compilato il 2026-07-23)
+
+Revisore: **Consulente interno Synthos Logic**. Convenzione verbalizzata: per le domande con evidenza "nessuna frase corrispondente trovata" la risposta SÌ del revisore vale come **conferma del riscontro di assenza**; chiarimenti raccolti a verbale nella stessa sessione (2.8 corretto; 5.2 e 6.8 integrate).
+
+- Domanda B1: **SÌ**
+- Domanda B2: **SÌ (riconduzione alla lett. b ritenuta accettabile dal revisore)**
+- Domanda B3: **SÌ**
+- Domanda B4: **SÌ**
+- Domanda B5: **SÌ**
+- Domanda B6: **SÌ**
+- Domanda B7: **SÌ**
+- Domanda B8: **SÌ**
+
+**Voti (item-15)**: D1 = 5 · D2 = 5 · D3 = 5
+**Conclusione sintetica**: Soccorso obbligatorio, no esclusione immediata
+**Concordanza item-12**: Concorde
+**Concordanza item-03**: Concorde

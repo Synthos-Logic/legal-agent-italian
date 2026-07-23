@@ -86,3 +86,25 @@ Frasi conclusive dell'output (conclusione sulla sanabilità ed esito dell'inadem
 - «L'operatore economico che non adempie alle richieste della stazione appaltante entro il termine stabilito è escluso dalla procedura di gara.» (sezione «Termini»)
 
 `Concorde con l'item valutato? [ ] SÌ [ ] NO`
+
+
+---
+
+## Verbale di ratifica (compilato il 2026-07-23)
+
+Revisore: **Consulente interno Synthos Logic**. Convenzione verbalizzata: per le domande con evidenza "nessuna frase corrispondente trovata" la risposta SÌ del revisore vale come **conferma del riscontro di assenza**; chiarimenti raccolti a verbale nella stessa sessione (2.8 corretto; 5.2 e 6.8 integrate).
+
+- Domanda 1: **SÌ**
+- Domanda 2: **SÌ**
+- Domanda 3: **SÌ**
+- Domanda 4: **SÌ**
+- Domanda 5: **SÌ**
+- Domanda 6: **SÌ**
+- Domanda 7: **SÌ (assenza del limite confermata)**
+- Domanda 8: **SÌ (corretto in chiarimento: fonti tutte nel corpus)**
+- Domanda 9: **SÌ**
+
+**Voti (item-02)**: D1 = 5 · D2 = 5 · D3 = 5
+**Conclusione sintetica**: Sanabile con condizioni (data certa)
+**Concordanza item-10**: Concorde
+**Concordanza item-13**: Concorde

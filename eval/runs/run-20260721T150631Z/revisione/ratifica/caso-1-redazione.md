@@ -89,3 +89,25 @@ Frasi conclusive dell'output (termine ed esito dell'inadempimento), citate testu
 - «3. **Si avverte** l'operatore economico che, ai sensi dell'art. 101, comma 2, del Codice dei contratti pubblici, **il mancato adempimento alle richieste della stazione appaltante nel termine stabilito comporta l'esclusione dalla procedura di gara**.»
 
 `Concorde con l'item valutato? [ ] SÌ [ ] NO`
+
+
+---
+
+## Verbale di ratifica (compilato il 2026-07-23)
+
+Revisore: **Consulente interno Synthos Logic**. Convenzione verbalizzata: per le domande con evidenza "nessuna frase corrispondente trovata" la risposta SÌ del revisore vale come **conferma del riscontro di assenza**; chiarimenti raccolti a verbale nella stessa sessione (2.8 corretto; 5.2 e 6.8 integrate).
+
+- Domanda 1: **SÌ**
+- Domanda 2: **SÌ**
+- Domanda 3: **SÌ**
+- Domanda 4: **SÌ**
+- Domanda 5: **SÌ**
+- Domanda 6: **SÌ**
+- Domanda 7: **NO (assenza confermata)**
+- Domanda 8: **SÌ**
+- Domanda 9: **SÌ**
+
+**Voti (item-06)**: D1 = 5 · D2 = 5 · D3 = 4
+**Conclusione sintetica**: Atto conforme al quesito
+**Concordanza item-11**: Concorde
+**Concordanza item-17**: Concorde

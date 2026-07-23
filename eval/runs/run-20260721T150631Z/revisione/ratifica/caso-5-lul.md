@@ -83,3 +83,25 @@ Frasi conclusive dell'output (citate testualmente): «La richiesta non è accogl
 Frase d'esito dell'output (citata testualmente, in apertura): «Alla luce del quadro normativo vigente in materia di contratti pubblici, la stazione appaltante **non deve** consentire l'acquisizione del Libro Unico del Lavoro in via di soccorso istruttorio, né in via integrativa né tanto meno in via correttiva.» — Ultima frase del testo: «L'ammissione del soccorso comporterebbe inoltre un vulnus alla par condicio e all'efficacia, tempestività e correttezza della procedura di gara, agevolando un operatore che non ha ottemperato alle prescrizioni della lex specialis a scapito dei concorrenti diligenti.»
 
 `Concorde con l'item valutato? [ ] SÌ [ ] NO`
+
+
+---
+
+## Verbale di ratifica (compilato il 2026-07-23)
+
+Revisore: **Consulente interno Synthos Logic**. Convenzione verbalizzata: per le domande con evidenza "nessuna frase corrispondente trovata" la risposta SÌ del revisore vale come **conferma del riscontro di assenza**; chiarimenti raccolti a verbale nella stessa sessione (2.8 corretto; 5.2 e 6.8 integrate).
+
+- Domanda 1: **SÌ**
+- Domanda 2: **SÌ (integrato in chiarimento)**
+- Domanda 3: **SÌ**
+- Domanda 4: **SÌ**
+- Domanda 5: **SÌ**
+- Domanda 6: **SÌ**
+- Domanda 7: **NO (assenza confermata)**
+- Domanda 8: **SÌ (assenza confermata: non ammette oltre il limite)**
+- Domanda 9: **SÌ (assenza confermata)**
+
+**Voti (item-16)**: D1 = 4 · D2 = 5 · D3 = 5
+**Conclusione sintetica**: Richiesta respinta, soccorso inammissibile
+**Concordanza item-04**: Concorde
+**Concordanza item-09**: Concorde

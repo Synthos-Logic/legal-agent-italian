@@ -17,13 +17,13 @@ Percorso (≈45-60 minuti): apri i 6 moduli nell'ordine, per ciascuno leggi l'it
 
 | Caso | D1 | D2 | D3 | Conclusione sintetica | Concordanza variante A | Concordanza variante B |
 |---|---|---|---|---|---|---|
-| 1 — redazione |  |  |  |  |  |  |
-| 2 — garanzia |  |  |  |  |  |  |
-| 3 — DGUE |  |  |  |  |  |  |
-| 4 — manodopera |  |  |  |  |  |  |
-| 5 — LUL |  |  |  |  |  |  |
-| 6 — fedeltà |  |  |  |  |  |  |
+| 1 — redazione | 5 | 5 | 4 | Atto conforme al quesito | Concorde | Concorde |
+| 2 — garanzia | 5 | 5 | 5 | Sanabile con condizioni (data certa) | Concorde | Concorde |
+| 3 — DGUE | 5 | 5 | 5 | Soccorso obbligatorio, no esclusione immediata | Concorde | Concorde |
+| 4 — manodopera | 5 | 5 | 5 | Soccorso eccezionalmente ammissibile | Concorde | Concorde |
+| 5 — LUL | 4 | 5 | 5 | Richiesta respinta, soccorso inammissibile | Concorde | Concorde |
+| 6 — fedeltà | 5 | 4 | 5 | Esposizione fedele con partizioni esatte | Concorde | Concorde |
 
-Firma e data: ____________
+Firma e data: **Consulente interno Synthos Logic — 2026-07-23** (risposte raccolte via modulo interattivo, verbali nei singoli casi)
 
 Alla consegna: comunicare il completamento nella sessione di lavoro — l'aggregazione (con D4 e D5a già acquisite) e la bozza del caso di studio partono da qui.

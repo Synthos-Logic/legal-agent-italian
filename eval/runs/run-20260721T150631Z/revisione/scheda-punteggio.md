@@ -9,21 +9,21 @@ riga l'esito giuridico sostenuto dall'output (es. "sanabile con condizioni",
 
 | Item | D1 registro (1-5) | D2 fedeltà (1-5) | D3 ragionamento (1-5) | Conclusione sintetica | Note |
 |------|-------------------|------------------|------------------------|------------------------|------|
-| item-01 |  |  |  |  |  |
-| item-02 |  |  |  |  |  |
-| item-03 |  |  |  |  |  |
-| item-04 |  |  |  |  |  |
-| item-05 |  |  |  |  |  |
-| item-06 |  |  |  |  |  |
-| item-07 |  |  |  |  |  |
-| item-08 |  |  |  |  |  |
-| item-09 |  |  |  |  |  |
-| item-10 |  |  |  |  |  |
-| item-11 |  |  |  |  |  |
-| item-12 |  |  |  |  |  |
-| item-13 |  |  |  |  |  |
-| item-14 |  |  |  |  |  |
-| item-15 |  |  |  |  |  |
-| item-16 |  |  |  |  |  |
-| item-17 |  |  |  |  |  |
-| item-18 |  |  |  |  |  |
+| item-01 | — | — | — | concorde con la valutazione del caso 6 | concordanza D5b |
+| item-02 | 5 | 5 | 5 | Sanabile con condizioni (data certa) | valutazione piena (caso 2) |
+| item-03 | — | — | — | concorde con la valutazione del caso 3 | concordanza D5b |
+| item-04 | — | — | — | concorde con la valutazione del caso 5 | concordanza D5b |
+| item-05 | — | — | — | concorde con la valutazione del caso 4 | concordanza D5b |
+| item-06 | 5 | 5 | 4 | Atto conforme al quesito | valutazione piena (caso 1) |
+| item-07 | 5 | 5 | 5 | Soccorso eccezionalmente ammissibile | valutazione piena (caso 4) |
+| item-08 | 5 | 4 | 5 | Esposizione fedele con partizioni esatte | valutazione piena (caso 6) |
+| item-09 | — | — | — | concorde con la valutazione del caso 5 | concordanza D5b |
+| item-10 | — | — | — | concorde con la valutazione del caso 2 | concordanza D5b |
+| item-11 | — | — | — | concorde con la valutazione del caso 1 | concordanza D5b |
+| item-12 | — | — | — | concorde con la valutazione del caso 3 | concordanza D5b |
+| item-13 | — | — | — | concorde con la valutazione del caso 2 | concordanza D5b |
+| item-14 | — | — | — | concorde con la valutazione del caso 4 | concordanza D5b |
+| item-15 | 5 | 5 | 5 | Soccorso obbligatorio, no esclusione immediata | valutazione piena (caso 3) |
+| item-16 | 4 | 5 | 5 | Richiesta respinta, soccorso inammissibile | valutazione piena (caso 5) |
+| item-17 | — | — | — | concorde con la valutazione del caso 1 | concordanza D5b |
+| item-18 | — | — | — | concorde con la valutazione del caso 6 | concordanza D5b |

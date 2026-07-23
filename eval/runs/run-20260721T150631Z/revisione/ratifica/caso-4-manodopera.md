@@ -84,3 +84,25 @@ Frase conclusiva dell'output: «Qualora, invece, si tratti di fornitura con posa
 Frase conclusiva dell'output: «Se la modulistica resa disponibile dall'amministrazione era effettivamente tale da rendere impossibile l'inserimento dei costi (mancando ogni riferimento agli stessi) e la lex specialis era del tutto priva di previsioni in merito, generando un legittimo dubbio, il soccorso istruttorio è ammissibile.»
 
 `Concorde con l'item valutato? [ ] SÌ [ ] NO`
+
+
+---
+
+## Verbale di ratifica (compilato il 2026-07-23)
+
+Revisore: **Consulente interno Synthos Logic**. Convenzione verbalizzata: per le domande con evidenza "nessuna frase corrispondente trovata" la risposta SÌ del revisore vale come **conferma del riscontro di assenza**; chiarimenti raccolti a verbale nella stessa sessione (2.8 corretto; 5.2 e 6.8 integrate).
+
+- Domanda B1: **SÌ**
+- Domanda B2: **SÌ**
+- Domanda B3: **SÌ**
+- Domanda B4: **SÌ**
+- Domanda B5: **SÌ (assenza confermata)**
+- Domanda B6: **SÌ (richiamo congiunto confermato)**
+- Domanda B7: **SÌ**
+- Domanda B8: **SÌ (assenza dell'art. 107 confermata)**
+- Domanda B9: **SÌ**
+
+**Voti (item-07)**: D1 = 5 · D2 = 5 · D3 = 5
+**Conclusione sintetica**: Soccorso eccezionalmente ammissibile
+**Concordanza item-05**: Concorde
+**Concordanza item-14**: Concorde

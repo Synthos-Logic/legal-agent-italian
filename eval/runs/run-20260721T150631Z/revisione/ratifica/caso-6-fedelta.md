@@ -79,3 +79,24 @@ Ultime frasi del testo dell'output (elenco «Carenze documentali escluse dalla s
 Ultimo punto dell'elenco «non sanabili» e ultima frase del testo dell'output (citati testualmente): «le omissioni, inesattezze e irregolarità che **rendono assolutamente incerta l'identità del concorrente**, così come testualmente statuito dal comma 1, lett. b), in fine.» — «L'operatore economico che non adempie alle richieste della stazione appaltante nel termine stabilito è **escluso** dalla procedura di gara (art. 101, comma 2).»
 
 `Concorde con l'item valutato? [ ] SÌ [ ] NO`
+
+
+---
+
+## Verbale di ratifica (compilato il 2026-07-23)
+
+Revisore: **Consulente interno Synthos Logic**. Convenzione verbalizzata: per le domande con evidenza "nessuna frase corrispondente trovata" la risposta SÌ del revisore vale come **conferma del riscontro di assenza**; chiarimenti raccolti a verbale nella stessa sessione (2.8 corretto; 5.2 e 6.8 integrate).
+
+- Domanda 1: **SÌ**
+- Domanda 2: **SÌ**
+- Domanda 3: **SÌ**
+- Domanda 4: **SÌ**
+- Domanda 5: **SÌ**
+- Domanda 6: **SÌ**
+- Domanda 7: **SÌ (assenza confermata: nessun comma diverso dal co. 1)**
+- Domanda 8: **NO (integrato in chiarimento: alinea non riportata)**
+
+**Voti (item-08)**: D1 = 5 · D2 = 4 · D3 = 5
+**Conclusione sintetica**: Esposizione fedele con partizioni esatte
+**Concordanza item-18**: Concorde
+**Concordanza item-01**: Concorde
