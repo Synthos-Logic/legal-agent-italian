@@ -133,3 +133,5 @@ Normattiva (permalink URN:NIR) · Giustizia Amministrativa, ricerca decisioni (O
 ---
 
 *Synthos Logic Lab. Bozza v2 per pubblicazione — dati, log e storia decisionale integrali nel repository pubblico.*
+
+*Ringraziamenti: a Fausto, per la proposta del nome del progetto.*
