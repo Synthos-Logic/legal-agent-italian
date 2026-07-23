@@ -17,7 +17,7 @@ Owner: Pablo Liuzzi · Repository: [Synthos-Logic/legal-agent-italian](https://g
 
 ### 1. La domanda
 
-I modelli linguistici scrivono diritto con fluenza professionale. La domanda che conta per un uso reale è un'altra: **citano il vero?** Nel diritto una citazione inventata non è un'imperfezione stilistica, è un difetto squalificante. Questa POC nasce per rispondere con un numero, non con un'impressione: se ancoriamo un modello a un corpus chiuso di fonti ufficiali e gli imponiamo di citare solo da lì, quante delle sue citazioni *non esistono*?
+I modelli linguistici scrivono diritto con fluenza professionale. La domanda che conta per un uso reale è un'altra: **citano il vero?** Nel diritto una citazione inventata è un difetto squalificante. Questa POC risponde con un numero, misurato su una sfida deliberatamente asimmetrica: **un modello sviluppato in Cina, addestrato a dominanza cinese e inglese, messo davanti alla lingua giuridica italiana** — un registro rigidissimo, un lessico dove onere e obbligo sono cose diverse, partizioni normative da citare con esattezza notarile. La domanda: se ancoriamo un modello a un corpus chiuso di fonti ufficiali e gli imponiamo di citare solo da lì, quante delle sue citazioni *non esistono*?
 
 Abbiamo scelto il dominio più esigente che frequentiamo — i contratti pubblici italiani — e il sotto-tema con l'incastro più fitto tra norma, giurisprudenza e prassi: il **soccorso istruttorio** (art. 101 D.Lgs. 36/2023), con le sue quattro figure e i suoi confini sottili. Il modello oggetto del test è **GLM-5.2** (Z.ai): open-weights con licenza MIT — coerente con un percorso di sovranità europea del self-hosting — e rappresentativo della frontiera attuale dei modelli aperti.
 
@@ -42,7 +42,7 @@ Tre scelte rendono il controllo meccanico:
 2. **Il nome file è l'identificativo.** URN:NIR per le norme, ECLI per le decisioni, numero+data per gli atti ANAC, slug deterministico: wiki e risolutore condividono una sola chiave, nessuna mappa parallela che possa divergere.
 3. **Identificativi estratti dai documenti, mai costruiti.** Gli ECLI provengono dai documenti ufficiali del portale della Giustizia Amministrativa — il cui accesso programmatico è stato ricostruito durante l'ingestione (portlet di ricerca, endpoint documenti, XML di sentenza reso con il foglio di stile ufficiale) — con 4 correzioni di estremi rispetto alle riviste di rassegna, incluso un numero di sentenza errato in fonte secondaria. La lezione è già un risultato: *le fonti di rassegna sbagliano; l'unica chiave affidabile è il documento ufficiale*.
 
-Il **risolutore** è deterministico e volutamente stupido: estrae dal blocco `### Riferimenti` gli identificativi nei tre formati canonici, li cerca nell'indice, applica una sola regola sofisticata (una citazione con data di vigenza diversa da quella congelata *non* risolve silenziosamente). Nessun giudizio, nessun ramo condizionale sul modello: il tasso di non risolvibili è la **metrica di invenzione**, oggettiva e riproducibile.
+Il **risolutore** è deterministico per progetto: estrae dal blocco `### Riferimenti` gli identificativi nei tre formati canonici, li cerca nell'indice, applica una sola regola sofisticata (una citazione con data di vigenza diversa da quella congelata *non* risolve silenziosamente). Nessun giudizio, nessun ramo condizionale sul modello: il tasso di non risolvibili è la **metrica di invenzione**, oggettiva e riproducibile.
 
 ### 3. L'harness: il provider è configurazione, non codice
 
