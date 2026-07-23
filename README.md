@@ -25,8 +25,7 @@ eval/harness/      harness multi-provider: il modello è configurazione, non cod
 eval/prompts/      18 prompt pre-registrati (6 item × 3 varianti) + verità di riferimento
 eval/runs/         log integrali delle run, metriche, fascicolo di revisione e verbali
 ingest/            pipeline di ingestione (Normattiva per articolo, portale GA, PDF ANAC)
-memoria/           memoria decisionale WikiLM: ogni decisione e deviazione è una scheda datata
-.claude/agents/    il team di agenti che ha costruito e custodito la POC
+docs/              registro pubblico del protocollo metodologico (decisioni datate)
 ```
 
 ## Riprodurre la prova
@@ -43,10 +42,10 @@ Con un modello reale: configurare `eval/harness/models.json` (`{model, endpoint,
 
 ## Metodo in una riga
 
-Rubrica, prompt, verità di riferimento e soglie **congelati prima di osservare qualunque output**; risolutore meccanico per l'invenzione; **nessun LLM valuta i contenuti** — l'istruttoria è assistita da agenti, il giudizio è integralmente umano (limiti dichiarati nel caso di studio).
+Rubrica, prompt, verità di riferimento e soglie **congelati prima di osservare qualunque output**; risolutore meccanico per l'invenzione; **nessun LLM valuta i contenuti** — l'istruttoria è assistita da agenti, il giudizio è integralmente umano. Decisioni metodologiche e deviazioni, datate: [registro del protocollo](docs/protocollo-metodologico.md). Limiti dichiarati nel caso di studio.
 
 ## Licenza e fonti
 
 Codice e documentazione originale: **MIT** ([LICENSE](LICENSE)). I documenti del corpus sono atti pubblici ufficiali riprodotti a fini di ricerca con indicazione della provenienza: Normattiva (URN:NIR), Giustizia Amministrativa (ECLI; Open GA in CC-BY 4.0), ANAC (numero e data); ogni pagina del corpus riporta l'URL della fonte ufficiale nel frontmatter. Le riproduzioni non hanno carattere di ufficialità: fa fede esclusivamente il testo pubblicato dalla fonte.
 
-> Nota storica: il progetto nasce come "kimi-appalti"; il modello e il nome sono cambiati in corso d'opera — la storia completa è nelle schede di `memoria/decisioni/`.
+> Nota storica: il progetto nasce come "kimi-appalti"; il modello oggetto del test e il nome sono cambiati in corso d'opera, come documentato nel [registro del protocollo](docs/protocollo-metodologico.md).

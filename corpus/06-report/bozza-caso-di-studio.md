@@ -70,7 +70,7 @@ La POC è stata costruita e custodita da un team di agenti specializzati (Claude
 | custode-riproducibilita | verifiche pre-commit: hash 100%, segreti, indipendenza, coerenza della memoria |
 | istruttore-revisione | istruttoria della revisione: citazioni verbatim affiancate alle verità di riferimento, **divieto assoluto di giudizi** |
 
-Ogni programma, decisione e deviazione è una scheda Markdown datata in una memoria WikiLM versionata: il paper che state leggendo è ricostruibile passo-passo dalla storia del repository.
+Ogni decisione metodologica e ogni deviazione dal protocollo è registrata con data nel [registro pubblico del protocollo](../../docs/protocollo-metodologico.md), verificabile contro la storia del repository: il paper che state leggendo è ricostruibile passo-passo.
 
 ### 5. Metodo: pre-registrazione, poi nessun ritocco
 
@@ -117,7 +117,7 @@ Tre risultati qualitativi meritano il dettaglio:
 
 ### 9. Riproducibilità
 
-Tutto il necessario per rieseguire la prova è nel repository: corpus con hash (`corpus/`, `snapshot.lock`), risolutore e harness con 65 test (`eval/`), prompt v1 e verità di riferimento, log integrali della run (`eval/runs/run-20260721T150631Z/`, metriche incluse), verbali di revisione, e la memoria decisionale completa (`memoria/`) — ogni deviazione dal protocollo è una scheda datata, committata prima della sua applicazione.
+Tutto il necessario per rieseguire la prova è nel repository: corpus con hash (`corpus/`, `snapshot.lock`), risolutore e harness con 65 test (`eval/`), prompt v1 e verità di riferimento, log integrali della run (`eval/runs/run-20260721T150631Z/`, metriche incluse), verbali di revisione, e il registro datato del protocollo (`docs/protocollo-metodologico.md`) — ogni deviazione è documentata e committata prima della sua applicazione.
 
 ```sh
 # dry-run senza chiavi (verifica l'intera catena)
