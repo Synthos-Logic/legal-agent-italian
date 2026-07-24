@@ -4,6 +4,12 @@
 
 POC che misura come si comporta **GLM-5.2** (Z.ai, open-weights) sulla lingua giuridica italiana quando è ancorato a un **corpus verificabile di 52 fonti ufficiali** sul soccorso istruttorio (art. 101 D.Lgs. 36/2023). Ogni citazione emessa dal modello si risolve meccanicamente a una pagina del corpus e alla fonte ufficiale: **il tasso di citazioni non risolvibili è la metrica di invenzione**.
 
+## Perché questo progetto
+
+1. **Adozione in ambienti tutelati.** GLM-5.2 è tra i più potenti modelli gratuiti e open source (pesi in licenza MIT): l'obiettivo della sperimentazione è verificare la percorribilità del suo impiego in ambienti privati e protetti, dove i dati non escono dal perimetro di chi li tratta.
+2. **La barriera linguistica.** Un modello addestrato a dominanza cinese e inglese alla prova dell'italiano più esigente — quello giuridico — con verifica meccanica delle allucinazioni e revisione umana della qualità.
+3. **Infrastruttura di nuova generazione.** Harness costruito sul paradigma del gateway AI (Vercel AI Gateway): il fornitore del modello è configurazione, non codice — proprietà collaudata da due cambi di fornitura in corso d'opera, a costo di una riga.
+
 ## Risultati (prova pre-registrata, run del 21/07/2026)
 
 | Dimensione | Risultato | Soglia pre-registrata |
